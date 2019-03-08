@@ -1,0 +1,60 @@
+! Title: Pi-Hole-Lists - German Fakenews
+! Expires: 7 days
+! Description: Block fake onlineshops. List taken from https://github.com/Akamaru/Pi-Hole-Lists/blob/master/fakenews-de.txt
+! Homepage: https://github.com/stonecrusher/filterlists/
+! License: Taken from https://github.com/Akamaru/Pi-Hole-Lists/
+! GitHub issues: https://github.com/stonecrusher/filterlists/issues
+! Redirect: https://raw.githubusercontent.com/stonecrusher/filterlists/master/fakenews-de.txt
+! Last updated: 2018-03-08
+
+
+
+||afd.de^$document
+||blog.halle-leaks.de^$document
+||contra-magazin.com^$document
+||crimekalender.wordpress.com^$document
+||de.news-front.info^$document
+||de.sputniknews.com^$document
+||denken-macht-frei.info^$document
+||deutsch.rt.com^$document
+||deutsche-stimme.de^$document
+||deutsche-wirtschafts-nachrichten.de^$document
+||diepresse.com^$document
+||dortmundecho.org^$document
+||einwanderungskritik.de^$document
+||epochtimes.de^$document
+||freiezeiten.net^$document
+||gloria.tv^$document
+||halle-leaks.de^$document
+||journalistenwatch.com^$document
+||kopp-report.de^$document
+||kulturstudio.info^$document
+||kulturstudio.wordpress.com^$document
+||michael-mannheimer.net^$document
+||news-front.info^$document
+||noch.info^$document
+||npd-mv.de^$document
+||politikstube.com^$document
+||politikversagen.net^$document
+||pressefreiheit24.wordpress.com^$document
+||rapefugees.net^$document
+||schluesselkindblog.com^$document
+||sputniknews.com^$document
+||theeuropean.de^$document
+||truth24.net^$document
+||unzensuriert.de^$document
+||volksstimme.de^$document
+||www.afd.de^$document
+||www.contra-magazin.com^$document
+||www.denken-macht-frei.info^$document
+||www.dortmundecho.org^$document
+||www.epochtimes.de^$document
+||www.freiezeiten.net^$document
+||www.journalistenwatch.com^$document
+||www.npd-mv.de^$document
+||www.politikversagen.net^$document
+||www.rapefugees.net^$document
+||www.theeuropean.de^$document
+||www.truth24.net^$document
+||www.unzensuriert.de^$document
+||www.volksstimme.de^$document
