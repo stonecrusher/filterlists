@@ -67,7 +67,7 @@
 ! (28.02.2019)
 ||a-s-art.de^$document
 ! (26.11.2018)
-||a-s-i-therapie.de ^$document
+||a-s-i-therapie.de^$document
 ! (22.05.2017)
 ||a2z-cyber.shop^$document
 ! (19.12.2018)
@@ -133,6 +133,8 @@
 ! (20.05.2015)
 ||adlogistics.nl^$document
 ! (12.08.2016)
+||adogadgets.com^$document
+! (12.03.2019)
 ||adoriginalschuhe.com^$document
 ! (13.09.2018)
 ||adschoenen.com^$document
@@ -209,6 +211,8 @@
 ! (20.02.2017)
 ||akku-laden.at^$document
 ! (30.01.2015)
+||akkubuy.de^$document
+! (14.03.2019)
 ||akkukaufen.at^$document
 ! (04.01.2016)
 ||akord-bau.at^$document
@@ -239,6 +243,8 @@
 ! (18.10.2018)
 ||alfter-raumausstattung.de^$document
 ! (21.02.2019)
+||aliccmarket.eu^$document
+! (14.03.2019)
 ||alisoniguelcf.com^$document
 ! (31.10.2016)
 ||all-men.de^$document
@@ -429,6 +435,8 @@
 ! (28.02.2019)
 ||asv-grenzland.de^$document
 ! (29.11.2018)
+||asv-motorsport.de^$document
+! (21.03.2019)
 ||atesco.de^$document
 ! (23.11.2018)
 ||atkraken.com^$document
@@ -459,12 +467,16 @@
 ! (07.01.2019)
 ||austriashoes.com^$document
 ! (17.03.2016)
+||autokauf1.de^$document
+! (21.03.2019)
 ||autoradio-gps-discount.com^$document
 ! (10.10.2018)
 ||autorampe.com^$document
 ! (23.11.2017)
 ||autotransporte.tk^$document
 ! (29.07.2015)
+||avalancher.store^$document
+! (14.03.2019)
 ||avalonscooters.com^$document
 ! (15.01.2014)
 ||avans24.de^$document
@@ -491,6 +503,8 @@
 ! (07.01.2015)
 ||babymarkt-24.eu^$document
 ! (19.10.2017)
+||bachtalrun.de^$document
+! (14.03.2019)
 ||backpacks.at^$document
 ! (29.01.2018)
 ||backstudio-dahlke-gmbh.de^$document
@@ -603,6 +617,10 @@
 ! (23.11.2017)
 ||bernhard-russ.de^$document
 ! (05.06.2018)
+||berryshop.store^$document
+! (18.03.2019)
+||berufskraftfahrer-europa.de^$document
+! (28.03.2019)
 ||best-alba.de^$document
 ! (25.09.2017)
 ||best-home.store^$document
@@ -685,6 +703,8 @@
 ! (25.10.2018)
 ||biomarkt-eseo.de^$document
 ! (18.10.2017)
+||biothane-laedchen.de^$document
+! (21.03.2019)
 ||bireshop.com^$document
 ! (21.08.2018)
 ||bistrorant-rosmarino.de^$document
@@ -739,6 +759,8 @@
 ! (16.12.2015)
 ||bognerjackesale.com^$document
 ! (24.01.2019)
+||bognerjackesale.com^$document
+! (18.03.2019)
 ||bollywood-passau.de^$document
 ! (08.11.2018)
 ||bonn.elektronik-gmbh.com^$document
@@ -817,6 +839,8 @@
 ! (11.04.2017)
 ||btair-travel.de^$document
 ! (24.01.2019)
+||btckraken.de^$document
+! (20.03.2019)
 ||buchbinderei-hohmann.de^$document
 ! (26.11.2018)
 ||buchhandel-leonberg.de^$document
@@ -855,6 +879,8 @@
 ! (22.08.2017)
 ||c8bycreate.com^$document
 ! (26.07.2016)
+||cabcub.de^$document
+! (14.03.2019)
 ||cafe-bistro-ahoi.de^$document
 ! (23.07.2018)
 ||cafe-discount.de^$document
@@ -913,7 +939,7 @@
 ! (07.02.2019)
 ||caps-store.de^$document
 ! (18.12.2015)
-||car-hifi-radio-adapter.eu ^$document
+||car-hifi-radio-adapter.eu^$document
 ! (20.02.2015)
 ||carethy.at^$document
 ! (10.09.2018)
@@ -925,6 +951,8 @@
 ! (18.06.2018)
 ||carlobond.de^$document
 ! (18.10.2018)
+||carola-stauche.de^$document
+! (28.03.2019)
 ||carrera-xmas.com^$document
 ! (29.11.2018)
 ||casor.de^$document
@@ -973,6 +1001,8 @@
 ! (12.06.2015)
 ||cheap-car-fuel.com^$document
 ! (01.12.2016)
+||cheap-media.shop^$document
+! (21.03.2019)
 ||cheapjeansstores.com^$document
 ! (27.11.2015)
 ||cherisy-film.de^$document
@@ -1005,7 +1035,7 @@
 ! (27.12.2016)
 ||cius.ch^$document
 ! (06.02.2015)
-||clan-of-xymox-fanbase.de ^$document
+||clan-of-xymox-fanbase.de^$document
 ! (04.10.2018)
 ||clan-suff-aao.de^$document
 ! (13.09.2018)
@@ -1099,14 +1129,20 @@
 ! (22.08.2017)
 ||csimgermany.com^$document
 ! (21.08.2018)
+||csmobiles.com^$document
+! (14.03.2019)
 ||currentelliottjeans.de^$document
 ! (07.07.2017)
+||cushingokrealtor.com^$document
+! (14.03.2019)
 ||cws-elektro.com^$document
 ! (07.03.2019)
 ||cyber-ship.com^$document
 ! (15.11.2018)
 ||cyber-yellow.shop^$document
 ! (04.03.2019)
+||cybexstore.de^$document
+! (21.03.2019)
 ||da-kava.store^$document
 ! (28.02.2019)
 ||dach-vorwerk.de^$document
@@ -1163,6 +1199,8 @@
 ! (23.11.2017)
 ||daytonroofingoh.com^$document
 ! (05.06.2018)
+||dcs-computers.com^$document
+! (14.03.2019)
 ||ddkwwstore.com^$document
 ! (29.01.2019)
 ||de-bags.com^$document
@@ -1187,6 +1225,8 @@
 ! (24.01.2019)
 ||deinkinderwagen.club^$document
 ! (19.02.2018)
+||deinpartysound.de^$document
+! (21.03.2019)
 ||deinschmuckladen.com^$document
 ! (27.02.2019)
 ||dellenreparatur-hagel.at^$document
@@ -1213,7 +1253,7 @@
 ! (20.02.2017)
 ||designdeintrikot.de^$document
 ! (20.02.2017)
-||designer-second-hand-shop.com ^$document
+||designer-second-hand-shop.com^$document
 ! (06.02.2015)
 ||designer.shopfordis.com^$document
 ! (28.02.2019)
@@ -1279,6 +1319,8 @@
 ! (08.07.2015)
 ||dieseluhrenberlin.com^$document
 ! (05.11.2015)
+||diesophiestore.com^$document
+! (21.03.2019)
 ||diez-hardware.de^$document
 ! (20.07.2015)
 ||diggedidope.de^$document
@@ -1345,6 +1387,8 @@
 ! (23.12.2015)
 ||dr-michael-mueller.de^$document
 ! (22.09.2017)
+||dramatischegestalten.de^$document
+! (21.03.2019)
 ||drbugre.xyz^$document
 ! (08.11.2018)
 ||drdedun.com^$document
@@ -1369,8 +1413,12 @@
 ! (16.10.2018)
 ||drschmittshop.com^$document
 ! (11.04.2017)
+||drschutz.at^$document
+! (21.03.2019)
 ||druckfuerdich.de^$document
 ! (07.03.2019)
+||dsh-clan.de^$document
+! (14.03.2019)
 ||dsnau.com^$document
 ! (24.01.2019)
 ||du-trauercafe.de^$document
@@ -1383,6 +1431,8 @@
 ! (21.01.2016)
 ||dulcatec.de^$document
 ! (16.01.2018)
+||duloustore.eu^$document
+! (14.03.2019)
 ||duodesign-nl.de^$document
 ! (07.07.2017)
 ||dust-buster.eu^$document
@@ -1405,6 +1455,8 @@
 ! (10.02.2017)
 ||e-avans.de^$document
 ! (04.05.2015)
+||e-halle.ch^$document
+! (21.03.2019)
 ||e-leclerc-market.de^$document
 ! (04.09.2015)
 ||e-majster.de^$document
@@ -1451,6 +1503,8 @@
 ! (24.01.2019)
 ||ecoflyway.com^$document
 ! (08.11.2018)
+||ecofuelenterprise.lt^$document
+! (13.03.2019)
 ||econn.eu^$document
 ! (06.06.2017)
 ||edesia.co.uk^$document
@@ -1465,6 +1519,8 @@
 ! (04.01.2015)
 ||eichelberg-dr.de^$document
 ! (25.10.2018)
+||eichenberg-im-spessart.de^$document
+! (21.03.2019)
 ||eichmann-profi-bike.store^$document
 ! (21.08.2018)
 ||eichmann-profi-bike24.store^$document
@@ -1481,6 +1537,10 @@
 ! (16.10.2018)
 ||einkaufende.com^$document
 ! (23.12.2015)
+||einrichtungsmarkt24.com^$document
+! (20.03.2019)
+||einrichtungsmarkt24.com^$document
+! (21.03.2019)
 ||eintrachtwaldhuck.de^$document
 ! (16.03.2017)
 ||eisenbahn24.com^$document
@@ -1543,6 +1603,8 @@
 ! (11.12.2014)
 ||elektrohoppe.de^$document
 ! (23.05.2016)
+||elektroluxury.com^$document
+! (25.03.2019)
 ||elektronik-bernard.de^$document
 ! (16.02.2016)
 ||elektronik-daniel.de^$document
@@ -1617,6 +1679,8 @@
 ! (12.08.2016)
 ||entsorgung-mce.de^$document
 ! (08.05.2017)
+||eonlinew.com^$document
+! (14.03.2019)
 ||eouboots.com^$document
 ! (20.01.2016)
 ||eowo.de^$document
@@ -1631,6 +1695,8 @@
 ! (28.02.2019)
 ||erzgebirgsreporter.de^$document
 ! (20.12.2018)
+||escapecheck-hamburg.de^$document
+! (21.03.2019)
 ||eselundziegenwandern.de^$document
 ! (10.09.2018)
 ||eslpqr.com^$document
@@ -1677,6 +1743,8 @@
 ! (28.12.2015)
 ||euscooters.com^$document
 ! (18.10.2017)
+||euthagroup.com^$document
+! (11.03.2019)
 ||euthanasiagroupeu.com^$document
 ! (26.11.2018)
 ||euthanint.org^$document
@@ -1777,6 +1845,8 @@
 ! (05.01.2017)
 ||fedop.eu^$document
 ! (09.05.2016)
+||feingoldscheideanstalt-seit1973.de^$document
+! (12.03.2019)
 ||feingoldscheideanstalt-seit1974.de^$document
 ! (07.02.2019)
 ||feistritztaler.at^$document
@@ -1821,6 +1891,8 @@
 ! (06.11.2018)
 ||financialplanner24.de^$document
 ! (05.06.2018)
+||finanz-vergleiche24.de^$document
+! (21.03.2019)
 ||findandmall.com^$document
 ! (20.12.2018)
 ||fines-art.de^$document
@@ -1859,6 +1931,8 @@
 ! (27.10.2017)
 ||flora-magazin.de^$document
 ! (23.11.2017)
+||flrnrtl.de^$document
+! (21.03.2019)
 ||flueha.ch^$document
 ! (22.09.2017)
 ||flytte-udlandet.dk^$document
@@ -1871,6 +1945,8 @@
 ! (30.11.2015)
 ||folkwoods.de^$document
 ! (26.11.2015)
+||folmy.de^$document
+! (28.03.2019)
 ||foodiac.de^$document
 ! (13.11.2017)
 ||fool4dance.nl^$document
@@ -1885,10 +1961,14 @@
 ! (31.10.2016)
 ||fopisa.ch^$document
 ! (10.08.2017)
+||forbestal.com^$document
+! (14.03.2019)
 ||forelle-vernich.de^$document
 ! (10.09.2018)
 ||forever-motion.de^$document
 ! (12.10.2016)
+||forsaleprey.com^$document
+! (28.03.2019)
 ||forschungglaser.de^$document
 ! (20.08.2018)
 ||forstundgarten.biz^$document
@@ -1933,6 +2013,8 @@
 ! (25.04.2017)
 ||freakgeims.ch^$document
 ! (09.01.2018)
+||free.kingcdiscounts.com^$document
+! (14.03.2019)
 ||freedomtreeltd.com^$document
 ! (18.10.2018)
 ||freerunnike.de^$document
@@ -2019,6 +2101,8 @@
 ! (22.11.2018)
 ||gartenhausdesigner.de^$document
 ! (22.05.2017)
+||gartenschulte.de^$document
+! (14.03.2019)
 ||gartensommer.shop^$document
 ! (02.07.2018)
 ||gartenstore24.net^$document
@@ -2037,6 +2121,8 @@
 ! (27.01.2015)
 ||ge2astore.top^$document
 ! (30.10.2017)
+||geba-paletten-moebel.de^$document
+! (28.03.2019)
 ||gebauer-schmidt.de^$document
 ! (07.07.2017)
 ||gebraucht24.ch^$document
@@ -2091,12 +2177,16 @@
 ! (29.12.2016)
 ||gesundheit-in-wien.at^$document
 ! (11.05.2015)
+||gesundheit-und-fitness-mittelrheinkreis.de^$document
+! (28.03.2019)
 ||getraenke-welt-online.de^$document
 ! (20.12.2018)
 ||getsforu.com^$document
 ! (08.06.2015)
 ||gewuerzerei.de^$document
 ! (20.02.2017)
+||gfi-cloud.de^$document
+! (28.03.2019)
 ||ggbagsale.com^$document
 ! (30.11.2015)
 ||ghhitzplus.com^$document
@@ -2111,6 +2201,8 @@
 ! (07.03.2019)
 ||ginsel-laban.de^$document
 ! (27.05.2016)
+||gisela-kallenbach.de^$document
+! (21.03.2019)
 ||giuseppe-sneaker-shop.com^$document
 ! (05.10.2015)
 ||giveandmore.de^$document
@@ -2121,6 +2213,8 @@
 ! (09.01.2015)
 ||global-design.at^$document
 ! (20.01.2015)
+||globus-cassus.org^$document
+! (13.03.2019)
 ||glueckaufstadt.de^$document
 ! (20.06.2016)
 ||gm-wibbeke.de^$document
@@ -2241,6 +2335,8 @@
 ! (29.01.2019)
 ||hallohaushaltsgerate.com^$document
 ! (23.11.2018)
+||halukstore.eu^$document
+! (14.03.2019)
 ||hamburg-elektronik.com^$document
 ! (26.11.2015)
 ||hammeljaeger.de^$document
@@ -2289,6 +2385,8 @@
 ! (22.11.2016)
 ||hauntedhouseyork.co.uk^$document
 ! (03.02.2016)
+||hauraus.at^$document
+! (21.03.2019)
 ||haus-gartenshop.net^$document
 ! (27.01.2015)
 ||haus-harmen-steinbarg.de^$document
@@ -2417,6 +2515,8 @@
 ! (20.09.2016)
 ||hollister-stuttgart.gaysingleparty.de^$document
 ! (02.01.2015)
+||holzfairy.de^$document
+! (28.03.2019)
 ||homoeopathie-praxis-kassel.de^$document
 ! (13.02.2019)
 ||honikel-fotografie.de^$document
@@ -2485,6 +2585,8 @@
 ! (20.12.2018)
 ||ifa-freunde-hh.de^$document
 ! (22.09.2017)
+||ifinegoods.com^$document
+! (14.03.2019)
 ||igateceogolfcup.com^$document
 ! (29.02.2016)
 ||ihr-haus-berater.de^$document
@@ -2495,6 +2597,8 @@
 ! (23.11.2017)
 ||ikliklmarket.eu^$document
 ! (07.03.2019)
+||illertissen-aktuell.de^$document
+! (25.03.2019)
 ||imaltengarten-maxhuette.de^$document
 ! (27.09.2017)
 ||imko-vom-mandelroeschen.de^$document
@@ -2639,6 +2743,8 @@
 ! (05.07.2018)
 ||jan-gabelstapler.de^$document
 ! (07.02.2019)
+||jasminfashionshop.com^$document
+! (14.03.2019)
 ||jc-h.de^$document
 ! (20.02.2017)
 ||jc-prozesse.de^$document
@@ -2649,6 +2755,8 @@
 ! (19.01.2017)
 ||jebanails.de^$document
 ! (25.10.2018)
+||jecomputer-diamonds.com^$document
+! (26.03.2019)
 ||jenseitsderangst.com^$document
 ! (18.10.2018)
 ||jerkic.de^$document
@@ -2716,7 +2824,7 @@
 ||justin-mps.de^$document
 ! (29.10.2018)
 ||juwelier-beck.at^$document
-! (10.09.2019)
+! (10.09.2018)
 ||jw05.de^$document
 ! (09.01.2018)
 ||jylxsstore.com^$document
@@ -2749,12 +2857,16 @@
 ! (14.06.2018)
 ||kaffeetraum.at^$document
 ! (18.02.2015)
+||kahltales.com^$document
+! (21.03.2019)
 ||kairospsicologia.com^$document
 ! (05.06.2018)
 ||kaiser-gaming.net^$document
 ! (15.01.2019)
 ||kaiser-technik.de^$document
 ! (24.01.2019)
+||kaisersaalgruppe.de^$document
+! (28.03.2019)
 ||kambayo.com^$document
 ! (07.07.2017)
 ||kamera-kontor.de^$document
@@ -2799,6 +2911,8 @@
 ! (07.01.2019)
 ||karina-fibich.at^$document
 ! (26.11.2018)
+||karl-malz.de^$document
+! (14.03.2019)
 ||kathis-nagelstube.de^$document
 ! (10.01.2019)
 ||katrinlampe.at^$document
@@ -2835,6 +2949,8 @@
 ! (01.12.2016)
 ||keimtoe.com^$document
 ! (18.01.2017)
+||keinpasskeinspass.de^$document
+! (14.03.2019)
 ||kellerer-direct.at^$document
 ! (13.02.2019)
 ||kelvinshop.de^$document
@@ -2923,6 +3039,8 @@
 ! (07.03.2019)
 ||klartext-lummel.de^$document
 ! (24.08.2017)
+||klartext.me^$document
+! (19.03.2019)
 ||klassikmobilfreunde.de^$document
 ! (10.03.2017)
 ||klaus-goldbach.de^$document
@@ -2973,6 +3091,8 @@
 ! (19.02.2018)
 ||konsolenkammer24.de^$document
 ! (01.10.2018)
+||konsolenkiste.de^$document
+! (14.03.2019)
 ||konsolenparadies.de^$document
 ! (28.12.2015)
 ||konsolenstation24.com^$document
@@ -2987,6 +3107,8 @@
 ! (12.02.2019)
 ||konzept-raum.de^$document
 ! (26.11.2018)
+||koogoshop.com^$document
+! (21.03.2019)
 ||korwerner.de^$document
 ! (12.10.2016)
 ||kosmetiksalon-bildschoen.de^$document
@@ -3027,6 +3149,8 @@
 ! (15.03.2018)
 ||kulturburg.ch^$document
 ! (04.05.2015)
+||kulturwecker.at^$document
+! (14.03.2019)
 ||kunst-fuer-menschenrechte.de^$document
 ! (18.06.2018)
 ||kunsthandlung-hecht.de^$document
@@ -3047,6 +3171,8 @@
 ! (11.05.2015)
 ||lagom-skandinavia.de^$document
 ! (21.02.2018)
+||lagunaspa.de^$document
+! (14.03.2019)
 ||lakobust.at^$document
 ! (20.08.2018)
 ||lakritznasen.de^$document
@@ -3167,6 +3293,8 @@
 ! (23.10.2017)
 ||lifa-core.de^$document
 ! (10.09.2018)
+||lifeathouse.com^$document
+! (14.03.2019)
 ||lifestyle-medikamente.com^$document
 ! (02.11.2015)
 ||lightluxurybags.com^$document
@@ -3229,6 +3357,8 @@
 ! (14.12.2015)
 ||lrstwc.com^$document
 ! (10.03.2016)
+||lubemag.de^$document
+! (14.03.2019)
 ||luckhairstylists.de^$document
 ! (16.01.2018)
 ||luckyebikes.de^$document
@@ -3257,6 +3387,8 @@
 ! (23.01.2015)
 ||lvsstore.com^$document
 ! (23.06.2016)
+||m-paycard.de^$document
+! (21.03.2019)
 ||m1-essen.de^$document
 ! (25.10.2018)
 ||mac-wow.de^$document
@@ -3351,12 +3483,16 @@
 ! (22.09.2017)
 ||martega.de^$document
 ! (07.03.2019)
+||martin-vieth.de^$document
+! (21.03.2019)
 ||martinbranz.de^$document
 ! (29.01.2019)
 ||martine-benz.de^$document
 ! (19.02.2018)
 ||martinlechner.ch^$document
 ! (31.10.2016)
+||martinoandperini.com^$document
+! (28.03.2019)
 ||martinsails.de^$document
 ! (13.07.2016)
 ||martinsnuggles.de^$document
@@ -3379,6 +3515,8 @@
 ! (19.10.2015)
 ||maxlaufschuhe.de^$document
 ! (27.03.2015)
+||maxxdrinks.com^$document
+! (14.03.2019)
 ||maxxipmusic.de^$document
 ! (06.08.2018)
 ||mb-training.net^$document
@@ -3397,6 +3535,8 @@
 ! (18.02.2015)
 ||media-dealz.de^$document
 ! (30.03.2015)
+||media-plus.shop^$document
+! (14.03.2019)
 ||media-restposten.de^$document
 ! (10.02.2015)
 ||mediaexpert-markt.de^$document
@@ -3447,6 +3587,8 @@
 ! (05.01.2015)
 ||meinsteuerpartner.at^$document
 ! (20.12.2018)
+||meisteralles.de^$document
+! (14.03.2019)
 ||memorialweb.de^$document
 ! (25.09.2017)
 ||memoryoptical.com^$document
@@ -3457,10 +3599,16 @@
 ! (27.12.2016)
 ||mento-online24.com^$document
 ! (05.01.2017)
+||merlin-tonka.de^$document
+! (21.03.2019)
+||merlin-tonka.de^$document
+! (21.03.2019)
 ||mesa-maehroboter.de^$document
 ! (13.12.2018)
 ||metalltechnik-noller.de^$document
 ! (29.01.2018)
+||meteoonline.at^$document
+! (21.03.2019)
 ||mfw-id2014.de^$document
 ! (31.10.2016)
 ||mgfoundation.co.uk^$document
@@ -3645,6 +3793,8 @@
 ! (11.02.2019)
 ||multimediamonster.eu^$document
 ! (30.10.2017)
+||munichrockstars.de^$document
+! (21.03.2019)
 ||murgtal-baeckerei.de^$document
 ! (11.01.2019)
 ||murtopia.at^$document
@@ -3803,6 +3953,8 @@
 ! (14.08.2018)
 ||nikolasklostermann.de^$document
 ! (05.01.2017)
+||nikstein.at^$document
+! (21.03.2019)
 ||niusmart.shop^$document
 ! (23.01.2019)
 ||nizza-azur.de^$document
@@ -3831,6 +3983,8 @@
 ! (13.11.2017)
 ||notebooks-reichelt.de^$document
 ! (23.07.2018)
+||noweight.de^$document
+! (14.03.2019)
 ||nowoparts.de^$document
 ! (29.01.2019)
 ||nowsale.de^$document
@@ -3871,6 +4025,8 @@
 ! (01.02.2017)
 ||oeko-naturprodukte.de^$document
 ! (02.07.2018)
+||oevl.at^$document
+! (21.03.2019)
 ||officealchemy.co.uk^$document
 ! (20.07.2015)
 ||officialiphoneunlock.co.uk^$document
@@ -3915,7 +4071,7 @@
 ! (30.01.2015)
 ||onlineschuhe2016.de^$document
 ! (10.03.2017)
-||oooh-la-la.co.uk ^$document
+||oooh-la-la.co.uk^$document
 ! (01.06.2016)
 ||openloose.at^$document
 ! (29.01.2019)
@@ -4077,8 +4233,12 @@
 ! (31.10.2016)
 ||pfefferminzl-geschenke.de^$document
 ! (23.10.2017)
+||pferdegesundheit-muensterland.de^$document
+! (28.03.2019)
 ||pferdehof-wieckenberg.de^$document
 ! (07.06.2018)
+||pflegeheim-singer.at^$document
+! (14.03.2019)
 ||pflegeleicht-band.de^$document
 ! (13.11.2017)
 ||pflegeservice-info.de^$document
@@ -4109,6 +4269,8 @@
 ! (07.02.2019)
 ||pindeck.de^$document
 ! (05.06.2018)
+||pipa-dongya.de^$document
+! (21.03.2019)
 ||pir-gmbh.de^$document
 ! (28.02.2019)
 ||pitchfork.ch^$document
@@ -4131,6 +4293,8 @@
 ! (12.06.2018)
 ||platons-gyros-paradies.de^$document
 ! (20.12.2018)
+||playstation24.de^$document
+! (25.03.2019)
 ||playstation4-online.co^$document
 ! (20.01.2016)
 ||playstation4-online.com^$document
@@ -4149,6 +4313,8 @@
 ! (20.04.2015)
 ||polooutletdeutschland.com^$document
 ! (30.01.2015)
+||poly-mind.de^$document
+! (14.03.2019)
 ||pop-perlen.de^$document
 ! (20.01.2015)
 ||posten-waren.de^$document
@@ -4163,6 +4329,8 @@
 ! (07.07.2017)
 ||pptsoshop.xyz^$document
 ! (28.02.2019)
+||pr-agentur-schweiz.de^$document
+! (14.03.2019)
 ||praktischeidee.com^$document
 ! (28.02.2019)
 ||pranalogie.ch^$document
@@ -4197,6 +4365,8 @@
 ! (20.12.2018)
 ||pressearbeit-auf-erfolgsbasis.de^$document
 ! (07.02.2019)
+||pretty-woman-bramsche.de^$document
+! (14.03.2019)
 ||primehyp.de^$document
 ! (23.11.2018)
 ||primetime-artist-management.de^$document
@@ -4331,6 +4501,8 @@
 ! (08.05.2017)
 ||raum1889.de^$document
 ! (27.08.2018)
+||raum192.de^$document
+! (21.03.2019)
 ||raumsound.com^$document
 ! (27.12.2016)
 ||raven-promo.com^$document
@@ -4497,15 +4669,19 @@
 ! (26.08.2016)
 ||reitstall-boje.de^$document
 ! (10.03.2017)
+||reitstunden24.de^$document
+! (21.03.2019)
 ||reittherapie-celle.de^$document
 ! (10.08.2017)
+||reitz-consulting.de^$document
+! (11.03.2019)
 ||rekami.de^$document
 ! (09.08.2017)
 ||reklamyobrotowe.com^$document
 ! (24.08.2017)
 ||relaxify.de^$document
 ! (21.02.2019)
-||remax-top-immobilien-hamburg.de ^$document
+||remax-top-immobilien-hamburg.de^$document
 ! (14.06.2018)
 ||rencontres.at^$document
 ! (07.01.2019)
@@ -4541,6 +4717,8 @@
 ! (06.06.2017)
 ||revster.de^$document
 ! (19.02.2017)
+||reysanfotografo.com^$document
+! (14.03.2019)
 ||rezeptfrei-24.com^$document
 ! (13.02.2019)
 ||rezeptfrei-bestellen.net^$document
@@ -4571,6 +4749,8 @@
 ! (27.10.2015)
 ||ride-a-bike.net^$document
 ! (28.08.2018)
+||ridutas.eu^$document
+! (13.03.2019)
 ||ridvibramschuhe.top^$document
 ! (06.08.2018)
 ||riekershoes.me.uk^$document
@@ -4595,8 +4775,12 @@
 ! (12.06.2018)
 ||robomotion24.de^$document
 ! (09.08.2017)
+||rockandrolltrio-berlin.de^$document
+! (14.03.2019)
 ||rockinoberhavel.de^$document
 ! (20.02.2017)
+||rockymotorsports.de^$document
+! (26.03.2019)
 ||rocwitty.com^$document
 ! (20.01.2017)
 ||roibvr.online^$document
@@ -4613,8 +4797,12 @@
 ! (28.02.2017)
 ||rotaryevents.ca^$document
 ! (28.11.2018)
+||rotbarschfilet.de^$document
+! (21.03.2019)
 ||rotkatoutlet.com^$document
 ! (29.11.2018)
+||rottclimb.de^$document
+! (14.03.2019)
 ||routershop365.de^$document
 ! (22.08.2017)
 ||royal-gold-speyer.de^$document
@@ -4687,6 +4875,8 @@
 ! (14.02.2019)
 ||salsabor.at^$document
 ! (20.06.2016)
+||sammlung-fiede.de^$document
+! (14.03.2019)
 ||samona-reitsport.ch^$document
 ! (22.09.2017)
 ||samsungbilliger.de^$document
@@ -4695,12 +4885,16 @@
 ! (26.08.2016)
 ||sanierung-weber.de^$document
 ! (18.10.2017)
+||santikadesign.com^$document
+! (14.03.2019)
 ||sardinien-sailingcharter.de^$document
 ! (20.08.2018)
 ||saschas-fotowelten.de^$document
 ! (24.08.2017)
 ||sat1shopping.de^$document
 ! (29.02.2016)
+||saturdayfrank.de^$document
+! (14.03.2019)
 ||sauber-macher.com^$document
 ! (16.11.2016)
 ||saubersauger.com^$document
@@ -4809,6 +5003,8 @@
 ! (17.01.2019)
 ||screen-image.com^$document
 ! (28.02.2019)
+||scribblepen.com^$document
+! (25.03.2019)
 ||scriptdemos.de^$document
 ! (08.05.2017)
 ||sdeclessons.com^$document
@@ -4873,6 +5069,8 @@
 ! (26.11.2018)
 ||shop-schuh-online.com^$document
 ! (25.05.2016)
+||shop.strato.de^$document
+! (28.03.2019)
 ||shopbird.de^$document
 ! (22.01.2016)
 ||shopbootsonline.com^$document
@@ -4895,6 +5093,8 @@
 ! (24.01.2019)
 ||shops-tech.eu^$document
 ! (28.11.2017)
+||shoptesta.de^$document
+! (29.03.2019)
 ||shopuup.com^$document
 ! (08.11.2018)
 ||shopvn.de^$document
@@ -4941,6 +5141,8 @@
 ! (24.08.2017)
 ||sk-biografien.de^$document
 ! (28.12.2016)
+||skill-tools.com^$document
+! (21.03.2019)
 ||skisaleshop.com^$document
 ! (16.01.2018)
 ||skiundwandern-klardorf.de^$document
@@ -4975,6 +5177,10 @@
 ! (29.01.2018)
 ||smartphone-checkpoint.com^$document
 ! (16.02.2016)
+||smartphone-diamonds.com^$document
+! (14.03.2019)
+||smartphoniker-shop.de^$document
+! (19.03.2019)
 ||smartwatch-vertrieb.de^$document
 ! (16.01.2018)
 ||smartwohnenwien.at^$document
@@ -5015,12 +5221,16 @@
 ! (07.07.2017)
 ||softonlineshop.com^$document
 ! (25.04.2016)
+||software-outlet24.de^$document
+! (20.03.2019)
 ||soldatkin24.com^$document
 ! (27.06.2016)
 ||soldes-luxe.com^$document
 ! (11.04.2017)
 ||soli-stjohann.at^$document
 ! (20.12.2018)
+||solidrockho.com^$document
+! (21.03.2019)
 ||solsport.de^$document
 ! (23.11.2018)
 ||somainja.de^$document
@@ -5161,8 +5371,12 @@
 ! (18.10.2017)
 ||steintherm-marburg.de^$document
 ! (07.01.2016)
+||stephanelaniray.com^$document
+! (21.03.2019)
 ||sternen-seon.ch^$document
 ! (22.11.2016)
+||steroide-kaufen.com^$document
+! (18.03.2019)
 ||steroidehaus.net^$document
 ! (19.02.2016)
 ||steroidemasse.net^$document
@@ -5233,8 +5447,14 @@
 ! (13.02.2019)
 ||superakkumarkt.de^$document
 ! (24.01.2019)
+||superbowling-businesscup.de^$document
+! (21.03.2019)
 ||superdryde.com^$document
 ! (11.10.2016)
+||superdryonlineshop.de^$document
+! (14.03.2019)
+||superfitchaussures.fr^$document
+! (28.03.2019)
 ||superheromovie.co.uk^$document
 ! (31.10.2016)
 ||superschuhenwelt.de.com^$document
@@ -5257,9 +5477,11 @@
 ! (15.10.2015)
 ||sweetsisterpain.de^$document
 ! (07.07.2017)
+||swhbs.de^$document
+! (28.03.2019)
 ||swipewire.de^$document
 ! (29.10.2018)
-||swiss-modell-truck-trial.ch ^$document
+||swiss-modell-truck-trial.ch^$document
 ! (31.10.2016)
 ||swizzy.de^$document
 ! (22.01.2016)
@@ -5271,6 +5493,10 @@
 ! (24.01.2019)
 ||symbolon-kartenberatung-wimmer.de^$document
 ! (29.01.2019)
+||syncroholic.de^$document
+! (21.03.2019)
+||synergywenatchee.com^$document
+! (21.03.2019)
 ||system-ordnung-struktur.de^$document
 ! (20.08.2018)
 ||szepes-lagerverkauf.de^$document
@@ -5289,6 +5515,8 @@
 ! (14.08.2018)
 ||tagungsarrangements.de^$document
 ! (07.11.2016)
+||tanzstudio-poehlitz.de^$document
+! (21.03.2019)
 ||tanzstudiosteiner.de^$document
 ! (29.10.2018)
 ||taschenkaufhaus-24.de^$document
@@ -5305,6 +5533,8 @@
 ! (20.12.2018)
 ||tc-beinhart.de^$document
 ! (03.08.2015)
+||tc-heide-bottrop.de^$document
+! (14.03.2019)
 ||tcduedingen.ch^$document
 ! (01.03.2016)
 ||team-enjoy.de^$document
@@ -5389,6 +5619,8 @@
 ! (23.11.2018)
 ||themiride.com^$document
 ! (21.11.2018)
+||thephotostick.com^$document
+! (14.03.2019)
 ||thera-lauf.de^$document
 ! (28.12.2016)
 ||thermo-aktion24.com^$document
@@ -5409,6 +5641,8 @@
 ! (12.06.2018)
 ||thewatchmaker1.weebly.com^$document
 ! (13.07.2015)
+||thg.co.at^$document
+! (21.03.2019)
 ||thielebuch.de^$document
 ! (27.12.2016)
 ||thomas-saboarmband.de^$document
@@ -5440,13 +5674,15 @@
 ||timberlands-onlineshop.de^$document
 ! (26.11.2018)
 ||timberlandusonlineoutlet.com^$document
-! (17.01.2018)
+||><listyle="display:list-item;">^$document
 ||time4pain.de^$document
 ! (10.01.2019)
 ||tischlermeister-loening.de^$document
 ! (20.08.2018)
 ||titansupps.de^$document
 ! (07.01.2019)
+||tjcslshop.com^$document
+! (11.03.2019)
 ||tjilomall.xyz^$document
 ! (29.10.2018)
 ||tkazeshop.com^$document
@@ -5513,6 +5749,8 @@
 ! (07.03.2019)
 ||trainerstorunshoes.uk.com^$document
 ! (11.10.2018)
+||traininghm.de^$document
+! (28.03.2019)
 ||transporte-jenshofmann.de^$document
 ! (27.02.2018)
 ||transporte-wiesbaden.de^$document
@@ -5533,6 +5771,8 @@
 ! (28.02.2019)
 ||trendsettersclothes.com^$document
 ! (02.11.2015)
+||trendy-gadgets.net^$document
+! (12.03.2019)
 ||trendy.to^$document
 ! (11.01.2016)
 ||treyuwd.top^$document
@@ -5547,7 +5787,7 @@
 ! (30.11.2015)
 ||trockner-outlet.de^$document
 ! (25.04.2017)
-||tropical-expert.eu/index.php/de ^$document
+||tropical-expert.eu/index.php/de^$document
 ! (14.08.2018)
 ||trustrank.com.au^$document
 ! (01.06.2016)
@@ -5565,12 +5805,16 @@
 ! (06.08.2018)
 ||tulvgbolle.de^$document
 ! (31.10.2016)
+||tuntelimem.de^$document
+! (21.03.2019)
 ||turismilab.it^$document
 ! (20.01.2016)
 ||turnschuhenon-line.net^$document
 ! (27.01.2015)
 ||turnschuhetrainer.com^$document
 ! (26.07.2016)
+||turquaz-gelnhausen.de^$document
+! (21.03.2019)
 ||tus-store.de^$document
 ! (05.07.2016)
 ||tvicommerce.co.uk^$document
@@ -5591,6 +5835,8 @@
 ! (21.12.2016)
 ||uclgstore.top^$document
 ! (23.11.2017)
+||uda-heller.de^$document
+! (28.03.2019)
 ||uggau.de^$document
 ! (23.12.2015)
 ||uggcp.com^$document
@@ -5611,8 +5857,12 @@
 ! (20.12.2018)
 ||ulrikenowak.de^$document
 ! (20.07.2017)
+||umshopp.com^$document
+! (28.03.2019)
 ||umziehen-in-europa.de^$document
 ! (16.01.2015)
+||undnach.de^$document
+! (14.03.2019)
 ||unikaefer.de^$document
 ! (11.06.2018)
 ||united-fashion-event.de^$document
@@ -5637,6 +5887,8 @@
 ! (22.09.2015)
 ||usupa.eu^$document
 ! (16.02.2015)
+||utagice.de^$document
+! (14.03.2019)
 ||uuaca.com^$document
 ! (08.11.2018)
 ||uug-berlin.de^$document
@@ -5665,6 +5917,8 @@
 ! (24.08.2017)
 ||vbkuschel.de^$document
 ! (26.09.2017)
+||vbltrade.top^$document
+! (21.03.2019)
 ||vc-hoevelhof.de^$document
 ! (30.03.2018)
 ||vd-mediendesign.de^$document
@@ -5715,6 +5969,8 @@
 ! (21.02.2019)
 ||vesttag.de^$document
 ! (10.01.2019)
+||vfl-kassel-98er-jahrgang.de^$document
+! (28.03.2019)
 ||vidasimples.de^$document
 ! (22.09.2017)
 ||vimabel.de^$document
@@ -5855,6 +6111,8 @@
 ! (06.06.2018)
 ||waterguard3000.de^$document
 ! (19.12.2018)
+||wavecockpit.de^$document
+! (28.03.2019)
 ||wavesgodclothing.com^$document
 ! (01.12.2016)
 ||web-spezialist.net^$document
@@ -5913,6 +6171,8 @@
 ! (15.03.2016)
 ||wellensteyshop.com^$document
 ! (16.12.2015)
+||wellness-vierseithof.de^$document
+! (21.03.2019)
 ||welovetuktuk.at^$document
 ! (16.01.2018)
 ||welt-schamane.de^$document
@@ -5947,6 +6207,8 @@
 ! (07.07.2017)
 ||wersammeltwas.de^$document
 ! (08.11.2018)
+||weskagoods.eu^$document
+! (14.03.2019)
 ||wewbay.com^$document
 ! (22.01.2019)
 ||wg-abi94.de^$document
@@ -5967,12 +6229,14 @@
 ! (20.04.2015)
 ||wiemanlebensoll.at^$document
 ! (20.07.2017)
-||wilcox-property-services.co.uk ^$document
+||wilcox-property-services.co.uk^$document
 ! (18.10.2017)
 ||wildfeuermedia.de^$document
 ! (26.09.2017)
 ||wildsabine.de^$document
 ! (05.06.2018)
+||willert-textildruck.de^$document
+! (21.03.2019)
 ||win-wetterau.de^$document
 ! (30.01.2018)
 ||winnerattop.com^$document
@@ -5993,12 +6257,16 @@
 ! (12.10.2016)
 ||winterreifen-im-test.de^$document
 ! (12.06.2018)
+||wir-bodensee.de^$document
+! (28.03.2019)
 ||wir-diefreiburgerinnenstadt.de^$document
 ! (27.02.2018)
 ||wir-hebammen.at^$document
 ! (28.02.2019)
 ||wir-in-bargstedt.de^$document
 ! (18.10.2017)
+||wir-neu-wulmstorfer.de^$document
+! (14.03.2019)
 ||wissenstransfer-berlin.de^$document
 ! (05.09.2016)
 ||wmwmstore.com^$document
@@ -6015,13 +6283,15 @@
 ! (22.01.2019)
 ||wolfgang-felix-k.de^$document
 ! (18.01.2017)
+||wolfhund-erlangen.de^$document
+! (14.03.2019)
 ||wolfram-gum.de^$document
 ! (16.01.2018)
 ||wollwerk-und-naehreich.de^$document
 ! (20.12.2018)
 ||woolrichoutlet.co.uk^$document
 ! (12.03.2015)
-||world-of-coffee.co.at ^$document
+||world-of-coffee.co.at^$document
 ! (05.05.2015)
 ||world-of-mobiles.es^$document
 ! (29.12.2014)
@@ -6079,6 +6349,8 @@
 ! (06.06.2017)
 ||xspace.at^$document
 ! (27.03.2015)
+||xuenuosale.com^$document
+! (21.03.2019)
 ||xxl-socken-shop.de^$document
 ! (22.05.2017)
 ||xyhora.de^$document
@@ -6093,14 +6365,20 @@
 ! (27.12.2016)
 ||yeezystorede.com^$document
 ! (16.01.2018)
+||yolingen.de^$document
+! (21.03.2019)
 ||youcomelive.com^$document
 ! (07.06.2018)
+||youngdrummersconvention.at^$document
+! (21.03.2019)
 ||yourfoodshop.de^$document
 ! (23.11.2017)
 ||youwins.ch^$document
 ! (12.01.2017)
 ||ytjper.com^$document
 ! (20.08.2018)
+||zabomo.de^$document
+! (21.03.2019)
 ||zafafmarket.com^$document
 ! (10.12.2018)
 ||zahnarzt-schreck.de^$document
@@ -6172,12 +6450,6 @@
 ||zzjdhcstore.com^$document
 ! (29.01.2019)
 
-
-! https://www.heise.de/forum/heise-online/News-Kommentare/Hindernisse-im-Kampf-gegen-Fakeshops-im-Internet/Zufaellig-gestern-drueber-gestolpert-Lowa/posting-32175779/show/
-||bachtalrun.de^$document
-||rockandrolltrio-berlin.de^$document
-||wolfhund-erlangen.de^$document
-||wir-neu-wulmstorfer.de^$document
 
 ! Frontal21 vom 05.03.2019
 ! https://www.youtube.com/watch?v=_AZN-yAEFVM
