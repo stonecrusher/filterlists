@@ -5,7 +5,7 @@
 ! License: Taken from https://www.watchlist-internet.at/alle-themen/
 ! GitHub issues: https://github.com/stonecrusher/filterlists/issues
 ! Redirect: https://raw.githubusercontent.com/stonecrusher/filterlists/master/WI-fakeshops.txt
-! Last updated: 2018-03-08
+! Last updated: 2019-03-31
 
 ! Date of domain addition is in the comment below
 
@@ -3927,8 +3927,6 @@
 ! (27.02.2018)
 ||orangedust.de^$document
 ! (22.09.2017)
-||orf.at^$document
-! ()
 ||orgelbau-weitendorf.de^$document
 ! (20.12.2018)
 ||original-equipment-partsshop.com^$document
