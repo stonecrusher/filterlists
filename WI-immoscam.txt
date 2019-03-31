@@ -5,7 +5,7 @@
 ! License: Taken from https://www.watchlist-internet.at/alle-themen/
 ! GitHub issues: https://github.com/stonecrusher/filterlists/issues
 ! Redirect: https://raw.githubusercontent.com/stonecrusher/filterlists/master/WI-immoscam.txt
-! Last updated: 2018-03-08
+! Last updated: 2019-03-31
 
 ! Date of domain addition is in the comment below
 
@@ -103,6 +103,8 @@
 ! (13.01.2017)
 ||triuva-property.com^$document
 ! (05.02.2016)
+||trust-real-estate.com^$document
+! (18.03.2019)
 ||viva-immo.com^$document
 ! (26.09.2016)
 ||voss-estate.com^$document
