@@ -5,7 +5,7 @@
 ! License: Taken from https://www.watchlist-internet.at/alle-themen/
 ! GitHub issues: https://github.com/stonecrusher/filterlists/issues
 ! Redirect: https://raw.githubusercontent.com/stonecrusher/filterlists/master/WI-streamingscam.txt
-! Last updated: 2018-03-08
+! Last updated: 2019-03-31
 
 ! Date of domain addition is in the comment below
 
@@ -13,6 +13,8 @@
 ! (04.03.2019)
 ||adostream.de^$document
 ! (21.02.2019)
+||aloflix.de^$document
+! (14.03.2019)
 ||amostream.de^$document
 ! (21.02.2019)
 ||appleflix.de^$document
@@ -33,6 +35,8 @@
 ! (21.02.2019)
 ||binoflix.de^$document
 ! (21.02.2019)
+||birdflix.de^$document
+! (14.03.2019)
 ||blueflix.de^$document
 ! (21.02.2019)
 ||bobflix.de^$document
@@ -69,6 +73,8 @@
 ! (21.02.2019)
 ||daflix.de^$document
 ! (21.02.2019)
+||daftstream.de^$document
+! (25.03.2019)
 ||dasflix.de^$document
 ! (21.02.2019)
 ||dasimax.de^$document
@@ -99,6 +105,8 @@
 ! (21.02.2019)
 ||filmpalast24.com^$document
 ! (21.02.2019)
+||finflix.de^$document
+! (18.03.2019)
 ||flexkino.com^$document
 ! (21.02.2019)
 ||flixago.de^$document
@@ -225,6 +233,8 @@
 ! (21.02.2019)
 ||lexflix.de^$document
 ! (21.02.2019)
+||lightflix.de^$document
+! (11.03.2019)
 ||likeflix.de^$document
 ! (21.02.2019)
 ||limeflix.de^$document
@@ -263,6 +273,8 @@
 ! (21.02.2019)
 ||migoplay.de^$document
 ! (21.02.2019)
+||modoflix.de^$document
+! (18.03.2019)
 ||momoflix.de^$document
 ! (21.02.2019)
 ||momostream.de^$document
@@ -277,6 +289,10 @@
 ! (26.02.2019)
 ||nexostream.de^$document
 ! (21.02.2019)
+||noliflix.de^$document
+! (26.03.2019)
+||nolistream.de^$document
+! (26.03.2019)
 ||noxflix.de^$document
 ! (21.02.2019)
 ||obiplay.de^$document
@@ -311,12 +327,18 @@
 ! (21.02.2019)
 ||rexkino.com^$document
 ! (21.02.2019)
+||robiflix.de^$document
+! (19.03.2019)
 ||rostream.de^$document
 ! (21.02.2019)
 ||rotflix.de^$document
 ! (21.02.2019)
 ||roxflix.de^$document
 ! (21.02.2019)
+||saflix.de^$document
+! (25.03.2019)
+||savaflix.de^$document
+! (25.03.2019)
 ||segastream.de^$document
 ! (21.02.2019)
 ||sobastream.de^$document
@@ -329,6 +351,8 @@
 ! (21.02.2019)
 ||soloflix.de^$document
 ! (21.02.2019)
+||someflix.de^$document
+! (26.03.2019)
 ||soyaflix.de^$document
 ! (21.02.2019)
 ||stream.tox^$document
@@ -381,6 +405,8 @@
 ! (21.02.2019)
 ||tostream.de^$document
 ! (21.02.2019)
+||triflix.de^$document
+! (27.03.2019)
 ||tutoflix.de^$document
 ! (21.02.2019)
 ||unoflix.de^$document
@@ -391,6 +417,8 @@
 ! (21.02.2019)
 ||weflix.de^$document
 ! (21.02.2019)
+||windflix.de^$document
+! (11.03.2019)
 ||woplay.de^$document
 ! (21.02.2019)
 ||wowflix.de^$document
