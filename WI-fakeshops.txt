@@ -1,11 +1,10 @@
-! Title: Watchlist Internet - Fake shops
-! Expires: 7 days
-! Description: Block fake onlineshops. List taken from watchlist-internet.at
-! Homepage: https://github.com/stonecrusher/filterlists/
-! License: Taken from https://www.watchlist-internet.at/alle-themen/
-! GitHub issues: https://github.com/stonecrusher/filterlists/issues
-! Redirect: https://raw.githubusercontent.com/stonecrusher/filterlists/master/WI-fakeshops.txt
-! Last updated: 2019-03-31
+! Title:        Watchlist Internet - Fake shops
+! Expires:      7 days
+! Description:  Block fake onlineshops. List taken from watchlist-internet.at
+! Homepage:     https://github.com/stonecrusher/filterlists/
+! License:      Taken from https://www.watchlist-internet.at/alle-themen/
+! Redirect:     https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
+! Last updated: 2019-05-08
 
 ! Date of domain addition is in the comment below
 
