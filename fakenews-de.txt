@@ -1,11 +1,11 @@
 ! Title: Pi-Hole-Lists - German Fakenews
 ! Expires: 7 days
-! Description: Block fake onlineshops. List taken from https://github.com/Akamaru/Pi-Hole-Lists/blob/master/fakenewsde.txt
+! Description: Block domains known for fakenews (german). List taken from https://github.com/Akamaru/Pi-Hole-Lists/blob/master/fakenewsde.txt
 ! Homepage: https://github.com/stonecrusher/filterlists/
 ! License: Taken from https://github.com/Akamaru/Pi-Hole-Lists/
 ! GitHub issues: https://github.com/stonecrusher/filterlists/issues
 ! Redirect: https://raw.githubusercontent.com/stonecrusher/filterlists/master/fakenews-de.txt
-! Last updated: 2019-04-24
+! Last updated: 2019-05-12
 
 
 ||afd.de^$document
