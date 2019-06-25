@@ -31,7 +31,7 @@
 ||wa.ui-portal.de^
 ||nct.ui-portal.de^
 ||js.ui-portal.de/*/homepage.js|
-||js.ui-portal.de/*/homepage.min.js|
+!||js.ui-portal.de/*/homepage.min.js|
 ||js.ui-portal.de/freemail/css/ad-rightColumn.css|
 ||img.ui-portal.de/splash/$image
 ||img.ui-portal.de/*/produkte/
