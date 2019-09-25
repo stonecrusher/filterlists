@@ -4,10 +4,11 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2019-08-19
+! Last updated:  2019-09-25
 
 !!! Fake online shops:
 ||007drones.de^$document
+||1111federalhill.com^$document
 ||11bar-hamburg.de^$document
 ||12-suchen.de^$document
 ||123buy.eu^$document
@@ -30,6 +31,7 @@
 ||3ui.co.uk^$document
 ||3wettomat.de^$document
 ||42tage.de^$document
+||4fathersphilly.com^$document
 ||4objects.de^$document
 ||4schmuck.com^$document
 ||5-jahre-weltwaerts.de^$document
@@ -49,8 +51,10 @@
 ||ablageshop.de^$document
 ||absatzzeilen.at^$document
 ||abundzu-band.de^$document
+||acaciay.com^$document
 ||acad-it.nl^$document
 ||accop.fr^$document
+||acting-studio.de^$document
 ||actiparc.ch^$document
 ||ad-stelle.de^$document
 ||adavidgoods.eu^$document
@@ -75,6 +79,7 @@
 ||adisalesde.com^$document
 ||adk-praxis.de^$document
 ||adlogistics.nl^$document
+||admec-development.com^$document
 ||adogadgets.com^$document
 ||adoriginalschuhe.com^$document
 ||adschoenen.com^$document
@@ -82,6 +87,7 @@
 ||ae69.de^$document
 ||aegidi-grill.de^$document
 ||aegt.de^$document
+||aemmestore.it^$document
 ||aerzte-romanplatz.de^$document
 ||aerztehaus-am-guardinipark.de^$document
 ||aesthetic-duesseldorf.de^$document
@@ -123,9 +129,11 @@
 ||akkubuy.de^$document
 ||akkukaufen.at^$document
 ||akord-bau.at^$document
+||akp-pflege.de^$document
 ||akqit.ch^$document
 ||aktion-annerose.de^$document
 ||aktivort.com^$document
+||aktmodel-sarah.de^$document
 ||aktuelle-internetkartei.de^$document
 ||akuhel.de^$document
 ||akutdesign.de^$document
@@ -185,6 +193,7 @@
 ||and2.ch^$document
 ||andhrainformation.com^$document
 ||andiamo-wmk.de^$document
+||andreasrollo.de^$document
 ||androidrubik.com^$document
 ||andyenglishauthor.com^$document
 ||anemdzmarket.com^$document
@@ -194,6 +203,7 @@
 ||animalspot.it^$document
 ||animo-tempel.at^$document
 ||anjadaube.de^$document
+||ankde.com^$document
 ||anmive.com^$document
 ||anna-luisenhof.de^$document
 ||annakarin.de^$document
@@ -202,14 +212,17 @@
 ||annikaland.de^$document
 ||annymoremusic.de^$document
 ||anotherweekend.co.uk^$document
+||anras-golden.de^$document
 ||ansari-hardware.de^$document
 ||ansenso-publishing.de^$document
 ||antik-galerie-bad-urach.de^$document
+||antik-kump.at^$document
 ||antikuhren-fachklinik.de^$document
 ||antimonotree.de^$document
 ||antiquariat-harrisons.de^$document
 ||antique-design-art.de^$document
 ||anwaelte-whb.de^$document
+||anwalt-wendelmuth.de^$document
 ||ao-keiper.de^$document
 ||apartment-badsalzuflen.de^$document
 ||apctechgroup.com^$document
@@ -244,6 +257,7 @@
 ||art2printstudio.co.uk^$document
 ||artbeatofthecity.com^$document
 ||arthouse.co.at^$document
+||articleunion.com^$document
 ||artigfein.de^$document
 ||artsimorgh.com^$document
 ||arturheitkamp-verlag.de^$document
@@ -255,6 +269,7 @@
 ||asc-fribourg.ch^$document
 ||asf-muenchen-ost.de^$document
 ||asicsschuhereduziert.de^$document
+||asp-altona-nord.de^$document
 ||aspirepropertyinvest.com.au^$document
 ||astroskope-rosenau.de^$document
 ||astrum-pflege.de^$document
@@ -269,10 +284,12 @@
 ||atr-sprintportal.de^$document
 ||attendrai.com^$document
 ||attex-webdesign.de^$document
+||attractueye.com^$document
 ||audiosora.com^$document
 ||aufgewacht.at^$document
 ||aufjagd.de^$document
 ||augenoptiker-kuehne.de^$document
+||augustinusheim-fr.de^$document
 ||auremonlus.eu^$document
 ||aurynquest.de^$document
 ||ausstellungsartikel.info^$document
@@ -288,6 +305,7 @@
 ||avans24.de^$document
 ||aveshoe.com^$document
 ||avm-freiburg.de^$document
+||avsystemhaus.de^$document
 ||awakenyourmusic.com^$document
 ||axelsfilmshop.de^$document
 ||b-h-v-agentur.de^$document
@@ -299,6 +317,7 @@
 ||babylissprode.com^$document
 ||babymarkt-24.eu^$document
 ||babytraum.eu^$document
+||babywaage-test.de^$document
 ||bachtalrun.de^$document
 ||backlaedla.de^$document
 ||backpackonline.de^$document
@@ -319,6 +338,7 @@
 ||balzbambii.de^$document
 ||bambinitestblog.de^$document
 ||bambuskinder.de^$document
+||bangeronline.de^$document
 ||baraoke.de^$document
 ||barbara-suckow.de^$document
 ||barbourdeutschland.de^$document
@@ -327,17 +347,20 @@
 ||barhufpflegerin-saarland.de^$document
 ||basketballtrikot.info^$document
 ||basteln-hauer.at^$document
+||bastelnmitbotschaft.de^$document
 ||bastisitblog.de^$document
 ||batharchaeology.org.uk^$document
 ||baubiologie-sauren.de^$document
 ||bauchladen-dresden.de^$document
 ||bauder-ewald.de^$document
 ||bauflaschnerei-weber.de^$document
+||baulongo.com^$document
 ||baumpflege-spoerl.de^$document
 ||bausteine.hottrendtou.com^$document
 ||bautenschutz-petersen.de^$document
 ||bautrocknung-in-stuttgart.de^$document
 ||bauwich.com^$document
+||bawabaonline.com^$document
 ||bawabaonline.com^$document
 ||bayerlok.de^$document
 ||bayern-hardware.com^$document
@@ -352,6 +375,7 @@
 ||be-gastroservice.de^$document
 ||be-mobile.store^$document
 ||beach.apparelsummer.com^$document
+||beamer-info-portal.de^$document
 ||beanmania.de^$document
 ||beanpoint.de^$document
 ||beat-projekte.de^$document
@@ -359,15 +383,19 @@
 ||beautyline-cosmetic.de^$document
 ||beautyoutlet.top^$document
 ||becausestudios.co.uk^$document
+||becker-lesen-schreiben-schenken.de^$document
 ||bedachung-franken.de^$document
 ||beelara.de^$document
 ||beerenschwester.de^$document
 ||beesforlease.de^$document
+||befocus-records.de^$document
 ||begenmarket.top^$document
 ||begun.laf-store.com^$document
+||beige.saletooffer.com^$document
 ||beleuchten.hottosale.com^$document
 ||bellsshop.de^$document
 ||belsimsale.xyz^$document
+||bengalkatzenzucht-deutschland.de^$document
 ||benitasashia.de^$document
 ||bennieblancos.co.uk^$document
 ||benomero.at^$document
@@ -402,7 +430,9 @@
 ||bestscamerafs.club^$document
 ||beststeroids.at^$document
 ||beststeroids.eu^$document
+||beta-elec.store^$document
 ||betnetonline.net^$document
+||bettina-dagmara.de^$document
 ||bettinger-weinert.de^$document
 ||bewegendewelt.de^$document
 ||bezgluten-nl.com^$document
@@ -412,7 +442,9 @@
 ||bicycleshopsonline.com^$document
 ||biedronka-sklep.de^$document
 ||biedronkamarkt.de^$document
+||biehs-leder.de^$document
 ||biema-kurierdienste.de^$document
+||bienes-kleintierpension.net^$document
 ||bigbagharbeck.de^$document
 ||bikeandmore-24.eu^$document
 ||bikestore24.net^$document
@@ -457,6 +489,7 @@
 ||blumen-allmann.de^$document
 ||blumen-hamester.de^$document
 ||blumen-hempel.de^$document
+||blumenhaus-weber.de^$document
 ||blumenlecker.at^$document
 ||blumenstudio-m.at^$document
 ||blvcx.com^$document
@@ -473,12 +506,14 @@
 ||bodytemperamento.ch^$document
 ||bognerjackesale.com^$document
 ||bognerjackesale.com^$document
+||bognerjackesale.com^$document
 ||bollywood-passau.de^$document
 ||bonn.elektronik-gmbh.com^$document
 ||bonnyin.at^$document
 ||booklethotel.com^$document
 ||boots2017de.com^$document
 ||bootsfun.co.uk^$document
+||bosa.shop^$document
 ||bothmatch.de^$document
 ||botko.de^$document
 ||botrim.de^$document
@@ -526,12 +561,16 @@
 ||bsvhamm.de^$document
 ||btair-travel.de^$document
 ||btckraken.de^$document
+||buch-geek.de^$document
 ||buchbinderei-hohmann.de^$document
+||buchetage.de^$document
 ||buchhaltung-ingelheim.de^$document
 ||buchhandel-leonberg.de^$document
+||buchliebe.eu^$document
 ||buchnetz24.de^$document
 ||buddy-x.de^$document
 ||budget-kauf24.com^$document
+||buecherei-sundern.de^$document
 ||buergerbegehren-neustadt.de^$document
 ||buergerverein-oberkassel.de^$document
 ||buero-buchfuehrung.de^$document
@@ -540,6 +579,7 @@
 ||buggywelt.net^$document
 ||buklu.de^$document
 ||buko-bamberg.de^$document
+||bumelnde.org^$document
 ||bunno.xyz^$document
 ||buntbarschbecken.de^$document
 ||buntes-digital.de^$document
@@ -552,6 +592,7 @@
 ||c8bycreate.com^$document
 ||cabanella.de^$document
 ||cabcub.de^$document
+||cafe-am-markt-weilheim.de^$document
 ||cafe-bistro-ahoi.de^$document
 ||cafe-discount.de^$document
 ||cafe-vorspiel.de^$document
@@ -560,6 +601,7 @@
 ||cafetanja.nl^$document
 ||cagliostroberlin.de^$document
 ||caipys.de^$document
+||caisstudents.ca^$document
 ||caledonia-ev.de^$document
 ||callythebear.com^$document
 ||calvinkleinberlin.de^$document
@@ -574,12 +616,14 @@
 ||campus-heidenheim.de^$document
 ||campus-heidenheim.de^$document
 ||camputrailer.de^$document
+||camstorepro.com^$document
 ||canadagoose-outlet.com^$document
 ||canadagoosepromos-ch.com^$document
 ||canbmarket.xyz^$document
 ||cannabisgr.com^$document
 ||cannonballbanana.de^$document
 ||capelashop.xyz^$document
+||capitalaktiv.de^$document
 ||caps-store.de^$document
 ||car-hifi-radio-adapter.eu^$document
 ||carano-design.de^$document
@@ -593,6 +637,7 @@
 ||carola-stauche.de^$document
 ||carrera-xmas.com^$document
 ||carry-shop.com^$document
+||casefetish.com^$document
 ||casor.de^$document
 ||cc-fins.de^$document
 ||cccorbieres.ch^$document
@@ -624,18 +669,25 @@
 ||cheapjeansstores.com^$document
 ||cherisy-film.de^$document
 ||chester-cottons.de^$document
+||chicieonline.com^$document
 ||chickspack.de^$document
 ||chicmary.com^$document
+||chictogerther.com^$document
 ||chihuahuas-franken.de^$document
 ||chillandsmile.de^$document
 ||chimericalthoughts.com^$document
 ||chocoandcream.com^$document
 ||chocolat-paderborn.de^$document
 ||christiane-reumke-kocht.de^$document
+||christiankoenigsmann.de^$document
+||christina-sautter.de^$document
 ||christine-bongert.de^$document
+||christine-herntier.de^$document
+||christine-hoedl.at^$document
 ||christinmarit.de^$document
 ||christophstroehl.de^$document
 ||chromeautocenter.com^$document
+||chulhamall.com^$document
 ||chulhamall.com^$document
 ||cilobuy.com^$document
 ||cinetecabrianze.it^$document
@@ -654,11 +706,13 @@
 ||claudia-pelka.de^$document
 ||claudia-scarpatetti.de^$document
 ||claudiakleyh.de^$document
+||clever-technik.com^$document
 ||clinicafranklinpena.com^$document
 ||cliouenay.com^$document
 ||cloggsschuhe.de^$document
 ||closedkleidung.de^$document
 ||clothujf.site^$document
+||club-country.com^$document
 ||club.cameradigitalshow.com^$document
 ||clubdelmar.at^$document
 ||clublabiella.it^$document
@@ -702,6 +756,7 @@
 ||cousin.specutrums.com^$document
 ||cowboystiefelverkauf.de^$document
 ||cp-handel-shop.com^$document
+||cpgtstream4.com/s26r/^$document
 ||cragoo.de^$document
 ||crasheco.com^$document
 ||crepessuzette-neustadt.de^$document
@@ -718,6 +773,7 @@
 ||culture-brieboisee.fr^$document
 ||currentelliottjeans.de^$document
 ||cushingokrealtor.com^$document
+||cuttingedgeng.com^$document
 ||cws-elektro.com^$document
 ||cyber-plus.shop^$document
 ||cyber-plus.store^$document
@@ -740,6 +796,7 @@
 ||dancesergio.com^$document
 ||danielakristofic.de^$document
 ||danielohintze.de^$document
+||dapostar-de.com^$document
 ||darbovenderby.de^$document
 ||dareos.eu^$document
 ||darkbodybuilding.net^$document
@@ -770,8 +827,10 @@
 ||de-rb.com^$document
 ||de.belstaffofficial.com^$document
 ||dealportal.name^$document
+||deathrune-records.com^$document
 ||decenniumstores.com^$document
 ||dechefkoch.de^$document
+||decigames.co.uk^$document
 ||decko24.de^$document
 ||decoff-haushalt.net^$document
 ||deflorenflor.eu^$document
@@ -792,6 +851,7 @@
 ||derbrb.com^$document
 ||derinborsa.com^$document
 ||derlump.de^$document
+||dertierplanet.com^$document
 ||derwentleeds.co.uk^$document
 ||desalomonw.com^$document
 ||deschuhemarkt.de^$document
@@ -814,9 +874,11 @@
 ||deva-tore.de^$document
 ||devipmon.com^$document
 ||dffk-teisendorf.de^$document
+||dfweb-design.de^$document
 ||dgb-goettingen.de^$document
 ||diag-verwaltung.de^$document
 ||dialogkreis-godesberg.de^$document
+||diamond-dealz.com^$document
 ||didimaevents.nl^$document
 ||die-bohrwiderstandsmessung.de^$document
 ||die-grupfte-hiener.ch^$document
@@ -837,6 +899,7 @@
 ||dieseluhrenberlin.com^$document
 ||diesophiestore.com^$document
 ||diez-hardware.de^$document
+||differenta.com/^$document
 ||diggedidope.de^$document
 ||digital-and-free.de^$document
 ||digitalomarkt.com^$document
@@ -845,6 +908,8 @@
 ||dillas-pfandhaus.de^$document
 ||dinkelacker-gartenbau.de^$document
 ||direktkauf.online^$document
+||dirk-woker.de^$document
+||disasterpieces.at^$document
 ||discount-bazar.com^$document
 ||discount-mk.com^$document
 ||discount-zigaretten24.com^$document
@@ -865,6 +930,7 @@
 ||dohrer-clubhaus.de^$document
 ||doitorganic.de^$document
 ||dolcelingua.ch^$document
+||dolomiti-bikeguide.com^$document
 ||dolphinssquid.com^$document
 ||dolps-radl-shop.de^$document
 ||domain007.de^$document
@@ -880,11 +946,13 @@
 ||dramatischegestalten.de^$document
 ||drbugre.xyz^$document
 ||drdedun.com^$document
+||dream-skin.co^$document
 ||dresden-cup.de^$document
 ||dressesukonline.com^$document
 ||dressfirst.com^$document
 ||dressurpferde-bischof.ch^$document
 ||drglaser.de^$document
+||dricasinonight.com^$document
 ||drk-suesser-see.de^$document
 ||drmartens1460.de^$document
 ||drmtt.com^$document
@@ -893,6 +961,7 @@
 ||drschutz.at^$document
 ||druckfuerdich.de^$document
 ||dry-as-possible.de^$document
+||drykornpullover.de^$document
 ||dscarf.com^$document
 ||dsh-clan.de^$document
 ||dsnau.com^$document
@@ -902,6 +971,7 @@
 ||duisburg.konsolen-gmbh.com^$document
 ||dulcatec.de^$document
 ||duloustore.eu^$document
+||dundeecan.org.uk^$document
 ||duodesign-nl.de^$document
 ||dust-buster.eu^$document
 ||dust.hirstore.com^$document
@@ -921,6 +991,7 @@
 ||e-majster.de^$document
 ||e-shop-genios.com^$document
 ||e-shopsters.com^$document
+||e-stokrotka.de^$document
 ||eachgstore.com^$document
 ||eadevents.de^$document
 ||eamimisale.com^$document
@@ -928,10 +999,12 @@
 ||eastlondoncommunications.co.uk^$document
 ||easybuy.buyuthebay.com^$document
 ||eattruthfully.com.au^$document
+||ebermann-planung.de^$document
 ||ebersbach-restposten.net^$document
 ||ebike-fun24.com^$document
 ||ebike-himmel.com^$document
 ||ebike-kauf24.com^$document
+||ebike-rabatt24.com^$document
 ||ebike-spass24.com^$document
 ||ebike-tempel24.com^$document
 ||ebikenation.de^$document
@@ -953,6 +1026,7 @@
 ||edmundgazeley.co.uk^$document
 ||educmusdevinci.fr^$document
 ||edv-ehrhardt.de^$document
+||edygosselin.co.uk^$document
 ||eeygoshop.com^$document
 ||efc-mainpower-badhomburg.de^$document
 ||eftwelt.de^$document
@@ -985,6 +1059,7 @@
 ||electron-prof.com^$document
 ||electronicfactorys.de^$document
 ||electrovagant24.de^$document
+||elegant.onebysales.com^$document
 ||elek-tech24.de^$document
 ||elektoo.de^$document
 ||elektrikstars.es^$document
@@ -999,6 +1074,7 @@
 ||elektro-medum24.de^$document
 ||elektro-musser.at^$document
 ||elektro-niedersachsen.com^$document
+||elektro-outlet24.com^$document
 ||elektro-paderborn.com^$document
 ||elektro-piraten.com^$document
 ||elektro-stock24.de^$document
@@ -1023,6 +1099,7 @@
 ||elektroriese24.de^$document
 ||elektrosale.com^$document
 ||elektrostation24.de^$document
+||elektrotraum.com^$document
 ||elektrowagner24.de^$document
 ||elektrowaren-trip.com^$document
 ||elgros.de^$document
@@ -1031,6 +1108,7 @@
 ||elite-nord.at^$document
 ||elizabethannkelly.com^$document
 ||elmagacin.de^$document
+||elmontmalla.xyz^$document
 ||eltern-hes.de^$document
 ||eltoro-os.de^$document
 ||emil-heyrich.de^$document
@@ -1060,6 +1138,7 @@
 ||epic-media.shop^$document
 ||equipair.ca^$document
 ||erdbeermund-kabarett.de^$document
+||erektslim.com^$document
 ||ericdress.com^$document
 ||erleben-hund.de^$document
 ||ernstfarm-coburg.de^$document
@@ -1098,6 +1177,7 @@
 ||euthagroup.com^$document
 ||euthanasiagroupeu.com^$document
 ||euthanint.org^$document
+||eva-hommel.de^$document
 ||eve-tech.com^$document
 ||event-jongleure.de^$document
 ||eventhalle-essen.de^$document
@@ -1108,6 +1188,7 @@
 ||evita-regensburg.de^$document
 ||evvgcmalls.top^$document
 ||ewelt24.com^$document
+||ewoufhvow.myshopify.com^$document
 ||exclusivebc.de^$document
 ||exclusivekitchenware.com^$document
 ||exeedshop.top^$document
@@ -1115,6 +1196,7 @@
 ||expertainment.de^$document
 ||expertsinmoving.com^$document
 ||explorecomenius.eu^$document
+||expo-challenge.de^$document
 ||expressdealz.com^$document
 ||expresstorev.com^$document
 ||exquirion.de^$document
@@ -1123,9 +1205,11 @@
 ||faceuptodrink.co.uk^$document
 ||fachschaft-ekw.de^$document
 ||fachtag-diabetes.at^$document
+||fahren-guenstig.de^$document
 ||fahrrad-lager.de^$document
 ||fahrradbekleidungdeu.com^$document
 ||fahrschule-seefeldt.de^$document
+||fahrschule-uwekunz.de^$document
 ||fahrschule-wiesenburg.de^$document
 ||fahrschulehausmann.de^$document
 ||fairfieldworkingmensclub.co.uk^$document
@@ -1136,8 +1220,10 @@
 ||falkundlenz.de^$document
 ||falkwuerfele.de^$document
 ||familie-fietzek.de^$document
+||familie-joerg-mielke.de^$document
 ||familienrudel-wolf.de^$document
 ||familienzentrum-eching.de^$document
+||familiewormsstiftung.de^$document
 ||fancyartdesign.de^$document
 ||fanishoes.com^$document
 ||fanmerchstore.eu^$document
@@ -1150,12 +1236,14 @@
 ||fastdocuments.net^$document
 ||faszination-vogelspinnen.de^$document
 ||fatburner-1.com^$document
+||favorablo.com^$document
 ||fb-aachen.de^$document
 ||fcnom.de^$document
 ||feastupon.co.uk^$document
 ||federkontakt-smd.de^$document
 ||fedop.eu^$document
 ||feelings-individuellekosmetik.de^$document
+||fein-e-kost.de^$document
 ||feingoldscheideanstalt-seit1973.de^$document
 ||feingoldscheideanstalt-seit1974.de^$document
 ||feingoldscheideanstalt1973.de^$document
@@ -1166,8 +1254,10 @@
 ||ferienwohnung-messing.de^$document
 ||ferienwohnung-steenbeksmoor.de^$document
 ||ferienwohnung-weismantel.de^$document
+||ferienzimmer-hille.de^$document
 ||fernseher-fuchs.de^$document
 ||fernseher.store^$document
+||fernseher24.store^$document
 ||fernsehermitwlan.de^$document
 ||festzelt-wieser.de^$document
 ||feuerwehr-allmannsweier.de^$document
@@ -1188,17 +1278,21 @@
 ||ffilm-online.com^$document
 ||ffw-dielmissen.de^$document
 ||ffw-spirkelbach.de^$document
+||ffw-unterbechingen.de^$document
 ||ffwschussenried.de^$document
 ||fictionstudio.de^$document
+||fifathsale.com^$document
 ||fightland24.de^$document
 ||filastore.club^$document
 ||financialplanner24.de^$document
 ||finanz-vergleiche24.de^$document
+||finca-vividor.de^$document
 ||findandmall.com^$document
 ||findlayfirstub.org^$document
 ||fines-art.de^$document
 ||finest-bodyshop.com^$document
 ||finnhaus-holzbau.de^$document
+||fippz.de^$document
 ||firstmomentsonline.com^$document
 ||firststepbox.com^$document
 ||fischer-hafnerberg.at^$document
@@ -1206,6 +1300,7 @@
 ||fishingdudes.ch^$document
 ||fishney.com^$document
 ||fit-deggendorf.de^$document
+||fit-stimul.com^$document
 ||fitinallensinnen.at^$document
 ||fitness-angersdorf.de^$document
 ||fitness-shop-leoben.at^$document
@@ -1216,13 +1311,17 @@
 ||fixekiste.de^$document
 ||fjalleuro.com^$document
 ||fjzyrzstore.com^$document
+||fjzyrzstore.com^$document
 ||flanagans-op.at^$document
 ||flashed-esports.de^$document
 ||fliplake.de^$document
 ||flirthacks.de^$document
 ||flobamorata.com^$document
 ||flora-magazin.de^$document
+||florbalns.cz^$document
 ||florianthunemann.de^$document
+||floristik-casa-flora.de^$document
+||floryday.com^$document
 ||flrnrtl.de^$document
 ||flueha.ch^$document
 ||flugbuchungscomputer.de^$document
@@ -1238,6 +1337,7 @@
 ||folmy.de^$document
 ||foodiac.de^$document
 ||fool4dance.nl^$document
+||foolhouse.de^$document
 ||footballtrikots2015.com^$document
 ||footsmart.eu^$document
 ||footvanshop.club^$document
@@ -1254,6 +1354,7 @@
 ||fosterbillabong.com^$document
 ||foto-expert.com^$document
 ||fotografie-heike-klostermann.de^$document
+||fotojamnig.at^$document
 ||fotorux.de^$document
 ||fotoschutzgebiet.de^$document
 ||fox-summit-club.de^$document
@@ -1271,6 +1372,8 @@
 ||frankfurt.ps4-ug.com^$document
 ||frankfurter-motorradtreffen.de^$document
 ||franklin25.de^$document
+||franz-ermold.de^$document
+||franz-klostermann.de^$document
 ||franzis-sportswear.de^$document
 ||franziweber.de^$document
 ||franzvonhahn.at^$document
@@ -1296,12 +1399,14 @@
 ||friseur-ginny.at^$document
 ||friseursalon-brandes.de^$document
 ||friseurundbeautyscheri.de^$document
+||frithjofhager-dialogischesoziologie.de^$document
 ||fruehstueckspension-hilbenz.de^$document
 ||fsv06-mittelschmalkalden.eu^$document
 ||ftm-soryn-kg.at^$document
 ||fuchw.de^$document
 ||fuesseinharmonie.at^$document
 ||fun.thebestubuy.com^$document
+||fundamentello.com^$document
 ||fundk-modellbau.de^$document
 ||fusionelles.ch^$document
 ||fussballschuhe2015.com^$document
@@ -1334,6 +1439,7 @@
 ||garminworldmaps.com^$document
 ||garminxshop.com^$document
 ||garten-events.de^$document
+||garten-partner.net^$document
 ||gartenda.de^$document
 ||gartengeraete24.at^$document
 ||gartenhausdesigner.de^$document
@@ -1345,6 +1451,7 @@
 ||gartenstore24.net^$document
 ||gartenwelt-engel.com^$document
 ||gasthof-falken.at^$document
+||gasthof-gritschacher.at^$document
 ||gasthof-hansy.at^$document
 ||gatinorge.fr^$document
 ||gboschmed.de^$document
@@ -1356,13 +1463,17 @@
 ||gebauer-schmidt.de^$document
 ||gebraucht24.ch^$document
 ||geburtstagsgruesse24.de^$document
+||gefi-elektronik.de^$document
 ||gegenwind-odenwald.de^$document
 ||gegesloewl.de^$document
 ||geholt.de^$document
 ||geinemsale.com^$document
 ||gelautz-gmc.de^$document
+||gelbneu.com^$document
+||gelopad.de^$document
 ||gememotion.de^$document
 ||gemomall.xyz^$document
+||genau-entreprise.de^$document
 ||generica-farmacia24.com^$document
 ||generika-apotheke24.de^$document
 ||genialbau.com^$document
@@ -1375,6 +1486,7 @@
 ||georg-reisse.de^$document
 ||gerd-heger.de^$document
 ||geri-steiner.ch^$document
+||germany-gamer.de^$document
 ||gerotronik-unna.de^$document
 ||gerry-artifact.de^$document
 ||gerstmann-bau.com^$document
@@ -1385,6 +1497,7 @@
 ||geschenk-deals.de^$document
 ||geschenke-land.net^$document
 ||geschenkstop.de^$document
+||geschirr.wearsaletobuy.com^$document
 ||gesundeliebe.com^$document
 ||gesundeliebe.de^$document
 ||gesundheit-in-wien.at^$document
@@ -1392,6 +1505,7 @@
 ||getraenke-welt-online.de^$document
 ||getsforu.com^$document
 ||gewuerzerei.de^$document
+||gezwitschere.de^$document
 ||gfi-cloud.de^$document
 ||ggbagsale.com^$document
 ||ghflawfirm.com^$document
@@ -1428,7 +1542,6 @@
 ||goethe-theater.de^$document
 ||goetz-sven.de^$document
 ||gold-batteries.com^$document
-||goldblau-center.ch^$document
 ||golden-tiger.co.uk^$document
 ||goldschweinchen.at^$document
 ||goldstube24k.de^$document
@@ -1458,6 +1571,7 @@
 ||grossbaumarkt.shop^$document
 ||grosshandel-shop.com^$document
 ||grosshandel-wittig.de^$document
+||grosshandel.store^$document
 ||grosshandelspreise.com^$document
 ||growstreet.co.uk^$document
 ||grttool.com^$document
@@ -1467,6 +1581,7 @@
 ||gruenauag.ch^$document
 ||gruenerkristall.de^$document
 ||gruenkohlverein.de^$document
+||gsgwbgmarket.com^$document
 ||gt-naturbaustoffe.de^$document
 ||gtjix.xyz^$document
 ||gtmedia.com.au^$document
@@ -1480,6 +1595,8 @@
 ||haarformersalon-am-dom.de^$document
 ||hachingforever.de^$document
 ||haehnchenhausen.de^$document
+||haemmerle-joachim.de^$document
+||hagenlocher-gmbh.de^$document
 ||haiau-dresden.de^$document
 ||hajo-gutmann.de^$document
 ||halbergtreff.de^$document
@@ -1491,6 +1608,7 @@
 ||hallohaushaltsgerate.com^$document
 ||halukstore.eu^$document
 ||hamburg-elektronik.com^$document
+||hamburgerpokerclub.de^$document
 ||hammeljaeger.de^$document
 ||hamrolyrics.com^$document
 ||hamude.de^$document
@@ -1507,6 +1625,8 @@
 ||hantsuonline.com^$document
 ||haqaiqstore.com^$document
 ||harald-horrwarth.de^$document
+||haraldjelinek.at^$document
+||haraldjelinek.at^$document
 ||hardware-extreme.de^$document
 ||hardware24-berlin.com^$document
 ||hardwareexperte-hh.com^$document
@@ -1519,8 +1639,10 @@
 ||harryesons.at^$document
 ||harzglocke.de^$document
 ||hassenzinne.de^$document
+||hastriketroslagen.se^$document
 ||hauntedhouseyork.co.uk^$document
 ||hauraus.at^$document
+||haus-des-schwimmsports.de^$document
 ||haus-gartenshop.net^$document
 ||haus-harmen-steinbarg.de^$document
 ||haus-isabel.at^$document
@@ -1547,6 +1669,7 @@
 ||hctechnic.com^$document
 ||hdbde.top^$document
 ||heads-store.com^$document
+||healthbenefitsf.com^$document
 ||hebamme-ehlen.de^$document
 ||hechter24.de^$document
 ||heckenbachsports.de^$document
@@ -1584,6 +1707,7 @@
 ||high-tech-discount.fr^$document
 ||highstreetcommunitychurch.com^$document
 ||hildersale.com^$document
+||hilfe-fuer-tschernobyl-kinder.de^$document
 ||hilfe-vom-profi.de^$document
 ||hinundhair-freiburg.de^$document
 ||hinz-dachtechnik.de^$document
@@ -1597,6 +1721,7 @@
 ||hobbiesdiscount.net^$document
 ||hoch2events.de^$document
 ||hoerbuchfinden.de^$document
+||hof-hicken.de^$document
 ||hof-liebig.de^$document
 ||hoffmann-elektronik.com^$document
 ||hoffnung-sueddeutschland.de^$document
@@ -1608,9 +1733,11 @@
 ||honikel-fotografie.de^$document
 ||honky-tonk-linedancer.de^$document
 ||horse-n-dog-agility.de^$document
+||hot.serindipiti.com^$document
 ||hotel-accord.at^$document
 ||hotel-reither.at^$document
 ||hotelbedarf.li^$document
+||hotelnamaskarswm.com^$document
 ||hotelweinland.at^$document
 ||hots-boots.com^$document
 ||hotuashoes.com^$document
@@ -1627,6 +1754,7 @@
 ||hundeausbildungdresden.de^$document
 ||hundereisen-vlog.de^$document
 ||hundesportzentrum-siegen.de^$document
+||hunzer.net^$document
 ||hvbshop.de^$document
 ||hydropenyaringair.com^$document
 ||hyeseungtech.com^$document
@@ -1652,8 +1780,10 @@
 ||igateceogolfcup.com^$document
 ||ihr-haus-berater.de^$document
 ||ihre-hausverwalter.de^$document
+||ijintender.com^$document
 ||ikarus-flugdienst.de^$document
 ||ikliklmarket.eu^$document
+||ilamparas.com^$document
 ||ill.deufiles.com^$document
 ||illertissen-aktuell.de^$document
 ||imaltengarten-maxhuette.de^$document
@@ -1675,6 +1805,7 @@
 ||individuello.com^$document
 ||inebmall.xyz^$document
 ||inehutten.nl^$document
+||inetsiteworld.de^$document
 ||infave.com^$document
 ||infiniteamgazelles.ch^$document
 ||infinitycarsandshipping.de^$document
@@ -1683,10 +1814,12 @@
 ||ing-gruenewald.de^$document
 ||inge-junghans.de^$document
 ||ingelheimer-konfettis.de^$document
+||ingiocoresearch.it^$document
 ||ingodesign.de^$document
 ||inhomefurn.com^$document
 ||init-m.de^$document
 ||inno-store.com^$document
+||inselgrill.at^$document
 ||inseltasche.de^$document
 ||inside.mereutricious.com^$document
 ||insigniadrivingtour.at^$document
@@ -1726,6 +1859,7 @@
 ||ispedgoods.com^$document
 ||isu-pinnacle.com^$document
 ||it-neues.de^$document
+||it.hirdiscount.com^$document
 ||italiadesigns.com^$document
 ||italiaworldwide.com^$document
 ||item.specutrums.com^$document
@@ -1749,6 +1883,7 @@
 ||jc-prozesse.de^$document
 ||jdaysale.top^$document
 ||jdfashionstore.com^$document
+||je-marketing.de^$document
 ||jeans-shop-stuttgart.de^$document
 ||jebanails.de^$document
 ||jecomputer-diamonds.com^$document
@@ -1768,6 +1903,7 @@
 ||jmstv-ablehnen.de^$document
 ||jmwoodmall.com^$document
 ||jninemarket.eu^$document
+||jo-westphal.de^$document
 ||job-vermittlung-lueneburg.de^$document
 ||jobs-for-nature.de^$document
 ||jobshier.de^$document
@@ -1779,6 +1915,7 @@
 ||jointchoice.com^$document
 ||jojolook.com^$document
 ||jollyinstyle.com^$document
+||jomaxa.com^$document
 ||jonas-maurer.de^$document
 ||jonaskaempf-photography.de^$document
 ||jorgegarcialima.com^$document
@@ -1788,6 +1925,7 @@
 ||ju-rhein-kreis-neuss.de^$document
 ||judithriemer.at^$document
 ||jugendarbeit-ms-ismaning.de^$document
+||jugendfeuerwehr-flegessen.de^$document
 ||jugendfeuerwehr-glueckstadt.de^$document
 ||jugendraum-thaiden.de^$document
 ||jugiwiden.ch^$document
@@ -1797,6 +1935,7 @@
 ||julia-mottl.de^$document
 ||julias-jinan.de^$document
 ||jungle-urbaine.ch^$document
+||jungschuetzen-oberdrees.de^$document
 ||jusos-koblenz.de^$document
 ||jusosrosenheim.de^$document
 ||justchillincampers.co.uk^$document
@@ -1822,6 +1961,7 @@
 ||kaffeeguru.com/^$document
 ||kaffeehelden.eu^$document
 ||kaffeenator.de^$document
+||kaffeepause24.com^$document
 ||kaffeetraum.at^$document
 ||kaffera.de^$document
 ||kaffesa.de^$document
@@ -1831,6 +1971,7 @@
 ||kaiser-gaming.net^$document
 ||kaiser-technik.de^$document
 ||kaisersaalgruppe.de^$document
+||kalya.at^$document
 ||kambayo.com^$document
 ||kambla.com^$document
 ||kamera-kontor.de^$document
@@ -1842,6 +1983,7 @@
 ||kamilo.de^$document
 ||kampfsport-aga.de^$document
 ||kankenbackpackvips.com^$document
+||kanmeistore.com^$document
 ||kannoddam.com^$document
 ||kantabrischerpfau.de^$document
 ||kanteno.com^$document
@@ -1851,6 +1993,7 @@
 ||kanzlei-kurowski.de^$document
 ||kanzleinform.de^$document
 ||kap-project.eu^$document
+||kapitaen-hass.de^$document
 ||karamos.eu^$document
 ||karamos.net^$document
 ||kardiologie-wittlich.de^$document
@@ -1873,17 +2016,20 @@
 ||kaufhalle-shop.de^$document
 ||kaufhaus-guenther.de^$document
 ||kayano.it^$document
+||kayklingbeil.de^$document
 ||kayser-haushaltsroboter.de^$document
 ||kbs-hig.de^$document
 ||kbs-umag.de^$document
 ||kcdemo-heindl.de^$document
 ||kdc-olbernhau.de^$document
+||kedsschuhe.at^$document
 ||keepbuckwild.com^$document
 ||kefirek.de^$document
 ||keimtoe.com^$document
 ||keinpasskeinspass.de^$document
 ||kelivar.com^$document
 ||kellerer-direct.at^$document
+||keltenfreunde-asperg.de^$document
 ||kelvinshop.de^$document
 ||kenbagsshop.com^$document
 ||kenjukate-mtk.de^$document
@@ -1897,6 +2043,7 @@
 ||kerawerk-matzen.de^$document
 ||kernversichert.de^$document
 ||kerstin-sonderkamp.de^$document
+||kerstingundt.de^$document
 ||kerzenheimat.de^$document
 ||kfarsabaindies.org^$document
 ||kfo-trahms.de^$document
@@ -1907,6 +2054,7 @@
 ||kickked.com^$document
 ||kiga-bonifatius-schnaitheim.de^$document
 ||kikasdierenjungle.nl^$document
+||killtecallstyle.com^$document
 ||kinderbetreuung-hemmoor.de^$document
 ||kindergarten-tarmstedt.de^$document
 ||kindergartenverein-traunreut-ev.de^$document
@@ -1923,6 +2071,7 @@
 ||kipkermarket.com^$document
 ||kiri.at^$document
 ||kirinmedical.ch^$document
+||kirscher.de^$document
 ||kirsten-bey.de^$document
 ||kirtorf-wahlen.de^$document
 ||kiss-reklame.ch^$document
@@ -1944,13 +2093,16 @@
 ||klartext.me^$document
 ||klass-store.de^$document
 ||klassikmobilfreunde.de^$document
+||klaucke-wohndesign.de^$document
 ||klaus-goldbach.de^$document
 ||kleidung.aboutsfashion.com^$document
 ||kleimer.net^$document
+||kleine-geile-firma.de^$document
 ||kleine-wunder.de^$document
 ||kleistermeister.eu^$document
 ||klickundplay.de^$document
 ||klingler-shop.de^$document
+||klostercafesaarn.de^$document
 ||klsattelschnallen.de^$document
 ||klunker-plus.de^$document
 ||kmot.co.uk^$document
@@ -1960,6 +2112,7 @@
 ||knipsding.de^$document
 ||knochendoc.at^$document
 ||kochnelda.de^$document
+||kochnomarket.com^$document
 ||kochsalon.at^$document
 ||kokoloro.de^$document
 ||kollwitz-forchheim.de^$document
@@ -1985,18 +2138,24 @@
 ||konzept-raum.de^$document
 ||konzert-ohne-dichter.de^$document
 ||koogoshop.com^$document
+||korting.niceniceshop.com^$document
 ||korwerner.de^$document
 ||kosmetiksalon-bildschoen.de^$document
 ||kosmetiksalon-sellner.de^$document
 ||kosmetikstudio-difour.de^$document
 ||kosmetikzimmer-neufahrn.de^$document
+||koswell-halsbruecke.de^$document
 ||kprfmarket.top^$document
 ||kram-wallath.de^$document
 ||kramer-haushalt.de^$document
 ||krammer-holz.de^$document
 ||krankenhaus-verstehen.de^$document
+||kreation-und-design.de^$document
+||kreatoere.de^$document
 ||kreisfeuerwehrverband-wittmund.de^$document
+||krender.de^$document
 ||krethe-fachmarkt.de^$document
+||kreuzhof-sylli.at^$document
 ||krimadonna.de^$document
 ||krispin-eickhoff.de^$document
 ||kroeger-fey.de^$document
@@ -2004,6 +2163,7 @@
 ||kronen-apotheke-schweinfurt-app.de^$document
 ||kru7.de^$document
 ||ksc-wirges.de^$document
+||kscboeblingen.de^$document
 ||ksk-in-berlin.de^$document
 ||kua.clubestyle.com^$document
 ||kubexcel.de^$document
@@ -2013,6 +2173,7 @@
 ||kuechenstudio-unger.de^$document
 ||kulander.de^$document
 ||kulinarium7.at^$document
+||kulturbar-oberkassel.de^$document
 ||kulturburg.ch^$document
 ||kulturforum-schwaz.at^$document
 ||kulturwecker.at^$document
@@ -2072,10 +2233,12 @@
 ||layashape.com^$document
 ||lbcfwonline.com^$document
 ||lcghmtsale.com^$document
+||lchdevshop.com^$document
 ||lcwa-possibilities.com^$document
 ||leadsale.eu^$document
 ||learn-german-faster.de^$document
 ||learntodrivetameside.com^$document
+||leasecrets.com^$document
 ||lebedeineeinstellung.de^$document
 ||lebensart-hainholz.de^$document
 ||led-bay.de^$document
@@ -2088,12 +2251,14 @@
 ||lektronics.de^$document
 ||lelywebshop.nl^$document
 ||lemiostore.de^$document
+||lemonscoco.com^$document
 ||lenas-boutique.com^$document
 ||lenox-spares.com^$document
 ||lente-et-partner.de^$document
 ||leo-printer.com^$document
 ||leoadass.de^$document
 ||lepinland.com^$document
+||lesdigitalos.eu^$document
 ||lesehunde.de^$document
 ||lesgranges.ch^$document
 ||letussell.de^$document
@@ -2102,6 +2267,7 @@
 ||lg-neumarkt.de^$document
 ||liammode.com^$document
 ||libertyonlinee.com^$document
+||liborihof.de^$document
 ||lichth.goodusales.com^$document
 ||lictor-band.de^$document
 ||liebem.de^$document
@@ -2184,11 +2350,13 @@
 ||luxusuhren-mieten-cronox.de^$document
 ||lv-angebote.de^$document
 ||lvsstore.com^$document
+||lypse.de^$document
 ||m-paycard.de^$document
 ||m.milanoo.com^$document
 ||m1-essen.de^$document
 ||mac-wow.de^$document
 ||macbooks-billiger.de^$document
+||machart-durlach.de^$document
 ||macloumall.com^$document
 ||madamefaitsonshow.ch^$document
 ||madeinitaly-fuerth.de^$document
@@ -2213,11 +2381,13 @@
 ||maler-egzon.de^$document
 ||maler-pfirrmann.de^$document
 ||malerbetrieb-grabbe.de^$document
+||malerbetrieb-hilger.de^$document
 ||malerbetrieb-mv.de^$document
 ||malermantei.de^$document
 ||malibucoastal.co^$document
 ||malovi.de^$document
 ||malzwerk-eroeffnung.de^$document
+||mamababywelt.at^$document
 ||management-onlineberatung.de^$document
 ||manfred-juenemann.de^$document
 ||mangold-immobilien.de^$document
@@ -2262,6 +2432,7 @@
 ||maschinenliste.com^$document
 ||massivofit.com^$document
 ||mathilda-licht.de^$document
+||matofstore.xyz^$document
 ||matu-reisen.de^$document
 ||mavputlitz.de^$document
 ||max-haushalt.de^$document
@@ -2289,6 +2460,7 @@
 ||media-discount.shop^$document
 ||media-katalog.com^$document
 ||media-plus.shop^$document
+||media-red.shop^$document
 ||media-red24.store^$document
 ||media-restposten.de^$document
 ||media-shopping.org^$document
@@ -2305,6 +2477,7 @@
 ||medienschwarm.at^$document
 ||medienselbstgestalten.de^$document
 ||medikamente-kaufen-24.net^$document
+||medikamente-ohne-rezept.net^$document
 ||medikamente-rezeptfrei.net^$document
 ||medikamente-rezeptfrei.shop^$document
 ||medina24.store^$document
@@ -2319,6 +2492,7 @@
 ||mega-manga.de^$document
 ||mega-smart.de^$document
 ||megbydesign.com^$document
+||megskyonline.com^$document
 ||mein-cockpit.de^$document
 ||mein-hochzeit.de^$document
 ||mein-themenportal.de^$document
@@ -2327,8 +2501,10 @@
 ||meindlschuhedamen.de^$document
 ||meinetiermarken.at^$document
 ||meinpaketbilliger.de^$document
+||meinshirts.de^$document
 ||meinsteuerpartner.at^$document
 ||meisteralles.de^$document
+||meisterpage.de^$document
 ||melchior-transporte.de^$document
 ||memorialweb.de^$document
 ||memoryoptical.com^$document
@@ -2380,6 +2556,7 @@
 ||misterjoux.com^$document
 ||misterui.de^$document
 ||mittelalter-duernkrut.at^$document
+||mixer4u.online^$document
 ||mjhtrade.top^$document
 ||mjiluminacion.es^$document
 ||mk-gbp.com^$document
@@ -2392,6 +2569,7 @@
 ||mm-bornschein.de^$document
 ||mm-steuern.de^$document
 ||mmkskvd.top^$document
+||mmoga.de^$document
 ||mobilepower24.com^$document
 ||mobiletraum.de^$document
 ||mobility24shop.com^$document
@@ -2402,11 +2580,15 @@
 ||mode-feeling.de^$document
 ||mode-lorenz.de^$document
 ||mode-top.de^$document
+||mode.crazyabuy.com^$document
+||mode.crazyabuy.com^$document
 ||modehaus-oevermann.de^$document
 ||modekaufen.com^$document
 ||modellbahn-kauf.de^$document
 ||modellbahn-versandhaus.de^$document
+||modellbau-billiger.de^$document
 ||models2you.de^$document
+||modelscreen.de^$document
 ||modetalente.com^$document
 ||modezirkus.eu^$document
 ||molina24.store^$document
@@ -2473,6 +2655,7 @@
 ||my-datonomy.de^$document
 ||my-dreamstore.de^$document
 ||my-pontto.com^$document
+||my-sport24.net^$document
 ||mybotspot.de^$document
 ||mycaboconcierge.com^$document
 ||mygoldstadt.de^$document
@@ -2482,6 +2665,7 @@
 ||myrallytime.de^$document
 ||myschuhe.com^$document
 ||myselfix.com^$document
+||myserenitylaser.com^$document
 ||myshopwala.com^$document
 ||myspirit-berlin.de^$document
 ||mystikkraftmusik.com^$document
@@ -2495,12 +2679,14 @@
 ||nahkauf-tecklenburg.de^$document
 ||namastenova.ca^$document
 ||name.laf-shop.com^$document
+||namgyal-rinpoche-gruppe-deutschland.de^$document
 ||nashironline.com^$document
 ||nation.laf-mall.com^$document
 ||nativinstruments.de^$document
 ||natuerlich-leben-und-heilen.de^$document
 ||natuerlich-vital-bruehl.de^$document
 ||naturalseeds.eu^$document
+||naturalselections1.com^$document
 ||naturheilpraxis-annettasmus.de^$document
 ||naturheilpraxis-grickschat.de^$document
 ||naturheilpraxis-kohr.de^$document
@@ -2515,6 +2701,7 @@
 ||nerdsplace.eu^$document
 ||netsec.at^$document
 ||nettiback.de^$document
+||netzteiledirekt.com^$document
 ||netzteilnotebook.com^$document
 ||netzteilshop.at^$document
 ||neubauer-orthopaedie-service.de^$document
@@ -2532,6 +2719,7 @@
 ||newbalancesneakers.de.com^$document
 ||newcollegebeat.com^$document
 ||newmstyle.eu^$document
+||newpostcreek.com^$document
 ||newservice.su^$document
 ||newsfanshop.com^$document
 ||nextepiso.de^$document
@@ -2539,11 +2727,13 @@
 ||nf-telecom.de^$document
 ||nfc-whv.de^$document
 ||nfmall.online^$document
+||nfornicole.com^$document
 ||ngo-tv.de^$document
 ||nhp-haberland.de^$document
 ||nicdampier.com^$document
 ||nicegoodmart.com^$document
 ||nicht-von-heise-kopieren.de^$document
+||nickel-koeln.de^$document
 ||nidobermannclub.com^$document
 ||niemann-hardware.de^$document
 ||niergifts.com^$document
@@ -2563,6 +2753,7 @@
 ||nlapartmentrent.com^$document
 ||noanoa-hannover.de^$document
 ||nobisjacke.de^$document
+||noblebart.de^$document
 ||nohl-versand.com^$document
 ||nohl-versand24.com^$document
 ||nolanrobertcosmetics.com^$document
@@ -2574,7 +2765,10 @@
 ||nord-hardware.com^$document
 ||nordfriesenpower.de^$document
 ||nordwestcoupons.de^$document
+||northern-transport.net^$document
+||northernpremier.ca^$document
 ||norwas.de^$document
+||noskillz-team.de^$document
 ||notebookakku.at^$document
 ||notebooknetzteile.at^$document
 ||notebooks-reichelt.de^$document
@@ -2597,6 +2791,7 @@
 ||obds-seminare.at^$document
 ||oberhaus-terrassen.de^$document
 ||oberhavel-kultour.de^$document
+||objekteinrichtungen-anger.de^$document
 ||objektrausch.de^$document
 ||occupykarlsruhe.de^$document
 ||ochsenloo.com^$document
@@ -2606,6 +2801,7 @@
 ||odvis.at^$document
 ||oeasv.at^$document
 ||oegmw.at^$document
+||oeibi.at^$document
 ||oeko-naturprodukte.de^$document
 ||oekoregelungen.de^$document
 ||oevl.at^$document
@@ -2637,6 +2833,7 @@
 ||online-bags.net^$document
 ||online-cafe-club.de^$document
 ||online-mode-1.de^$document
+||onlineaccessories.xyz^$document
 ||onlineapartmentsbooking.com^$document
 ||onlinebagsales.com^$document
 ||onlinerbstore.at^$document
@@ -2644,6 +2841,7 @@
 ||onlineschuhe2016.de^$document
 ||onpoolmarket.com^$document
 ||oooh-la-la.co.uk^$document
+||oostdamblumen.de^$document
 ||openloose.at^$document
 ||operncamp.de^$document
 ||optik-huschke.de^$document
@@ -2667,6 +2865,7 @@
 ||ousbags.com^$document
 ||oustiefel.com^$document
 ||outdoormoebel-center.de^$document
+||outdoortitan.net^$document
 ||outlet-checkpoint.com^$document
 ||outlet-fahrradbekleidung.de^$document
 ||outlettruereligionjeans.de^$document
@@ -2685,9 +2884,11 @@
 ||palette.specutrums.com^$document
 ||palumwi.de^$document
 ||panamera-chihuahua.de^$document
+||panda.storytion.com^$document
 ||pandoraberlin.de^$document
 ||pandoraringe.at^$document
 ||pandorasale.net^$document
+||paneelis.at^$document
 ||panoramabeef.ch^$document
 ||panzer-industriebedarf.de^$document
 ||paradiesschweinchen.de^$document
@@ -2711,6 +2912,7 @@
 ||patriciakafka.de^$document
 ||pax-tours.com^$document
 ||pbb-ev.de^$document
+||pc-topangebote.de^$document
 ||pcshop-hamburg.com^$document
 ||pcsolutionsofwillis.com^$document
 ||pdsavevip.com^$document
@@ -2742,6 +2944,7 @@
 ||pfarrei-laufeld.de^$document
 ||pfefferminzl-geschenke.de^$document
 ||pferde-miteinander-spass-haben.de^$document
+||pferde-reiter.de^$document
 ||pferdegesundheit-muensterland.de^$document
 ||pferdehof-wieckenberg.de^$document
 ||pflegeheim-singer.at^$document
@@ -2752,10 +2955,12 @@
 ||pharmacie-stpaul.ch^$document
 ||philipp-reis-tour.de^$document
 ||photo-artstudio.de^$document
+||photobox-shinjuku.com^$document
 ||photolo.eu^$document
 ||physio-fit-hasari.de^$document
 ||physio-ramminger.de^$document
 ||physio-uibel.at^$document
+||picto-plasma.de^$document
 ||piebear.com^$document
 ||pieofke-kuenstlermanagement.de^$document
 ||pigeonjohn.de^$document
@@ -2783,10 +2988,12 @@
 ||playstation4-online.co^$document
 ||playstation4-online.com^$document
 ||playstationstore24.com^$document
+||plhnd.com^$document
 ||plichter.com^$document
 ||plichter.eu^$document
 ||pmnavsale.com^$document
 ||podolo24.de^$document
+||poeticat.co.uk^$document
 ||pointhotel.at^$document
 ||pointsaver.de^$document
 ||polkadotcakes.ca^$document
@@ -2794,12 +3001,16 @@
 ||polooutletdeutschland.com^$document
 ||polwest.de^$document
 ||poly-mind.de^$document
+||pomalux.be^$document
 ||pop-perlen.de^$document
 ||portal-fuer-pferde.de^$document
 ||portriverhotel.de^$document
+||possibly.pinkvipshopon.com^$document
+||post-hasser.de^$document
 ||posten-waren.de^$document
 ||potenz-kaufhaus.de^$document
 ||potz-electronics.de^$document
+||pound.designerustyles.com^$document
 ||poussette-royalbaby.com^$document
 ||powersol.de^$document
 ||powersports-witten.de^$document
@@ -2817,6 +3028,7 @@
 ||praxis-pawlitzki.de^$document
 ||praxis-rolandin.ch^$document
 ||praxis-timena.ch^$document
+||preis-olympus.de^$document
 ||preis100.com^$document
 ||preishits.net^$document
 ||preisknaller25.de^$document
@@ -2831,11 +3043,13 @@
 ||primehyp.de^$document
 ||primetime-artist-management.de^$document
 ||printlive-app.de^$document
+||prismmall.xyz^$document
 ||privado-mallorca.com^$document
 ||privatefloor.com^$document
 ||pro-konflikt.at^$document
 ||procureshoes.com^$document
 ||produkte.classic4ustyle.com^$document
+||professor-jakubasch.de^$document
 ||profimatics.de^$document
 ||progamecheat.com^$document
 ||projekt-fidem.de^$document
@@ -2844,6 +3058,7 @@
 ||prolocobonnanaro.it^$document
 ||promatrixplus.com^$document
 ||promdressesshop.com^$document
+||promotionalaccessories.xyz^$document
 ||pronb.de.com^$document
 ||pronewbalance.com.de^$document
 ||pronewbalance.de.com^$document
@@ -2863,6 +3078,7 @@
 ||pulchritudinous.deufiles.com^$document
 ||puma-fenty.com^$document
 ||puma-promotion.com^$document
+||pumaschuheonline.at^$document
 ||pumasportschuhe.de^$document
 ||pumawholesaleretail.com^$document
 ||puppe.buyonuonline.com^$document
@@ -2880,6 +3096,7 @@
 ||queeneva.com^$document
 ||queliposo.com^$document
 ||quesant.de^$document
+||quilt.wearsaletobuy.com^$document
 ||quso-haushalt.shop^$document
 ||r-m-c.at^$document
 ||r-vt-nord.de^$document
@@ -2890,8 +3107,10 @@
 ||rabataa.com^$document
 ||rabatoo.com^$document
 ||rabatt.besttshopping.com^$document
+||rabatt.styleusummer.com^$document
 ||rabatt.vipluckyshop.com^$document
 ||rabatt2.com^$document
+||rabatt4dich.com^$document
 ||racebunch.de^$document
 ||rackactive.com^$document
 ||rad-trikots.de^$document
@@ -2899,6 +3118,7 @@
 ||radfreunde-murtal.at^$document
 ||radiant-health.at^$document
 ||radioleaks.de^$document
+||radlaufmunich.de^$document
 ||radsport-kleiser.de^$document
 ||radsport-rosshaupten.de^$document
 ||radtreff-tennenbronn.de^$document
@@ -2989,11 +3209,13 @@
 ||rbzde.com^$document
 ||rbzvv.com^$document
 ||rc-quertreiber.de^$document
+||rc-schloss-graschnitz.at^$document
 ||rcoffroader-ev.de^$document
 ||rcwitte.de^$document
 ||rcxtremehobbies.com^$document
 ||readyshop.xyz^$document
 ||realchems.de^$document
+||realtyelitefla.com^$document
 ||rebekka-kraft.de^$document
 ||rechtsanwalt-berlin-reinickendorf.de^$document
 ||rechtsanwalt-espey.de^$document
@@ -3004,6 +3226,8 @@
 ||redshirtpodcast.de^$document
 ||reel2reality.com^$document
 ||reelektro.com^$document
+||reeperbahn-campus.de^$document
+||refpowa.at^$document
 ||refrath-revue.de^$document
 ||regencyheightscoop.com^$document
 ||regenmantel24.de^$document
@@ -3061,6 +3285,7 @@
 ||rezeptfrei-shoppen.com^$document
 ||rezeptfrei.online^$document
 ||rezeptfreimedikamente.com^$document
+||rfit.hirship.com^$document
 ||rgrsstore.xyz^$document
 ||rgssasale.eu^$document
 ||rhc-recklinghausen.de^$document
@@ -3100,9 +3325,11 @@
 ||roidsupport.biz^$document
 ||rollirugbyloewenleipzig.de^$document
 ||rollmops-schaenke.de^$document
+||ropefestore.com^$document
 ||Rorochic.com^$document
 ||rosalina-holfert.de^$document
 ||rosengarten-quartett.de^$document
+||rosenkrieg-magazin.de^$document
 ||rosheplus.com^$document
 ||ross-stall-atelier.ch^$document
 ||rossegger-baumann.at^$document
@@ -3111,6 +3338,7 @@
 ||rosymerry.com^$document
 ||rotaryevents.ca^$document
 ||rotbarschfilet.de^$document
+||rotesblut.de^$document
 ||rotita.com^$document
 ||rotkatoutlet.com^$document
 ||rottclimb.de^$document
@@ -3149,6 +3377,7 @@
 ||salomonden.online^$document
 ||salomoneschuhe.com^$document
 ||salomoneworld.com^$document
+||salomonode.online^$document
 ||salomonschuh.de^$document
 ||salomonschuhe.at^$document
 ||salomonschuhesale.com^$document
@@ -3170,8 +3399,10 @@
 ||sarah-eckert.de^$document
 ||saramond.de^$document
 ||sardinien-sailingcharter.de^$document
+||sas-onlineshopping.com^$document
 ||saschas-fotowelten.de^$document
 ||sat1shopping.de^$document
+||satarakharedi.com^$document
 ||saturdayfrank.de^$document
 ||sauber-macher.com^$document
 ||saubersauger.com^$document
@@ -3182,6 +3413,7 @@
 ||schanfigg.ch^$document
 ||scharhoern.de^$document
 ||schatztruhe-assmann.de^$document
+||schaubuehne-frankfurt.de^$document
 ||schenkichdir.de^$document
 ||schetz72-photography.de^$document
 ||schildknecht-sieben.de^$document
@@ -3191,7 +3423,10 @@
 ||schlank-werden-shop.com^$document
 ||schlanker-werden-shop.de^$document
 ||schlenkhoff-architekten.de^$document
+||schlesien-kultur.de^$document
 ||schleuderprodukte.com^$document
+||schluesseldienst123.at^$document
+||schmalzpfeffer.de^$document
 ||schmegges.de^$document
 ||schmidt-blomberg.de^$document
 ||schmiereimweb.de^$document
@@ -3199,6 +3434,8 @@
 ||schnellbewertung24.de^$document
 ||schnuffisfashion.de^$document
 ||schnullerkettenatelier.de^$document
+||schoen365.de^$document
+||schoen365.de^$document
 ||schoenerwinter.com^$document
 ||schoenheitzzauber.de^$document
 ||schokolade-headstart.de^$document
@@ -3240,6 +3477,7 @@
 ||screen-image.com^$document
 ||scribblepen.com^$document
 ||scriptdemos.de^$document
+||sdblcygoods.com^$document
 ||sdeclessons.com^$document
 ||seabrookmassageandherbs.com^$document
 ||seahofly.com^$document
@@ -3338,6 +3576,7 @@
 ||skisaleshop.com^$document
 ||skiundwandern-klardorf.de^$document
 ||sks-watersport.de^$document
+||sksportde.com^$document
 ||skullyvin.com^$document
 ||skullyvin.eu^$document
 ||skye-alexanderdesigns.co.uk^$document
@@ -3350,6 +3589,7 @@
 ||slutmedtandlaegeskraek.dk^$document
 ||smaggrafix.de^$document
 ||smaher.de^$document
+||smart-and-wheel.com^$document
 ||smart-heaven.store^$document
 ||smart-house24.de^$document
 ||smart-shop24.net^$document
@@ -3361,6 +3601,7 @@
 ||smartphone-diamonds.com^$document
 ||smartphonedeal24.de^$document
 ||smartphoniker-shop.de^$document
+||smartuniverse24.de^$document
 ||smartwatch-vertrieb.de^$document
 ||smartwohnenwien.at^$document
 ||smasverg.com^$document
@@ -3370,6 +3611,8 @@
 ||smokin-palace.com^$document
 ||smoking-areas.com^$document
 ||sn-co.at^$document
+||sneakergirlsblog.de^$document
+||sneakersadi2018.com^$document
 ||sneakersalede.com^$document
 ||sneakersde.org^$document
 ||sneakerspalette-de.com^$document
@@ -3384,6 +3627,7 @@
 ||soesterknott.de^$document
 ||softonlineshop.com^$document
 ||software-outlet24.de^$document
+||soko-logik.de^$document
 ||soldatkin24.com^$document
 ||soldes-luxe.com^$document
 ||soli-stjohann.at^$document
@@ -3411,6 +3655,7 @@
 ||soundwelt-outlet.com^$document
 ||southbankdirectory.co.uk^$document
 ||spa-vienna.at^$document
+||space-electronic.de^$document
 ||space.la-class.com^$document
 ||spainpolen.de^$document
 ||spar-welt.com^$document
@@ -3436,7 +3681,9 @@
 ||spoints-reisen.de^$document
 ||sport-direkt.net^$document
 ||sport-lehrer.de^$document
+||sport-motschnigg.de^$document
 ||sport-physiobitburg.de^$document
+||sportbaron.de^$document
 ||sportfroger.com^$document
 ||sporthaflinger.ch^$document
 ||sportheinz-online.de^$document
@@ -3446,6 +3693,7 @@
 ||sports-ha.com^$document
 ||sportschuhede.eu^$document
 ||sportschule-luna.de^$document
+||sportunionwolfsburg.de^$document
 ||spravi.us^$document
 ||spreerausch.de^$document
 ||spreischl.de^$document
@@ -3457,6 +3705,7 @@
 ||st-martin-eggolsheim.de^$document
 ||st-paulus-langenfeld.de^$document
 ||stade-heide.de^$document
+||staid.giftshopu.com^$document
 ||stamm-jda.de^$document
 ||stamm-luetzow.de^$document
 ||stangenzigaretten24.de^$document
@@ -3499,6 +3748,7 @@
 ||storebrandbags.de^$document
 ||storeguest.com^$document
 ||storetrading.com^$document
+||storytelling-muenchen.de^$document
 ||strategieberatung-kmu.de^$document
 ||streetdesign-motorradtechnik.de^$document
 ||streetluge-austria.at^$document
@@ -3533,6 +3783,8 @@
 ||supertrendings.com^$document
 ||survival-dresden.de^$document
 ||survivalmanifest.com^$document
+||suukenmarket.com^$document
+||suukenmarket.com^$document
 ||sv-alemannia-koeln.de^$document
 ||svhollenburg.at^$document
 ||swanmp2.ch^$document
@@ -3552,6 +3804,7 @@
 ||symbolon-kartenberatung-wimmer.de^$document
 ||syncroholic.de^$document
 ||synergywenatchee.com^$document
+||sys-comp.shop^$document
 ||system-ordnung-struktur.de^$document
 ||szepes-lagerverkauf.de^$document
 ||tabak-paradies.net^$document
@@ -3564,22 +3817,29 @@
 ||tagesschoenheitsfarm-neuss.de^$document
 ||tagungsarrangements.de^$document
 ||tahtakaleticaret.com^$document
+||takaanshop.com^$document
+||tankandloulou.com^$document
 ||tankinistore.de^$document
 ||tanzschule-weinmann.de^$document
 ||tanzstudio-poehlitz.de^$document
 ||tanzstudiosteiner.de^$document
 ||tapebook.de^$document
+||tapemedia.de^$document
 ||tarantella-von-der-holderheide.de^$document
 ||tasche.brandudesigner.com^$document
 ||taschenkaufhaus-24.de^$document
 ||tattoo-fantastica.de^$document
+||tattvalok.com^$document
 ||taucuoc.com^$document
+||taverna-ikaros.at^$document
 ||tawnymayer.com^$document
+||taxmedshop.com^$document
 ||taylers-peak.ch^$document
 ||tblschuhe.de^$document
 ||tc-aflenzland.at^$document
 ||tc-beinhart.de^$document
 ||tc-heide-bottrop.de^$document
+||tcdillingen.de^$document
 ||tcduedingen.ch^$document
 ||team-enjoy.de^$document
 ||team-gamma.de^$document
@@ -3595,6 +3855,7 @@
 ||technik-doku-design.de^$document
 ||technik-fux.com^$document
 ||technik-koehler.de^$document
+||technikbucht.net^$document
 ||technikmann.de^$document
 ||technikoutlet.net^$document
 ||techniksektor.de^$document
@@ -3617,8 +3878,10 @@
 ||tesco24.de^$document
 ||tesento.com^$document
 ||test4.com^$document
+||testsieger-handys.de^$document
 ||tevasandalen.de^$document
 ||thaisawadee.de^$document
+||thb-bmr.de^$document
 ||the-leather-shop.com^$document
 ||theater-chronos.at^$document
 ||theaustrian.org^$document
@@ -3630,6 +3893,7 @@
 ||thehype.shop^$document
 ||thekneehighproject.com^$document
 ||themaharajasexpress.de^$document
+||themindbodyspiritblog.com^$document
 ||themiride.com^$document
 ||thenefmarket.com^$document
 ||thephotostick.com^$document
@@ -3652,6 +3916,7 @@
 ||thielebuch.de^$document
 ||thisted.de^$document
 ||thomas-saboarmband.de^$document
+||thomas-saboonlineshop.com^$document
 ||thomassabo-anhanger.com^$document
 ||thossharpe.co.uk^$document
 ||thw-jugend-salzwedel.de^$document
@@ -3663,6 +3928,7 @@
 ||tier-und-hausservice.de^$document
 ||tierheilpraxis-buchholz.de^$document
 ||tierpension-fuerst.at^$document
+||tierschutzverein-oberursel.com^$document
 ||tighaleder-jacke.de^$document
 ||tillumall.com^$document
 ||timberlands-onlineshop.de^$document
@@ -3708,6 +3974,7 @@
 ||topshopline.com^$document
 ||tortenzirkus.de^$document
 ||tossler.net^$document
+||tourchild.top^$document
 ||tr-assekuranz.de^$document
 ||trade-comp.com^$document
 ||traeh.de^$document
@@ -3731,7 +3998,9 @@
 ||trendswa.com^$document
 ||trendy-gadgets.net^$document
 ||trendy.to^$document
+||trestasty.de^$document
 ||treyuwd.top^$document
+||tribosmarket.com^$document
 ||trif.ch^$document
 ||trikotdeshop.de^$document
 ||trikots-tdng.de^$document
@@ -3788,12 +4057,14 @@
 ||undnach.de^$document
 ||unendliche-begrenzung.de^$document
 ||unikaefer.de^$document
+||uniquefarfit.de^$document
 ||united-fashion-event.de^$document
 ||unitedstreetartists.de^$document
 ||unodocsale.com^$document
 ||unsertheater.ch^$document
 ||uplifeaccessories.xyz^$document
 ||upservices.de^$document
+||urbanangels.org.uk^$document
 ||urbanepoque.store^$document
 ||urbanpanic.de^$document
 ||urlyaobose-gq.tk^$document
@@ -3810,12 +4081,14 @@
 ||uusbags.com^$document
 ||uwl-ligaverwaltung.de^$document
 ||valentinowerk.com^$document
+||valiozo.co^$document
 ||valtooutlet.top^$document
 ||vamonelec.com^$document
 ||vampiresfreak.de^$document
 ||vandaagsexgezocht.nl^$document
 ||vanekautos.nl^$document
 ||vanhoozer.ch^$document
+||vanilleah.at^$document
 ||vansschuhe.at^$document
 ||vaude-rucksack.de^$document
 ||vaudefrance.fr^$document
@@ -3928,6 +4201,7 @@
 ||wallerunddore.de^$document
 ||wals-gallery.de^$document
 ||walterloosli.ch^$document
+||wanabone.com^$document
 ||wanderschuhesale.com^$document
 ||warenhandelpro.com^$document
 ||warenhaus-gerling.com^$document
@@ -3960,6 +4234,7 @@
 ||weinberger-interieur.ch^$document
 ||weinbrenner-umformtechnik.de^$document
 ||weinvierteldraisine-erlebnisbahnhof.at^$document
+||weisseggerhof.at^$document
 ||weisselinien.de^$document
 ||weissmithut.de^$document
 ||wellandtransport.com^$document
@@ -4012,13 +4287,16 @@
 ||wickeltaschen-reduziert.de^$document
 ||wiebkepluspedro.de^$document
 ||wiegeschenkt.de^$document
+||wielandstrasse2.de^$document
 ||wiemanlebensoll.at^$document
 ||wieste88.de^$document
 ||wilcox-property-services.co.uk^$document
 ||wildfeuermedia.de^$document
 ||wildsabine.de^$document
 ||willert-textildruck.de^$document
+||willispub.de^$document
 ||wimex-matchup.de^$document
+||win-wetterau.de^$document
 ||win-wetterau.de^$document
 ||winledsale.com^$document
 ||winnerattop.com^$document
@@ -4035,6 +4313,7 @@
 ||wir-hebammen.at^$document
 ||wir-in-bargstedt.de^$document
 ||wir-neu-wulmstorfer.de^$document
+||wirlaufenzurschule.de^$document
 ||wissenstransfer-berlin.de^$document
 ||wj-tag.de^$document
 ||wm-dornbirn2017.at^$document
@@ -4049,6 +4328,7 @@
 ||wolfcreativelab.at^$document
 ||wolfgang-felix-k.de^$document
 ||wolfhund-erlangen.de^$document
+||wolfram-dental-shop.at^$document
 ||wolfram-gum.de^$document
 ||wolky.sellingclothing.com^$document
 ||wollwerk-und-naehreich.de^$document
@@ -4081,12 +4361,14 @@
 ||wwrwssale.com^$document
 ||www-gamma.de^$document
 ||xelectronicsfirst.site^$document
+||xener.es^$document
 ||xenon-brenner.com^$document
 ||xjdogsale.com^$document
 ||xl-1.de^$document
 ||xlrjtstore.com^$document
 ||xmasgift-mk.com^$document
 ||xn--blackdiamondespaa-uxb.es^$document
+||xntszwmarket.com^$document
 ||xspace.at^$document
 ||xuenuosale.com^$document
 ||xxkgcfshop.com^$document
@@ -4122,9 +4404,11 @@
 ||zahnarzt-schreck.de^$document
 ||zahnpalais.de^$document
 ||zapatoenes.com^$document
+||zarossi.com^$document
 ||zaumschmuck.de^$document
 ||zawmyohtut.com^$document
 ||zazeadshop.com^$document
+||zcjxzlmarket.com^$document
 ||zeitpunkte-film.de^$document
 ||zencologne.de^$document
 ||zensur-in.de^$document
@@ -4147,6 +4431,7 @@
 ||zimmerei-untiedt.de^$document
 ||zitate-per-mail.de^$document
 ||zkz.li^$document
+||zockerbase.de^$document
 ||zockerversand.de^$document
 ||zoemstore.xyz^$document
 ||zonencowboys.de^$document
