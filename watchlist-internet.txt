@@ -4097,6 +4097,7 @@
 ||theaustrian.org^$document
 ||thebrufios.de^$document
 ||thecambridgeinstitute-linz.at^$document
+||thecrazycanner.com^$document
 ||thecutebags.com^$document
 ||thedoormenoshawa.com^$document
 ||thehannashop.com^$document
