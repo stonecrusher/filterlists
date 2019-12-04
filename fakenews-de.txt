@@ -5,11 +5,15 @@
 ! License: Taken from https://github.com/Akamaru/Pi-Hole-Lists/
 ! GitHub issues: https://github.com/stonecrusher/filterlists/issues
 ! Redirect: https://raw.githubusercontent.com/stonecrusher/filterlists/master/fakenews-de.txt
-! Last updated: 2019-05-12
+! Last updated: 2019-12-04
 
 
+||19vierundachtzig.com^$document
 ||afd.de^$document
+||asylterror.com^$document
+||babykaust.de^$document
 ||blog.halle-leaks.de^$document
+||brd-schwindel.org^$document
 ||contra-magazin.com^$document
 ||crimekalender.wordpress.com^$document
 ||de.news-front.info^$document
@@ -18,17 +22,19 @@
 ||deutsch.rt.com^$document
 ||deutsche-stimme.de^$document
 ||deutsche-wirtschafts-nachrichten.de^$document
-||diepresse.com^$document
 ||dortmundecho.org^$document
 ||einwanderungskritik.de^$document
 ||epochtimes.de^$document
 ||freiezeiten.net^$document
 ||gloria.tv^$document
 ||halle-leaks.de^$document
+||hartgeld.com^$document
+||impfen-nein-danke.de^$document
 ||journalistenwatch.com^$document
 ||kopp-report.de^$document
 ||kulturstudio.info^$document
 ||kulturstudio.wordpress.com^$document
+||linksfaschisten.blogspot.com^$document
 ||michael-mannheimer.net^$document
 ||news-front.info^$document
 ||noch.info^$document
@@ -41,5 +47,7 @@
 ||sputniknews.com^$document
 ||theeuropean.de^$document
 ||truth24.net^$document
+||unzensuriert.at^$document
 ||unzensuriert.de^$document
 ||volksstimme.de^$document
+||wgvdl.com^$document
