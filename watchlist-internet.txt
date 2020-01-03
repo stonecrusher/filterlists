@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2019-12-29
+! Last updated:  2020-01-03
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -22,6 +22,7 @@
 ||2015schoenenstore.be^$document
 ||2015sportschuhe.com^$document
 ||24gamma.de^$document
+||24h-pflege-kaernten.at^$document
 ||24polo.de^$document
 ||24things.de^$document
 ||2gemini.de^$document
@@ -49,6 +50,7 @@
 ||a2z-cyber.shop^$document
 ||a2z-garden24.store^$document
 ||aachen.konsolen-gmbh.com^$document
+||aal-brandenburg.de^$document
 ||aalborgfrivilligraad.dk^$document
 ||aalenerstrahlerei.de^$document
 ||aargauertafelrunde.ch^$document
@@ -321,6 +323,7 @@
 ||art-con-shop.de^$document
 ||art-entertainment.at^$document
 ||art2printstudio.co.uk^$document
+||art4salenow.com^$document
 ||artbeatofthecity.com^$document
 ||artealjabiri.de^$document
 ||arthouse.co.at^$document
@@ -347,6 +350,7 @@
 ||asv-grenzland.de^$document
 ||asv-motorsport.de^$document
 ||ateiststore.xyz^$document
+||ateliergardeurstyle.eu^$document
 ||ateliersigrunheck.de^$document
 ||atesco.de^$document
 ||atkraken.com^$document
@@ -383,6 +387,7 @@
 ||avsystemhaus.de^$document
 ||awakenyourmusic.com^$document
 ||axelsfilmshop.de^$document
+||ayuexshop.xyz^$document
 ||b-h-v-agentur.de^$document
 ||b-phreak.de^$document
 ||b-rec.de^$document
@@ -430,6 +435,7 @@
 ||barbara-suckow.de^$document
 ||barbarahiller.de^$document
 ||barbetltsmin.com^$document
+||barbouratjacke.at^$document
 ||barbourdeutschland.de^$document
 ||barbourjackensale.com.de^$document
 ||barbouronlineshop.de^$document
@@ -543,6 +549,7 @@
 ||bestscamerafs.club^$document
 ||beststeroids.at^$document
 ||beststeroids.eu^$document
+||bestygood.com^$document
 ||beta-elec.store^$document
 ||betnetonline.net^$document
 ||bettina-dagmara.de^$document
@@ -608,6 +615,7 @@
 ||blockhuette-pierre.de^$document
 ||blockplix.de^$document
 ||bloomincandlecrafts.com^$document
+||bloomsocks.ca^$document
 ||blue-chips.at^$document
 ||bluemel-vermietung.de^$document
 ||blues-akademie.de^$document
@@ -824,6 +832,7 @@
 ||cheapjeansstores.com^$document
 ||cherisy-film.de^$document
 ||chester-cottons.de^$document
+||chestnutfive.com^$document
 ||chicieonline.com^$document
 ||chickspack.de^$document
 ||chicmary.com^$document
@@ -945,6 +954,7 @@
 ||crepessuzette-neustadt.de^$document
 ||cribri.online^$document
 ||criminaldamagehoodie.de^$document
+||croozer-transport.de^$document
 ||crossover-fit.de^$document
 ||cruelgamerofdarkness.de^$document
 ||crystalnaturprodukte.ch^$document
@@ -962,6 +972,7 @@
 ||cushingokrealtor.com^$document
 ||cuttingedgeng.com^$document
 ||cuw-burgwindheim.de^$document
+||cw-shopping.de^$document
 ||cws-elektro.com^$document
 ||cyanfun.com^$document
 ||cyber-plus.shop^$document
@@ -1025,6 +1036,7 @@
 ||de.belstaffofficial.com^$document
 ||de.dhgate.com^$document
 ||dealportal.name^$document
+||dealshopper.de^$document
 ||deanners.com^$document
 ||deanplumbingandhvac.com^$document
 ||deanplumbingandhvac.com^$document
@@ -1080,6 +1092,7 @@
 ||deva-tore.de^$document
 ||devipmon.com^$document
 ||dffk-teisendorf.de^$document
+||dfrunkendesign.xyz^$document
 ||dfweb-design.de^$document
 ||dgb-goettingen.de^$document
 ||dhgate.com^$document
@@ -1215,6 +1228,7 @@
 ||dvdsetstore.com^$document
 ||dvg-hagen-mitte.de^$document
 ||dw-mettmann.de^$document
+||dxscysale.com^$document
 ||dyballa24.com^$document
 ||dynamicbitsolutions.com^$document
 ||dynamircal.com^$document
@@ -1260,6 +1274,7 @@
 ||econn.eu^$document
 ||edelmar.de^$document
 ||edelweiss-stueberl.at^$document
+||eden-moon.de^$document
 ||edendecotraiteur.fr^$document
 ||edenparkviews.com^$document
 ||edesia.co.uk^$document
@@ -1470,6 +1485,7 @@
 ||expresstorev.com^$document
 ||exquirion.de^$document
 ||exvision.de^$document
+||eysdfsdfsd.myshopify.com^$document
 ||eziobincoletto.com^$document
 ||fabeos-security.de^$document
 ||faceuptodrink.co.uk^$document
@@ -1609,6 +1625,7 @@
 ||flookmiki.com^$document
 ||flora-magazin.de^$document
 ||florbalns.cz^$document
+||florian-vollmers.de^$document
 ||florianthunemann.de^$document
 ||floristik-casa-flora.de^$document
 ||floryday.com^$document
@@ -1621,6 +1638,7 @@
 ||flymotion-odw.de^$document
 ||flytte-udlandet.dk^$document
 ||fm-leverkusen.de^$document
+||fm-stromberger.at^$document
 ||fmscooutlet.top^$document
 ||fmz-ff.at^$document
 ||fniemann.com^$document
@@ -1724,6 +1742,7 @@
 ||fun.thebestubuy.com^$document
 ||fundamentello.com^$document
 ||fundk-modellbau.de^$document
+||funswan.de^$document
 ||fur.furpouch.com^$document
 ||fusionelles.ch^$document
 ||fussballschuhe2015.com^$document
@@ -1745,6 +1764,8 @@
 ||game.newuseason.com^$document
 ||gamefocus.de^$document
 ||gamegram.de^$document
+||gameparadies.com^$document
+||gameparadies.de^$document
 ||gamerhino.de^$document
 ||gamesofrepublic.de^$document
 ||gamestar4.com^$document
@@ -1756,6 +1777,7 @@
 ||gaming24.store^$document
 ||gaming24store.com^$document
 ||gaming24you.com^$document
+||gamingo.eu^$document
 ||gamma24.de^$document
 ||gantwall.com^$document
 ||garminproductstore4us.com^$document
@@ -2021,6 +2043,7 @@
 ||haus-wagrien.de^$document
 ||hausbaeckerei-waldhart.at^$document
 ||hausbau-konzept.de^$document
+||hausderintegration.at^$document
 ||hauselektro.com^$document
 ||hauselektro.com^$document
 ||hausgeraete.expert^$document
@@ -2038,6 +2061,7 @@
 ||haushaltware.net^$document
 ||hauslinie.store^$document
 ||hausmeister-plewniak.de^$document
+||hausrunde.net^$document
 ||hausvendor.net^$document
 ||hausverwaltung-krell.de^$document
 ||hauswelt24.de^$document
@@ -2350,6 +2374,7 @@
 ||jh-baumarkt.de^$document
 ||jiarenstore.com^$document
 ||jin-shin-jyutsu-euskirchen.de^$document
+||jjbuying.com^$document
 ||jjshouse.com^$document
 ||jjshouse.com^$document
 ||jmstv-ablehnen.de^$document
@@ -2375,6 +2400,7 @@
 ||jonawo.de^$document
 ||jorgegarcialima.com^$document
 ||josef-spaier.de^$document
+||jptttsale.com^$document
 ||jroosevelt.com^$document
 ||jsag-bayern.de^$document
 ||jsgaue2002.de^$document
@@ -2456,6 +2482,7 @@
 ||kandiny.de^$document
 ||kandtparry.com^$document
 ||kangatraininghallein.at^$document
+||kanken-rucksack.de^$document
 ||kankenbackpackvips.com^$document
 ||kankustaduo-forte.es^$document
 ||kanmeistore.com^$document
@@ -2653,6 +2680,7 @@
 ||kramer-haushalt.de^$document
 ||krammer-holz.de^$document
 ||krankenhaus-verstehen.de^$document
+||krazestore.com^$document
 ||kreation-und-design.de^$document
 ||kreatoere.de^$document
 ||kreidler-art.de^$document
@@ -2667,6 +2695,7 @@
 ||kroko-deals.de^$document
 ||kronen-apotheke-schweinfurt-app.de^$document
 ||kru7.de^$document
+||ks-marketing.at^$document
 ||ksc-wirges.de^$document
 ||kscboeblingen.de^$document
 ||ksk-in-berlin.de^$document
@@ -2706,6 +2735,7 @@
 ||lachance-hn.de^$document
 ||laclefdeloptique.fr^$document
 ||ladent-zahnarztpraxis.de^$document
+||ladolcevita-bremen.de^$document
 ||lagis.shop^$document
 ||lagom-skandinavia.de^$document
 ||laguna-asslar-ballonteam.de^$document
@@ -2787,6 +2817,7 @@
 ||lesdigitalos.eu^$document
 ||lesehunde.de^$document
 ||lesgranges.ch^$document
+||letmode.com^$document
 ||letussell.de^$document
 ||levousok.com^$document
 ||lewd.hirdiscount.com^$document
@@ -3108,6 +3139,7 @@
 ||melchior-transporte.de^$document
 ||memorialweb.de^$document
 ||memoryoptical.com^$document
+||menily.com^$document
 ||meninblues.de^$document
 ||mento-online.com^$document
 ||mento-online24.com^$document
@@ -3137,6 +3169,7 @@
 ||michaelkorssoutlet.de^$document
 ||michaelkorsstock.com^$document
 ||miclanity.de^$document
+||midatlanticstore.com^$document
 ||migliaresescavi.ch^$document
 ||mihandtaschen.com^$document
 ||mikecottle.co.uk^$document
@@ -3333,6 +3366,7 @@
 ||naturheilpraxis-grickschat.de^$document
 ||naturheilpraxis-kohr.de^$document
 ||naturheilpraxis-svetlana-clemens.de^$document
+||naturobsidian.de^$document
 ||navabi.shop^$document
 ||navarro24.org^$document
 ||nbfyggoods.com^$document
@@ -3521,6 +3555,7 @@
 ||optiker-hechingen.de^$document
 ||orangedust.de^$document
 ||order.shopbydays.com^$document
+||ordoa.de^$document
 ||organicshoppinggoods.com^$document
 ||orgelbau-weitendorf.de^$document
 ||oriento.at^$document
@@ -3816,6 +3851,8 @@
 ||queeneva.com^$document
 ||queliposo.com^$document
 ||quesant.de^$document
+||quilt-anleitungen.de^$document
+||quilt.knitwearwell.com^$document
 ||quilt.salemarketshops.com^$document
 ||quilt.wearsaletobuy.com^$document
 ||quso-haushalt.shop^$document
@@ -3942,6 +3979,7 @@
 ||rcxtremehobbies.com^$document
 ||readyshop.xyz^$document
 ||realbagsdeal.com^$document
+||realbagsretail.com^$document
 ||realchems.de^$document
 ||realtyelitefla.com^$document
 ||rebekka-kraft.de^$document
@@ -4455,6 +4493,7 @@
 ||sorglos-wohnen-und-leben.de^$document
 ||sos-trans.de^$document
 ||sosweetpet.com^$document
+||soufeel.de^$document
 ||soulcat-berlin.de^$document
 ||soulchoirleipzig.de^$document
 ||soulofnippes.de^$document
@@ -4503,6 +4542,7 @@
 ||sport-physiobitburg.de^$document
 ||sportbaron.de^$document
 ||sportfroger.com^$document
+||sportgaststaette-dapippo.de^$document
 ||sporthaflinger.ch^$document
 ||sportheinz-online.de^$document
 ||sporthotel-schwerin.de^$document
@@ -5138,6 +5178,7 @@
 ||waehlen-gmbh.de^$document
 ||waelderlernpfad.at^$document
 ||waelti-reisen.ch^$document
+||wagner-store.com^$document
 ||waibl-wiesner.at^$document
 ||wakevision.ch^$document
 ||waldbroeler-zoocenter.de^$document
@@ -5291,6 +5332,7 @@
 ||wm-dornbirn2017.at^$document
 ||wmwmstore.com^$document
 ||wohnbau-kalmusteich.de^$document
+||wohnconceptkomar.at^$document
 ||wohnen-neubuch.de^$document
 ||wohnidyll-berlin.de^$document
 ||wohnmodul.at^$document
@@ -5401,6 +5443,7 @@
 ||zazeadshop.com^$document
 ||zcjxzlmarket.com^$document
 ||zecaphgoods.com^$document
+||zehen-abstandhalter-de1.com^$document
 ||zeit.classicvpurchase.com^$document
 ||zeitpunkte-film.de^$document
 ||zelono.de^$document
@@ -5789,6 +5832,7 @@
 ||avenida-estate.com^$document
 ||barnes-europa.com^$document
 ||bilfinger-realestate.com^$document
+||booklondonapartment.com^$document
 ||brook-field-assets.com^$document
 ||camden-trust.com^$document
 ||casa-broker.com^$document
@@ -5816,6 +5860,7 @@
 ||int-re.com^$document
 ||invest-urban-concept.com^$document
 ||list-residential.com^$document
+||living-homes.eu^$document
 ||mac-properties.com^$document
 ||now-re.com^$document
 ||on-vista.com^$document
