@@ -5,8 +5,7 @@
 ! License: Taken from https://github.com/Akamaru/Pi-Hole-Lists/
 ! GitHub issues: https://github.com/stonecrusher/filterlists/issues
 ! Redirect: https://raw.githubusercontent.com/stonecrusher/filterlists/master/fakenews-de.txt
-! Last updated: 2019-12-04
-
+! Last updated: 2020-02-12
 
 ||19vierundachtzig.com^$document
 ||afd.de^$document
@@ -22,6 +21,7 @@
 ||deutsch.rt.com^$document
 ||deutsche-stimme.de^$document
 ||deutsche-wirtschafts-nachrichten.de^$document
+||diepresse.com^$document
 ||dortmundecho.org^$document
 ||einwanderungskritik.de^$document
 ||epochtimes.de^$document
@@ -29,7 +29,9 @@
 ||gloria.tv^$document
 ||halle-leaks.de^$document
 ||hartgeld.com^$document
+||heutigen-nachrichten.de^$document
 ||impfen-nein-danke.de^$document
+||islamspiegel-hamburg.de^$document
 ||journalistenwatch.com^$document
 ||kopp-report.de^$document
 ||kulturstudio.info^$document
@@ -50,4 +52,6 @@
 ||unzensuriert.at^$document
 ||unzensuriert.de^$document
 ||volksstimme.de^$document
+||welt-im-wandel.tv^$document
 ||wgvdl.com^$document
+||zentrum-der-gesundheit.de
