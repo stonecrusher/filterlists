@@ -15,8 +15,8 @@
 ||brd-schwindel.org^$document
 ||contra-magazin.com^$document
 ||crimekalender.wordpress.com^$document
-||de.news-front.info^$document
-||de.sputniknews.com^$document
+||news-front.info^$document
+||sputniknews.com^$document
 ||denken-macht-frei.info^$document
 ||deutsch.rt.com^$document
 ||deutsche-stimme.de^$document
@@ -54,4 +54,4 @@
 ||volksstimme.de^$document
 ||welt-im-wandel.tv^$document
 ||wgvdl.com^$document
-||zentrum-der-gesundheit.de
+||zentrum-der-gesundheit.de^$document
