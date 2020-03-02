@@ -3,12 +3,11 @@
 ! Homepage: https://github.com/stonecrusher/filterlists
 ! Title: web.de und gmx Turbo
 ! Expires: 7 days
-! Version: 20200227
+! Version: 20200301
 ! Redirect: https://raw.githubusercontent.com/stonecrusher/filterlists/master/gmx-webde-turbo.txt
 !
 ! Autor: Stonecrusher
 ! Lizenz: Creative Commons BY-NC-SA 4.0 http://creativecommons.org/licenses/by-nc-sa/4.0/
-
 
 ! WEB.DE
 ||i0.web.de/image/$image
@@ -31,6 +30,7 @@
 ||gmx.net^*/generic_adition_
 ||trackbar.navigator.gmx.net^
 ||img.ui-portal.de/apps/touchdown-templates/cockpit/widgets/tv/
+||dl.gmx.net/*/js/permission-client*.js|
 ||img.ui-portal.de/nav-cdn/home-gmx/*/dist/img/cockpit/infotour_
 @@||img.ui-portal.de/homepage/img/gmx/logo.svg|
 
@@ -50,11 +50,11 @@
 ||img.ui-portal.de/eigenwerbung/
 ||cloudfront.net$domain=gmx.net|web.de
 ||s.uicdn.com/*/promotion/
+||img.ui-portal.de/homepage/fonts/
 @@||img.ui-portal.de/homepage/img/*/icons/mainnav*/weather*.svg|
 @@||img.ui-portal.de/homepage/img/*/icons/mainnav*/wetter*.svg|
 @@||img.ui-portal.de/homepage/img/*/icons/hint*$image
 @@||img.ui-portal.de/homepage/img/*/btn/$image
-
 
 !!#if ext_ublock
 ! ublock-spezifische filter hier rein
