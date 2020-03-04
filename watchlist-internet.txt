@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-03-03
+! Last updated:  2020-03-04
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -1048,7 +1048,6 @@
 ||cousin.specutrums.com^$document
 ||cowboystiefelverkauf.de^$document
 ||cp-handel-shop.com^$document
-||cpgtstream4.com/s26r/^$document
 ||cragoo.de^$document
 ||crasheco.com^$document
 ||crazychemists.de^$document
@@ -1093,7 +1092,6 @@
 ||dachboxoutlet.com^$document
 ||dagiuseppe-haimhausen.de^$document
 ||daijostore.com^$document
-||dailymetcon.it/M/^$document
 ||dailywish43.com^$document
 ||damen.promotioncarnival.com^$document
 ||damenperuecke.com^$document
@@ -1241,7 +1239,6 @@
 ||dieseluhrenberlin.com^$document
 ||diesophiestore.com^$document
 ||diez-hardware.de^$document
-||differenta.com/^$document
 ||digelektro.de^$document
 ||diggedidope.de^$document
 ||digigerate-store.de^$document
@@ -1333,6 +1330,7 @@
 ||drykornpullover.de^$document
 ||dscarf.com^$document
 ||dsh-clan.de^$document
+||dslladen.com^$document
 ||dsnau.com^$document
 ||dsxhftmall.com^$document
 ||dsz-maecenata.de^$document
@@ -1454,6 +1452,7 @@
 ||electro-port.com^$document
 ||electro-sale.shop^$document
 ||electroactive.store^$document
+||electroland-shopping.com^$document
 ||electromish.de^$document
 ||electron-prof.com^$document
 ||electronicfactorys.de^$document
@@ -1503,6 +1502,7 @@
 ||elektroniknetzteil.de^$document
 ||elektroniksmarket.com^$document
 ||elektronikweber.de^$document
+||elektronio.de^$document
 ||elektronisch-gerate.com^$document
 ||elektronlinestore.com^$document
 ||elektropia.de^$document
@@ -1572,6 +1572,7 @@
 ||erz-fly.de^$document
 ||erzgebirgsreporter.de^$document
 ||escapecheck-hamburg.de^$document
+||esdorado.com^$document
 ||eselundziegenwandern.de^$document
 ||eshopmarcket.com^$document
 ||eslpqr.com^$document
@@ -2181,6 +2182,7 @@
 ||gunnareckert.de^$document
 ||gut.vipluckyshop.com^$document
 ||guteapotheke.co.za^$document
+||gutes-produkt.com^$document
 ||gvp-berlin.de^$document
 ||gysbers-versand.com^$document
 ||gzpulverturm.de^$document
@@ -2532,8 +2534,6 @@
 ||inside.mereutricious.com^$document
 ||insigniadrivingtour.at^$document
 ||insolvenzamt.com^$document
-||instagram.com/yeezystoregermany^$document
-||instagram.com/yezzaywatches_^$document
 ||instametall.de^$document
 ||institut-perspektive.de^$document
 ||integra-ma.de^$document
@@ -2726,7 +2726,6 @@
 ||kaffeebedarf.eu^$document
 ||kaffeegermany.de^$document
 ||kaffeegolbus.de^$document
-||kaffeeguru.com/^$document
 ||kaffeehelden.eu^$document
 ||kaffeenator.de^$document
 ||kaffeepause24.com^$document
@@ -2755,7 +2754,6 @@
 ||kameratronic.de^$document
 ||kamilo.de^$document
 ||kampfsport-aga.de^$document
-||kandiny.com/at^$document
 ||kandiny.de^$document
 ||kandtparry.com^$document
 ||kangatraininghallein.at^$document
@@ -3096,6 +3094,7 @@
 ||legaler-fuhrerschein.com^$document
 ||lehrertankstelle-noe.com^$document
 ||leichter-berlin.de^$document
+||leidl-skischule.de^$document
 ||leihohr.de^$document
 ||leilingual-business.com^$document
 ||leinenfrosch.de^$document
@@ -3437,6 +3436,7 @@
 ||media-silver.shop^$document
 ||media-sky.store^$document
 ||media-tadara.de^$document
+||media-tronics.de^$document
 ||media-wagner.de^$document
 ||media-xxl.shop^$document
 ||media-yellow.store^$document
@@ -3544,7 +3544,6 @@
 ||millionaersuchtfrau.de^$document
 ||milonga-ingolstadt.de^$document
 ||mimtubularsupply.com^$document
-||mincil.de/shopserver/shops/s008349/^$document
 ||mincmall.xyz^$document
 ||mindshirts.de^$document
 ||minelice.de^$document
@@ -3656,7 +3655,6 @@
 ||motorradzubehorliefern.xyz^$document
 ||mototrans1.de^$document
 ||moveactiv.com^$document
-||moyucubeshop.com/de/^$document
 ||mp-reptiles.de^$document
 ||mp46designprint.de^$document
 ||mr-back.de^$document
@@ -3667,6 +3665,7 @@
 ||mrmontero.de^$document
 ||mrnerd.de^$document
 ||mrollium.de^$document
+||mrphonedeals.com^$document
 ||mrschimneyguy.com^$document
 ||mrsnoops.de^$document
 ||msf-outdoor.com^$document
@@ -3695,6 +3694,7 @@
 ||musiccorn.at^$document
 ||musikliebling.com^$document
 ||musikzug-wurster-nordseekueste.de^$document
+||mustangjeansshop.eu^$document
 ||mustcafe.ca^$document
 ||muta-racing.de^$document
 ||muth-elektronik.com^$document
@@ -3901,6 +3901,7 @@
 ||objektrausch.de^$document
 ||obstbaumpflege-rhein-ruhr.de^$document
 ||occupykarlsruhe.de^$document
+||oceanbleue.com^$document
 ||oceanwoodcraft.com^$document
 ||ochsenloo.com^$document
 ||odbvgoweulfh.online^$document
@@ -4312,6 +4313,7 @@
 ||rabatt2.com^$document
 ||rabatt4dich.com^$document
 ||rabattkoder247.se^$document
+||rabattonline2020.com^$document
 ||racebunch.de^$document
 ||rackactive.com^$document
 ||rad-trikots.de^$document
@@ -4454,6 +4456,7 @@
 ||reicher-art.at^$document
 ||reifen-discount.net^$document
 ||reifen-prechtl.de^$document
+||reifencheck.net^$document
 ||reifenexperte.net^$document
 ||reifenmax.net^$document
 ||reifentitan.net^$document
@@ -4560,6 +4563,7 @@
 ||robomotion24.de^$document
 ||rockactivestore.com^$document
 ||rockandrolltrio-berlin.de^$document
+||rocket-deals.de^$document
 ||rockinoberhavel.de^$document
 ||rockymotorsports.de^$document
 ||rocwitty.com^$document
@@ -4733,6 +4737,7 @@
 ||schuhe^$document
 ||schuhe-deutschland.com^$document
 ||schuhe-rabatt.com^$document
+||schuhe.brandsusale.com^$document
 ||schuhe.storealife.com^$document
 ||schuhebern.net^$document
 ||schuhen-store.de^$document
@@ -4857,6 +4862,7 @@
 ||shoppyglobe.com^$document
 ||shops-tech.eu^$document
 ||shoptesta.de^$document
+||shopuniquemarket.com^$document
 ||shopuup.com^$document
 ||shopvn.de^$document
 ||shopyjt.vejaoutfit.site^$document
@@ -4894,7 +4900,6 @@
 ||sirmonline.it^$document
 ||sjtzvhsale.com^$document
 ||sjzxdfmall.com^$document
-||sjzxdfmall.com/^$document
 ||sk-biografien.de^$document
 ||skateheadclothing.com^$document
 ||skecherseu.com^$document
@@ -5205,6 +5210,7 @@
 ||tabakshop2000.de^$document
 ||tabakshopping.com^$document
 ||tablistools.com^$document
+||tafelfarben.de^$document
 ||tag-des-rueckens.de^$document
 ||tagesklinik-luedenscheid.de^$document
 ||tagesmutti-zwergenhaus.de^$document
@@ -5350,6 +5356,7 @@
 ||thetransfiguration.co.uk^$document
 ||thewatchmaker1.weebly.com^$document
 ||thg.co.at^$document
+||thickness.bestanseller.com^$document
 ||thielebuch.de^$document
 ||thiellashop.com^$document
 ||thiellashop.com^$document
@@ -5477,6 +5484,7 @@
 ||trikotset.com^$document
 ||trilokamarket.com^$document
 ||tripp-marketing.de^$document
+||tripvariator.at^$document
 ||trockner-outlet.de^$document
 ||trojaweb.de^$document
 ||tronicoase.de^$document
@@ -5604,7 +5612,6 @@
 ||veddel-sport.de^$document
 ||vedhastech.com^$document
 ||veduco.de^$document
-||veganfoodie.de/^$document
 ||vejasstore.club^$document
 ||velatempo.com^$document
 ||veloberlin.de^$document
@@ -5714,6 +5721,7 @@
 ||vorwerk-kauf.com^$document
 ||vorwerk-thermo.net^$document
 ||vorwerk-thermomix-gmbh.com^$document
+||vorwerk-tm.com^$document
 ||vorwerk.club^$document
 ||vostiklap.de^$document
 ||vpv-wiesbaden.de^$document
@@ -5897,6 +5905,7 @@
 ||wm-dornbirn2017.at^$document
 ||wmwmstore.com^$document
 ||wnsjktonline.com^$document
+||wodaoly.com^$document
 ||wohnbau-kalmusteich.de^$document
 ||wohnen-neubuch.de^$document
 ||wohnidyll-berlin.de^$document
@@ -5978,6 +5987,7 @@
 ||yakpilot.de^$document
 ||yb-nails-berlin.de^$document
 ||ybdp.ca^$document
+||yearly.latestontrends.com^$document
 ||yeescroemin.com^$document
 ||yeezyboost.at^$document
 ||yeezys750de.com^$document
@@ -6007,6 +6017,7 @@
 ||youropee.com^$document
 ||yousoyo.com^$document
 ||youwins.ch^$document
+||yoyokila.com^$document
 ||ythubsmall.com^$document
 ||ytjper.com^$document
 ||ytowinmarket.com^$document
