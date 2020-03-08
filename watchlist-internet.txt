@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-03-05
+! Last updated:  2020-03-07
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -1602,7 +1602,6 @@
 ||euro-nomadi.com^$document
 ||euro-roids.com^$document
 ||eurocam-es.de^$document
-||eurocarexport.vip^$document
 ||europaoutlet.eu^$document
 ||euroshopmarket.co.uk^$document
 ||euroshopmarket.eu^$document
@@ -1702,6 +1701,7 @@
 ||fcnom.de^$document
 ||fcsctsale.com^$document
 ||feastupon.co.uk^$document
+||febsale.com^$document
 ||federkontakt-smd.de^$document
 ||fedop.eu^$document
 ||feelings-individuellekosmetik.de^$document
@@ -2279,6 +2279,7 @@
 ||haushalts-lagerverkauf.de^$document
 ||haushaltsektor.de^$document
 ||haushaltselite.de^$document
+||haushaltsfreunde.net^$document
 ||haushaltshop.net^$document
 ||haushaltslager.eu^$document
 ||haushaltsparade.net^$document
@@ -2420,6 +2421,7 @@
 ||hots-boots.com^$document
 ||hotuashoes.com^$document
 ||houmiaomarket.com^$document
+||houseoftronic.store^$document
 ||howillbuy.com^$document
 ||hpdgsmarket.com^$document
 ||hpm-hanse.de^$document
@@ -2529,7 +2531,6 @@
 ||innaemarket.com^$document
 ||inno-store.com^$document
 ||inselgrill.at^$document
-||inseltasche.de^$document
 ||inshopys.com^$document
 ||inside.mereutricious.com^$document
 ||insigniadrivingtour.at^$document
@@ -4232,6 +4233,7 @@
 ||primeshe.com^$document
 ||primetime-artist-management.de^$document
 ||printlive-app.de^$document
+||pris.creaturepuppetgallery.com^$document
 ||prismmall.xyz^$document
 ||privado-mallorca.com^$document
 ||privatefloor.com^$document
@@ -4360,6 +4362,7 @@
 ||raven-shop.com^$document
 ||ravensburger-krippenland.de^$document
 ||raveofcolours.com^$document
+||ravhagoods.com^$document
 ||rawchanger.com^$document
 ||rawggie.de^$document
 ||ray-de.com^$document
@@ -4817,6 +4820,7 @@
 ||shara-shantie.de^$document
 ||sharkyogaflex.com^$document
 ||shb-biw.de^$document
+||shdjjdonline.com^$document
 ||shedroffassociates.com^$document
 ||sheheaven.com^$document
 ||sheinse.com^$document
@@ -4960,6 +4964,7 @@
 ||sniggelsnuggel.de^$document
 ||snowbootat.com^$document
 ||snowbootsaut.com^$document
+||snowgear.com^$document
 ||soapy.stroplgng.com^$document
 ||soccercoachmagdy.at^$document
 ||soccergreet.com^$document
@@ -6109,6 +6114,8 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||miniflix.de^$document
+||judoplay.de^$document
 ||zeroplay.de^$document
 ||galoflix.de^$document
 ||preflix.de^$document
