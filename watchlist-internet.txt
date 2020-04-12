@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-04-08
+! Last updated:  2020-04-11
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -14,6 +14,7 @@
 ||123babyland.shop^$document
 ||123buy.eu^$document
 ||123einkauf.at^$document
+||13de.detoxic.net^$document
 ||18fussballshop.eu^$document
 ||1991inc.com^$document
 ||1aahardware.de^$document
@@ -1525,6 +1526,7 @@
 ||elas-nagelzauber.de^$document
 ||elasticar.de^$document
 ||eldorex-store.de^$document
+||elec-stache.de^$document
 ||electhrons.de^$document
 ||electris.shop^$document
 ||electro-port.com^$document
@@ -1588,6 +1590,7 @@
 ||elektropia.de^$document
 ||elektroriese24.de^$document
 ||elektrosale.com^$document
+||elektroschwein24.com^$document
 ||elektrostation24.de^$document
 ||elektrotraum.com^$document
 ||elektrowagner24.de^$document
@@ -2036,6 +2039,7 @@
 ||g7-protest.de^$document
 ||gabriele-wurm.at^$document
 ||gabrielebriesemeister.de^$document
+||gador-markt.com^$document
 ||gaeste-plus.de^$document
 ||gaestehaus-toff.at^$document
 ||galabau-hesbuell.de^$document
@@ -2384,6 +2388,7 @@
 ||haushalt-de.com^$document
 ||haushalt-lektro.de^$document
 ||haushalt-versand-shop.de^$document
+||haushalt24.net^$document
 ||haushalt2go.de^$document
 ||haushalt365.net^$document
 ||haushalt4me.de^$document
@@ -3101,6 +3106,7 @@
 ||konsolen-sky.de^$document
 ||konsolenkammer24.de^$document
 ||konsolenkiste.de^$document
+||konsolenpalast.de^$document
 ||konsolenparadies.de^$document
 ||konsolenstation24.com^$document
 ||konsolensultan.de^$document
@@ -3159,6 +3165,7 @@
 ||kuchenversum.de^$document
 ||kuechenaligator.website^$document
 ||kuechenherzen.de^$document
+||kuechenratio.de^$document
 ||kuechenstudio-unger.de^$document
 ||kuihmall.com^$document
 ||kuitego.com^$document
@@ -3775,6 +3782,7 @@
 ||mmipprosale.com^$document
 ||mmkskvd.top^$document
 ||mmoga.de^$document
+||mnml.shop^$document
 ||mobi4you.de^$document
 ||mobil-markt.net^$document
 ||mobile-markt.com^$document
@@ -5125,6 +5133,7 @@
 ||shushoku-seiko.com^$document
 ||siambluegreen.com^$document
 ||sicheres-modding.com^$document
+||siclothingonline.com^$document
 ||side.commandoll.com^$document
 ||sidoro-kosmetik.de^$document
 ||siebenklar.de^$document
@@ -5146,6 +5155,7 @@
 ||simondroissart.be^$document
 ||simone-siegmann.de^$document
 ||simoro.de^$document
+||simplexe.co^$document
 ||sinas-kinderwunderwelt.de^$document
 ||sinergiabenessere.it^$document
 ||single-event-fabrik.de^$document
@@ -5542,6 +5552,7 @@
 ||tech4friends.store^$document
 ||techeteam.com^$document
 ||techkro.de^$document
+||techmeta.store^$document
 ||technero.net^$document
 ||technik-doku-design.de^$document
 ||technik-fux.com^$document
@@ -5588,6 +5599,7 @@
 ||thb-bmr.de^$document
 ||the-leather-shop.com^$document
 ||theater-chronos.at^$document
+||theaterverein-nd.at^$document
 ||theatredusoleil.com^$document
 ||theaustrian.org^$document
 ||thebrinx.com^$document
@@ -5704,6 +5716,7 @@
 ||tonysshoeshop.top^$document
 ||tookacogoods.com^$document
 ||tool.followafashion.com^$document
+||toolfreunde.net^$document
 ||toolshopc.com^$document
 ||top-apotheke.com^$document
 ||topaska.de^$document
@@ -6389,6 +6402,7 @@
 ||zigarettenexpress.co^$document
 ||zigmabit.com^$document
 ||zillestrasse107.de^$document
+||zilvu.de^$document
 ||zimmerei-bisanz.de^$document
 ||zimmerei-huhmann.de^$document
 ||zimmerei-korntal.de^$document
@@ -6427,6 +6441,9 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||nodaflix.de^$document
+||leloflix.de^$document
+||shaflix.de^$document
 ||simoflix.de^$document
 ||adoflix.de^$document
 ||beeflix.de^$document
@@ -6883,6 +6900,7 @@
 ||reise-buchen.info^$document
 
 !!! Fraudulent craft services:
+||key-auf.at^$document
 ||klempner-notdienst.net^$document
 ||entruempelung-gruber.info^$document
 ||schluesseldienst-hilfe.at^$document
