@@ -7200,29 +7200,29 @@
 ||viagogo.com^$document
 
 # Malformed URIs from the original WLI
-cpgtstream4.com
-dailymetcon.it
-differenta.com
-kaffeeguru.com
-kandiny.com
-kandiny.de
-mincil.de
-moyucubeshop.com
-sjzxdfmall.com
-veganfoodie.de
+||cpgtstream4.com^$document
+||dailymetcon.it^$document
+||differenta.com^$document
+||kaffeeguru.com^$document
+||kandiny.com^$document
+||kandiny.de^$document
+||mincil.de^$document
+||moyucubeshop.com^$document
+||sjzxdfmall.com^$document
+||veganfoodie.de^$document
 
 # Additions from verbraucherschutz.com
 # https://www.verbraucherschutz.com/warnungsticker/warnung-hier-drohen-hohe-streaming-rechnungen-und-aerger-nicht-registrieren/
-bgs.bz
-bugaflix.de
-buroflix.de
-duckflix.de
-gabaflix.de
-gonnaflix.de
-mainflix.de
-moviedad.de
-movieshub.de
-nubaflix.com
-playada.de
-playmemo.de
-vivaflix.de
+||bgs.bz^$document
+||bugaflix.de^$document
+||buroflix.de^$document
+||duckflix.de^$document
+||gabaflix.de^$document
+||gonnaflix.de^$document
+||mainflix.de^$document
+||moviedad.de^$document
+||movieshub.de^$document
+||nubaflix.com^$document
+||playada.de^$document
+||playmemo.de^$document
+||vivaflix.de^$document
