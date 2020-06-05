@@ -1,5 +1,5 @@
-! Title: Pi-Hole-Lists - German Fakenews
-! Expires: 7 days
+! Title: German Fakenews (uBO Version)
+! Expires: 14 days
 ! Description: Block domains known for fakenews (german). List taken from https://github.com/Akamaru/Pi-Hole-Lists/blob/master/fakenewsde.txt
 ! Homepage: https://github.com/stonecrusher/filterlists/
 ! License: Taken from https://github.com/Akamaru/Pi-Hole-Lists/
