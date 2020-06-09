@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-06-06
+! Last updated:  2020-06-09
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -425,6 +425,7 @@
 ||audiosora.com^$document
 ||aufgewacht.at^$document
 ||aufjagd.de^$document
+||augennstern.com^$document
 ||augenoptiker-kuehne.de^$document
 ||augustinusheim-fr.de^$document
 ||auktionshilfe.store^$document
@@ -964,6 +965,7 @@
 ||casalepoggetto.it^$document
 ||casefetish.com^$document
 ||casor.de^$document
+||cathedralofthemoon.com^$document
 ||cavalopretorentals.com^$document
 ||cc-fins.de^$document
 ||cccorbieres.ch^$document
@@ -1689,6 +1691,7 @@
 ||elektroshop-schulz.de^$document
 ||elektrostation24.de^$document
 ||elektrotraum.com^$document
+||elektrova-shop.de^$document
 ||elektrowagner24.de^$document
 ||elektrowaren-trip.com^$document
 ||elenetzteil.de^$document
@@ -2445,7 +2448,6 @@
 ||gymsportswearssale.com^$document
 ||gysbers-versand.com^$document
 ||gzpulverturm.de^$document
-||h^$document
 ||ha-ko.at^$document
 ||haarformersalon-am-dom.de^$document
 ||hachingforever.de^$document
@@ -3585,6 +3587,7 @@
 ||loki.laf-pub.com^$document
 ||lokklo.com^$document
 ||lolitors.com^$document
+||lomindo24.de^$document
 ||lomiq.de^$document
 ||long.nicetoby.com^$document
 ||look.boutiqueushop.com^$document
@@ -3860,6 +3863,7 @@
 ||mediatempel24.com^$document
 ||mediatopmaster.com^$document
 ||mediatower.store^$document
+||mediatronic.shop^$document
 ||mediawerner.de^$document
 ||mediawunder.de^$document
 ||medicalsmilesgmbh.com^$document
@@ -4479,6 +4483,7 @@
 ||osterwick-miteinander.de^$document
 ||ostopauswahl.com^$document
 ||ostsee-katen.de^$document
+||ottakind.at^$document
 ||otto-bonhoff.de^$document
 ||ottodee.com^$document
 ||ottokummer.at^$document
@@ -4585,6 +4590,7 @@
 ||pensionwinter.at^$document
 ||perfect-housekeeping.store^$document
 ||perfekt-haushalt.com^$document
+||perfogaming.com^$document
 ||perfumes-wholesaler.com^$document
 ||peripado24.de^$document
 ||perlmann-handel.de^$document
@@ -4952,6 +4958,7 @@
 ||rbzde.com^$document
 ||rbzvv.com^$document
 ||rc-quertreiber.de^$document
+||rcechilep.com^$document
 ||rcmnegoods.com^$document
 ||rcoffroader-ev.de^$document
 ||rcwitte.de^$document
@@ -5022,6 +5029,7 @@
 ||remax-top-immobilien-hamburg.de^$document
 ||renate-scheichelbauer.at^$document
 ||rencontres.at^$document
+||rennradbekleidung.com^$document
 ||replayonlinesale.de^$document
 ||replica-uhren.biz^$document
 ||replica-uhrenshop.com^$document
@@ -5294,7 +5302,6 @@
 ||schubertiade-salzburg.at^$document
 ||schuh-buessing.de^$document
 ||schuhdemarkt.de^$document
-||schuhe^$document
 ||schuhe-deutschland.com^$document
 ||schuhe-rabatt.com^$document
 ||schuhe.brandsusale.com^$document
@@ -5637,9 +5644,11 @@
 ||sport-carl.de^$document
 ||sport-direkt.net^$document
 ||sport-fabrik.net^$document
+||sport-fritz.de^$document
 ||sport-lehrer.de^$document
 ||sport-motschnigg.de^$document
 ||sport-physiobitburg.de^$document
+||sport24.world^$document
 ||sport4friends.store^$document
 ||sportbaron.de^$document
 ||sportfroger.com^$document
@@ -6855,6 +6864,7 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||boflix.de^$document
 ||nexaflix.de^$document
 ||maroflix.de^$document
 ||flipflix.de^$document
@@ -7373,6 +7383,7 @@
 ||elektriker-dienst.at^$document
 
 !!! Fraudulent forwarding agencies:
+||globallogisticltd.com^$document
 ||inbrit.services-limited.com^$document
 ||dpd-courier.com^$document
 ||transbodek.com^$document
