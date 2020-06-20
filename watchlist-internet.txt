@@ -2379,7 +2379,7 @@
 ||glasses-ebay.com^$document
 ||global-beauty.shop^$document
 ||global-design.at^$document
-||Globalex24.de^$document
+||globalex24.de^$document
 ||globalmasksuppliers.com^$document
 ||globus-cassus.org^$document
 ||glogloestore.com^$document
@@ -2578,7 +2578,7 @@
 ||haushalt24.net^$document
 ||haushalt2go.de^$document
 ||haushalt365.net^$document
-||Haushalt4life.de^$document
+||haushalt4life.de^$document
 ||haushalt4me.de^$document
 ||haushalt4me.net^$document
 ||haushalthit.de^$document
@@ -2767,7 +2767,7 @@
 ||ht-kraemer.de^$document
 ||hubert-glaser-passau.de^$document
 ||hubertus-rathenow.de^$document
-||Huda-beautyshop.de^$document
+||huda-beautyshop.de^$document
 ||hudabeauty-de.com^$document
 ||huegelrad.de^$document
 ||hugoboss-onlineshop.de^$document
@@ -2793,7 +2793,7 @@
 ||hydropenyaringair.com^$document
 ||hyeseungtech.com^$document
 ||hygienisch-frisch.de^$document
-||Hypesneakers.co^$document
+||hypesneakers.co^$document
 ||hypnos-esslingen.de^$document
 ||hypnose-enderle.de^$document
 ||hyybabe.com^$document
@@ -3065,7 +3065,7 @@
 ||jugendraum-thaiden.de^$document
 ||jugiwiden.ch^$document
 ||jugo-zollernalb.de^$document
-||Juilland-vins.ch^$document
+||juilland-vins.ch^$document
 ||jula-shop.de^$document
 ||julia-gehring.at^$document
 ||julia-mottl.de^$document
@@ -5209,7 +5209,7 @@
 ||romeooo.com^$document
 ||roos-kuebler.de^$document
 ||ropefestore.com^$document
-||Rorochic.com^$document
+||rorochic.com^$document
 ||rosalina-holfert.de^$document
 ||roselory.com^$document
 ||rosengarten-quartett.de^$document
@@ -5444,7 +5444,7 @@
 ||selbstintrovision.de^$document
 ||selbsttranszendenz.de^$document
 ||selected-band.de^$document
-||Selected-health.de^$document
+||selected-health.de^$document
 ||selenoidvalves.com^$document
 ||selfcsmall.com^$document
 ||selfmademusic-ms.eu^$document
@@ -7009,7 +7009,7 @@
 ||teraflix.de^$document
 ||ebaflix.de^$document
 ||bodaflix.de^$document
-||Bugaflix.de^$document
+||bugaflix.de^$document
 ||embaflix.de^$document
 ||nodaflix.de^$document
 ||leloflix.de^$document
@@ -7110,7 +7110,7 @@
 ||moviedo.de^$document
 ||gogomovies.de^$document
 ||moviesta.de^$document
-||movieDad.de^$document
+||moviedad.de^$document
 ||playoda.de^$document
 ||flixana.de^$document
 ||okflix.de^$document
@@ -7275,7 +7275,7 @@
 ||heroflix.de^$document
 ||hugostream.de^$document
 ||ibostream.de^$document
-||Imaxcine.com^$document
+||imaxcine.com^$document
 ||imaxdome.com^$document
 ||imaxfilme.com^$document
 ||imaxgo.de^$document
