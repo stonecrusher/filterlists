@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-06-20
+! Last updated:  2020-06-29
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -63,10 +63,12 @@
 ||ab-sicht.at^$document
 ||aba-sport.com^$document
 ||abendbrotmainz.de^$document
+||abestmall.com^$document
 ||abipartyxxl.de^$document
 ||ablageshop.de^$document
 ||ablynamall.com^$document
 ||abnehmen-einfach-gemacht.de^$document
+||abrintelc.com^$document
 ||absatzzeilen.at^$document
 ||abundzu-band.de^$document
 ||ac-feldkirchen.at^$document
@@ -146,6 +148,7 @@
 ||ahrenshop.com^$document
 ||aich-dahoam.at^$document
 ||aidswiki.de^$document
+||aikpro.com^$document
 ||ailinekristin.de^$document
 ||aimmos-webdesign.de^$document
 ||aiomed.de^$document
@@ -275,6 +278,7 @@
 ||andel-grafikdesign.de^$document
 ||andhrainformation.com^$document
 ||andiamo-wmk.de^$document
+||andreas-strolz.at^$document
 ||andreasrollo.de^$document
 ||androidrubik.com^$document
 ||andros-versand.store^$document
@@ -435,6 +439,7 @@
 ||aupair-mama.de^$document
 ||auremonlus.eu^$document
 ||aurynquest.de^$document
+||auslebenrefl.de^$document
 ||ausstellungsartikel.info^$document
 ||austrian-dream.at^$document
 ||austriandeltaforce.at^$document
@@ -652,6 +657,7 @@
 ||bestpricefashionbrands.com^$document
 ||bestpricesfashion.com^$document
 ||bestraybanshop.com^$document
+||bestronik.com^$document
 ||bestscamerafs.club^$document
 ||beststeroids.at^$document
 ||beststeroids.eu^$document
@@ -713,6 +719,7 @@
 ||billiglose.de^$document
 ||billigmode.com^$document
 ||billigssale.com^$document
+||billingn.com^$document
 ||binorino.com^$document
 ||binorino.com^$document
 ||biokamine-dortmund.de^$document
@@ -746,6 +753,7 @@
 ||blanzbom.com^$document
 ||blaue-sau.de^$document
 ||blauer-engel-malzhaus.de^$document
+||blauerhein.de^$document
 ||blautech.net^$document
 ||blauweisseritter.de^$document
 ||blckpodz.com^$document
@@ -1123,6 +1131,7 @@
 ||comfyracks.com^$document
 ||comfyrs.com^$document
 ||comlagl.xyz^$document
+||comodolino.com^$document
 ||completerecruit.co.uk^$document
 ||complexionconcierge.com^$document
 ||component-hk.com^$document
@@ -1310,6 +1319,7 @@
 ||deinlieblingstier.com^$document
 ||deinpartysound.de^$document
 ||deinschmuckladen.com^$document
+||deisterklick.de^$document
 ||dekanathegau.de^$document
 ||delcadora-store.de^$document
 ||dellaroccadeipapi.it^$document
@@ -1507,6 +1517,7 @@
 ||dsz-maecenata.de^$document
 ||dtg4motion.de^$document
 ||du-trauercafe.de^$document
+||du-und-ich.at^$document
 ||dubhlinn.it^$document
 ||dugin.co.uk^$document
 ||duisburg.konsolen-gmbh.com^$document
@@ -1532,6 +1543,7 @@
 ||dzuhrenkaufen.com^$document
 ||dzuhrenoutlet.com^$document
 ||e-avans.de^$document
+||e-bikehandel.de^$document
 ||e-geräteundhaus.com^$document
 ||e-halle.ch^$document
 ||e-leclerc-market.de^$document
@@ -1628,6 +1640,7 @@
 ||eisgruebl.at^$document
 ||eishockey-trikot.net^$document
 ||ekadmarket.com^$document
+||ekhofenge.com^$document
 ||eko-group.de^$document
 ||ekolifsale.com^$document
 ||elas-nagelzauber.de^$document
@@ -1655,6 +1668,7 @@
 ||elektra24.de^$document
 ||elektrikstars.es^$document
 ||elektro-becher.com^$document
+||elektro-dreher.com^$document
 ||elektro-dresden.com^$document
 ||elektro-emma.com^$document
 ||elektro-engel.de^$document
@@ -1715,6 +1729,7 @@
 ||elektrova-shop.de^$document
 ||elektrowagner24.de^$document
 ||elektrowaren-trip.com^$document
+||elencoco.com^$document
 ||elenetzteil.de^$document
 ||elgros.de^$document
 ||eliepop.com^$document
@@ -1913,6 +1928,7 @@
 ||fantastic-toys.net^$document
 ||fapoda.com^$document
 ||farbglas-dvorak.at^$document
+||fas-neubauer.de^$document
 ||fasanenschule-online.de^$document
 ||fashion-b2b.com^$document
 ||fashion-freunde.net^$document
@@ -2186,6 +2202,7 @@
 ||fussballtrikotsdeutschland.de^$document
 ||fusselkatzen.de^$document
 ||futterstopp.de^$document
+||fy-nex.com^$document
 ||g-guenther.de^$document
 ||g-kahlen.de^$document
 ||g7-protest.de^$document
@@ -2256,6 +2273,7 @@
 ||gartensommer.shop^$document
 ||gartenster.net^$document
 ||gartenstore24.net^$document
+||gartenversand.net^$document
 ||gartenwelt-engel.com^$document
 ||gasthaus-weisses-ross.de^$document
 ||gasthof-falken.at^$document
@@ -2413,6 +2431,7 @@
 ||good-vibration-benzing.de^$document
 ||good.hotepurchase.com^$document
 ||good.nonesbuys.com^$document
+||goodlove.store^$document
 ||goodweek.de^$document
 ||gool1.de^$document
 ||gooldcoast.com^$document
@@ -2516,6 +2535,7 @@
 ||hamude.de^$document
 ||handarbeiten-allerlei.de^$document
 ||handelskontor-strenat.de^$document
+||handmademusicrecords.de^$document
 ||handwerk-exklusiv.de^$document
 ||handwerker-versand-online.com^$document
 ||handwerkzeug-versand.com^$document
@@ -2636,6 +2656,7 @@
 ||heilmann-bonn.de^$document
 ||heilpraktiker-gnaedig.de^$document
 ||heim-garten24.shop^$document
+||heim-markt.store^$document
 ||heimatstuecke.at^$document
 ||heimtierbedarfonlineshop.xyz^$document
 ||heimwerker-shopping.de^$document
@@ -2736,6 +2757,7 @@
 ||homelectric.shop^$document
 ||homoeopathie-praxis-kassel.de^$document
 ||homondo.de^$document
+||hondrogel.com^$document
 ||honikel-fotografie.de^$document
 ||honky-tonk-linedancer.de^$document
 ||hoocapgoods.com^$document
@@ -3047,6 +3069,7 @@
 ||jordandebut.com^$document
 ||jorgegarcialima.com^$document
 ||josef-spaier.de^$document
+||josperfume.com^$document
 ||jptttsale.com^$document
 ||jrekacad.com^$document
 ||jroosevelt.com^$document
@@ -3681,6 +3704,7 @@
 ||luckhairstylists.de^$document
 ||luckyebikes.de^$document
 ||luckylike.net^$document
+||luckysissi.com^$document
 ||luculius.de^$document
 ||lucybreeze.com^$document
 ||ludewig-fa.de^$document
@@ -3689,6 +3713,7 @@
 ||lug-rhwd.de^$document
 ||luisenhorst.de^$document
 ||lulu-tintin.de^$document
+||lulubuyer.com^$document
 ||lululike.com^$document
 ||lumiere-commerce.com^$document
 ||lumilights.de^$document
@@ -3918,6 +3943,7 @@
 ||mediaexpert-markt.de^$document
 ||mediafuchs24.org^$document
 ||mediahelden.shop^$document
+||medialovers.de^$document
 ||mediameier.de^$document
 ||mediapython.de^$document
 ||mediasaturn-abverklauf.club^$document
@@ -4144,6 +4170,7 @@
 ||moosalm-eben.at^$document
 ||mops-von-pugnus.de^$document
 ||morellino.store^$document
+||moresbya.com^$document
 ||morgentau-media.de^$document
 ||morifun.com^$document
 ||morismolino.com^$document
@@ -4168,6 +4195,7 @@
 ||movozo.de^$document
 ||mp-reptiles.de^$document
 ||mp46designprint.de^$document
+||mpclinkeg.com^$document
 ||mproherb.com^$document
 ||mr-back.de^$document
 ||mralefgoods.com^$document
@@ -4210,6 +4238,7 @@
 ||muschner-bedachungen.de^$document
 ||muscleworldhq.co.uk^$document
 ||musiccorn.at^$document
+||musikhaus-wagner.de^$document
 ||musikliebling.com^$document
 ||musikzitat.at^$document
 ||musikzug-wurster-nordseekueste.de^$document
@@ -4883,6 +4912,7 @@
 ||pundtspedition.de^$document
 ||puppe.buyonuonline.com^$document
 ||puppe.product4cheap.com^$document
+||purasaft.de^$document
 ||purelywave.com^$document
 ||pushupcode.com^$document
 ||putel.laf-buy.com^$document
@@ -4904,6 +4934,7 @@
 ||quartercamp.de^$document
 ||quboo.de^$document
 ||queeneva.com^$document
+||queenieito.com^$document
 ||queliposo.com^$document
 ||quesant.de^$document
 ||quilt-anleitungen.de^$document
@@ -5121,6 +5152,7 @@
 ||replica-uhrenshop.com^$document
 ||replicauhrenol.de^$document
 ||replicauhrenonlineshop.de^$document
+||rescue-it.online^$document
 ||research.shoptoout.com^$document
 ||resonateclothing.com^$document
 ||restaurant-eskadron.de^$document
@@ -5192,6 +5224,7 @@
 ||roadside-photography.de^$document
 ||robertolobo.de^$document
 ||robmeyerfilms.com^$document
+||robo-center.de^$document
 ||robocxstore.com^$document
 ||robomotion24.de^$document
 ||rockactivestore.com^$document
@@ -5207,6 +5240,7 @@
 ||rollirugbyloewenleipzig.de^$document
 ||rollmops-schaenke.de^$document
 ||romeooo.com^$document
+||ronalizak.com^$document
 ||roos-kuebler.de^$document
 ||ropefestore.com^$document
 ||rorochic.com^$document
@@ -5525,6 +5559,7 @@
 ||shopping-new.com^$document
 ||shoppingavenue.co^$document
 ||shoppingdeal.co^$document
+||shoppingink.com^$document
 ||shoppingkanal24.store^$document
 ||shoppingsmart.store^$document
 ||shoppins.de^$document
@@ -5671,6 +5706,7 @@
 ||sommerdeal24.com^$document
 ||sonderposten-hoffmann.de^$document
 ||sonderposten-merzig.de^$document
+||sonderpostenlager.eu^$document
 ||song-creator.com^$document
 ||soniarykielschuhe.de^$document
 ||sonicbig.com^$document
@@ -6042,6 +6078,7 @@
 ||templatelady.com^$document
 ||temposchleiferei.de^$document
 ||tendaisy.com^$document
+||tennislover.de^$document
 ||tennisstueberl-ruhpolding.de^$document
 ||tepper-burgwedel.de^$document
 ||teppichreinigung-berlin-btr.de^$document
@@ -6428,6 +6465,7 @@
 ||versandhaus-erlt.com^$document
 ||versandhaus-hartmann.com^$document
 ||versandhaus-krausch.de^$document
+||versandhaus-lange.com^$document
 ||versandhaus-lienen.com^$document
 ||versandhaus-maahs.com^$document
 ||versandhaus-poehle.net^$document
@@ -6649,6 +6687,7 @@
 ||welt-schamane.de^$document
 ||weltbasar.com^$document
 ||weltenweiterwanderer.de^$document
+||welura.de^$document
 ||wende-leck.de^$document
 ||wengerstukkaturen.ch^$document
 ||wer-kennt-uns.de^$document
@@ -6744,6 +6783,7 @@
 ||wnsjktonline.com^$document
 ||wocraze.com^$document
 ||wodaoly.com^$document
+||wogoyaoc.com^$document
 ||wohnbau-kalmusteich.de^$document
 ||wohnen-neubuch.de^$document
 ||wohnidyll-berlin.de^$document
@@ -6823,6 +6863,7 @@
 ||xonephonestore.com^$document
 ||xparklane.com^$document
 ||xspace.at^$document
+||xtallaei.com^$document
 ||xuenuosale.com^$document
 ||xueziashop.com^$document
 ||xxkgcfshop.com^$document
@@ -6971,6 +7012,9 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||moxflix.de^$document
+||everflix.de^$document
+||mulaflix.de^$document
 ||roomflix.de^$document
 ||webflix.de^$document
 ||novoflix.de^$document
@@ -7474,6 +7518,9 @@
 ||reise-buchen.info^$document
 
 !!! Fraudulent craft services:
+||kammerjäger.schnell24-7.com^$document
+||schnell24-7.com^$document
+||meisteruebersiedlung.at^$document
 ||ab-sanitär24h-hilfe.at^$document
 ||ab-sanitär24h-hilfe.de^$document
 ||installateur-24h.pro^$document
@@ -7496,6 +7543,8 @@
 ||elektriker-dienst.at^$document
 
 !!! Fraudulent forwarding agencies:
+||kurier-europe.com^$document
+||dfdslogistics.tk^$document
 ||usmiex.com^$document
 ||expresslogisticgroup.com^$document
 ||globallogisticltd.com^$document
