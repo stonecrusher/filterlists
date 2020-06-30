@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-06-29
+! Last updated:  2020-06-30
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -357,6 +357,7 @@
 ||arando-quartett.de^$document
 ||arceltaonline.com^$document
 ||arche-projekt.de^$document
+||architectlyy.site^$document
 ||architectlyy.site^$document
 ||architekturbueromaier.de^$document
 ||arcteryxeushop.com^$document
@@ -1654,6 +1655,7 @@
 ||electris.shop^$document
 ||electro-port.com^$document
 ||electro-sale.shop^$document
+||electro-shopy.com^$document
 ||electroactive.store^$document
 ||electrocompany24.de^$document
 ||electroland-shopping.com^$document
@@ -1887,6 +1889,7 @@
 ||faceuptodrink.co.uk^$document
 ||fachschaft-ekw.de^$document
 ||fachtag-diabetes.at^$document
+||facos.at^$document
 ||factumsck.com^$document
 ||fadlily.com^$document
 ||fahren-guenstig.de^$document
@@ -1955,6 +1958,7 @@
 ||fedop.eu^$document
 ||feelings-individuellekosmetik.de^$document
 ||feetpuzzle.com^$document
+||feher-buch.de^$document
 ||fein-e-kost.de^$document
 ||feingoldscheideanstalt-seit1973.de^$document
 ||feingoldscheideanstalt-seit1974.de^$document
@@ -2273,6 +2277,7 @@
 ||gartensommer.shop^$document
 ||gartenster.net^$document
 ||gartenstore24.net^$document
+||gartenundhausservice.at^$document
 ||gartenversand.net^$document
 ||gartenwelt-engel.com^$document
 ||gasthaus-weisses-ross.de^$document
@@ -2492,6 +2497,7 @@
 ||gtmedia.com.au^$document
 ||gudoflix.de^$document
 ||guessure.com^$document
+||guleriastore.com^$document
 ||gulfbreezefisheries.com^$document
 ||gunnareckert.de^$document
 ||gut.vipluckyshop.com^$document
@@ -2977,6 +2983,7 @@
 ||itkonsulenten.at^$document
 ||itporionline.com^$document
 ||itrojmarket.xyz^$document
+||itvinas.com^$document
 ||itxegoods.com^$document
 ||iued.ch^$document
 ||iunicum.at^$document
@@ -3350,6 +3357,7 @@
 ||kochnelda.de^$document
 ||kochnomarket.com^$document
 ||kochsalon.at^$document
+||koi.wartburg-graz.at^$document
 ||kokoloro.de^$document
 ||koktelsale.com^$document
 ||koll.thepersistentvisualist.com^$document
@@ -3438,6 +3446,7 @@
 ||kuchenversum.de^$document
 ||kuechenaligator.website^$document
 ||kuechenherzen.de^$document
+||kuechenkings.de^$document
 ||kuechenratio.de^$document
 ||kuechenstudio-unger.de^$document
 ||kuihmall.com^$document
@@ -3883,6 +3892,7 @@
 ||max-haushalt.de^$document
 ||max.cheapudeals.com^$document
 ||maxacne.com^$document
+||maxfrioq.com^$document
 ||maxi-soldes.com^$document
 ||maxlaufschuhe.de^$document
 ||maxshoes2019.com^$document
@@ -4458,6 +4468,7 @@
 ||ntkyznshop.com^$document
 ||ntqymconline.com^$document
 ||nubaprol.com^$document
+||nulina.de^$document
 ||nunuzi.de^$document
 ||nursoymuhendislik.com^$document
 ||nuterou.com^$document
@@ -4685,6 +4696,7 @@
 ||pearlfeet.de^$document
 ||pearlyo.de^$document
 ||peboar.de^$document
+||peggylampel.at^$document
 ||pellucidy.com^$document
 ||pelzfreies.de^$document
 ||penal.soutuhern.com^$document
@@ -5630,6 +5642,7 @@
 ||skullyvin.com^$document
 ||skullyvin.eu^$document
 ||skye-alexanderdesigns.co.uk^$document
+||skyevocv.com^$document
 ||skylium.de^$document
 ||skyllonline.com^$document
 ||skymorogoods.com^$document
@@ -6565,6 +6578,7 @@
 ||von-kummer-dresden.de^$document
 ||vooglabor.com^$document
 ||vor-werk-online.com^$document
+||vorschule-nrw.de^$document
 ||vorwerk-haushalt.com^$document
 ||vorwerk-kauf.com^$document
 ||vorwerk-thermo.net^$document
@@ -7013,6 +7027,7 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||seeflix.de^$document
 ||moxflix.de^$document
 ||everflix.de^$document
 ||mulaflix.de^$document
@@ -7544,6 +7559,8 @@
 ||elektriker-dienst.at^$document
 
 !!! Fraudulent forwarding agencies:
+||spedition-international-2008.com^$document
+||dealix-corporation.com^$document
 ||kurier-europe.com^$document
 ||dfdslogistics.tk^$document
 ||usmiex.com^$document
