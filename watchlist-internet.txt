@@ -4,9 +4,10 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-06-30
+! Last updated:  2020-07-03
 
 !!! Fake online shops:
+||mediesmarkt.de^$document
 ||007drones.de^$document
 ||1111federalhill.com^$document
 ||11bar-hamburg.de^$document
@@ -862,6 +863,7 @@
 ||bruderschaft-winternam.de^$document
 ||bruns-markt.com^$document
 ||brushprox.com^$document
+||brycus.de^$document
 ||brzshop.top^$document
 ||bs-buettner.de^$document
 ||bsc-aichwald.de^$document
@@ -1573,6 +1575,7 @@
 ||ebike-fun24.com^$document
 ||ebike-himmel.com^$document
 ||ebike-kauf24.com^$document
+||ebike-quadrat.com^$document
 ||ebike-rabatt24.com^$document
 ||ebike-spass24.com^$document
 ||ebike-tempel24.com^$document
@@ -2999,6 +3002,7 @@
 ||jaboohmarket.com^$document
 ||jackewellensteyn.com^$document
 ||jacktofficialde.com^$document
+||jacktofficialde.com^$document
 ||jag-team.de^$document
 ||jagdschuetzen-zuerich.ch^$document
 ||jagla-frilling.de^$document
@@ -3292,6 +3296,7 @@
 ||king-electronics.de^$document
 ||kings-electronic.shop^$document
 ||kings-electronic.store^$document
+||kingseven-shop.com^$document
 ||kinzokusteel.com^$document
 ||kipkermarket.com^$document
 ||kiri.at^$document
@@ -3564,6 +3569,7 @@
 ||leihohr.de^$document
 ||leilingual-business.com^$document
 ||leinen24.com^$document
+||leinen24.de^$document
 ||leinenfrosch.de^$document
 ||leistung-erfolgreich-optimieren.de^$document
 ||lektoratundtextbuero.de^$document
@@ -4416,6 +4422,7 @@
 ||ninetynine-shop.de^$document
 ||ninetynine-shop.eu^$document
 ||ninjagamers.de^$document
+||nintendomarkt.de^$document
 ||niusmart.shop^$document
 ||nizretmall.com^$document
 ||nizza-azur.de^$document
@@ -4646,6 +4653,7 @@
 ||paneelis.at^$document
 ||panizzd.com^$document
 ||panoramabeef.ch^$document
+||pantoletti.myshopify.com^$document
 ||pantsmenion.com^$document
 ||pantsup.de^$document
 ||panzer-industriebedarf.de^$document
@@ -4767,6 +4775,7 @@
 ||pillenpalast.com^$document
 ||pindeck.de^$document
 ||pinoybalut.com^$document
+||pinpanb.com^$document
 ||pipa-dongya.de^$document
 ||pir-gmbh.de^$document
 ||piranha-games.de^$document
@@ -4819,6 +4828,7 @@
 ||ponano-germany.store^$document
 ||poobia.com^$document
 ||poolbay.de^$document
+||poolfunstore.de^$document
 ||pop-perlen.de^$document
 ||populily.com^$document
 ||popuor.com^$document
@@ -4987,7 +4997,6 @@
 ||radtreff-tennenbronn.de^$document
 ||radtrikot2015.com^$document
 ||rae-boehner-miebach.de^$document
-||rahulnaidumd.com^$document
 ||raika-vom-gut-lethe.de^$document
 ||ralf-kunicki.de^$document
 ||rally-hautnah.de^$document
@@ -4995,6 +5004,7 @@
 ||ralphlaurensale.de^$document
 ||ralphlaurenshop.ch^$document
 ||ramoci.com^$document
+||ramwareu.com^$document
 ||ranbumall.com^$document
 ||randnotiz-magazin.de^$document
 ||rangooo.de^$document
@@ -5072,6 +5082,7 @@
 ||rbrei.com^$document
 ||rbsale.de^$document
 ||rbsat.net^$document
+||rbsde.net^$document
 ||rbshop-de.com^$document
 ||rbshops.de^$document
 ||rbstore-ch.com^$document
@@ -6458,6 +6469,7 @@
 ||veloberlin.de^$document
 ||velurio.com^$document
 ||venlostore.com^$document
+||venusbicycle.com^$document
 ||venusdelights.de^$document
 ||veogmar.com^$document
 ||veonaskincare.com^$document
@@ -6476,6 +6488,7 @@
 ||versand-hartmann.com^$document
 ||versandhandel-lienen.com^$document
 ||versandhandel-saupe.com^$document
+||versandhandel-wenzel.de^$document
 ||versandhaus-erlt.com^$document
 ||versandhaus-hartmann.com^$document
 ||versandhaus-krausch.de^$document
@@ -6594,7 +6607,6 @@
 ||vs-electronic.net^$document
 ||vs-herzogsdorf.at^$document
 ||vshopde.com^$document
-||vtpreise.com^$document
 ||vvdior.com^$document
 ||w-glas-werbetechnik.de^$document
 ||waagemann.de^$document
@@ -7027,6 +7039,10 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||lugoflix.de^$document
+||benoflix.de^$document
+||lomoflix.de^$document
+||gogflix.de^$document
 ||seeflix.de^$document
 ||moxflix.de^$document
 ||everflix.de^$document
