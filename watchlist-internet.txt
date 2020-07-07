@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-07-03
+! Last updated:  2020-07-04
 
 !!! Fake online shops:
 ||mediesmarkt.de^$document
@@ -766,6 +766,7 @@
 ||bloomincandlecrafts.com^$document
 ||bloomsocks.ca^$document
 ||blue-chips.at^$document
+||blueelektrodevice.com^$document
 ||bluemel-vermietung.de^$document
 ||blueroxx.de^$document
 ||blues-akademie.de^$document
@@ -3002,7 +3003,6 @@
 ||jaboohmarket.com^$document
 ||jackewellensteyn.com^$document
 ||jacktofficialde.com^$document
-||jacktofficialde.com^$document
 ||jag-team.de^$document
 ||jagdschuetzen-zuerich.ch^$document
 ||jagla-frilling.de^$document
@@ -4997,6 +4997,7 @@
 ||radtreff-tennenbronn.de^$document
 ||radtrikot2015.com^$document
 ||rae-boehner-miebach.de^$document
+||rahulnaidumd.com^$document
 ||raika-vom-gut-lethe.de^$document
 ||ralf-kunicki.de^$document
 ||rally-hautnah.de^$document
@@ -6057,6 +6058,7 @@
 ||teamtrackspeeduk.com^$document
 ||teamtrackspeeduk.com^$document
 ||teamvalleedutrient.ch^$document
+||tec-markt-gmbh.com^$document
 ||tecfreaks.net^$document
 ||tech-forest.eu^$document
 ||tech-land.de^$document
