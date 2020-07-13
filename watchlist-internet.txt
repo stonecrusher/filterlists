@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-07-04
+! Last updated:  2020-07-11
 
 !!! Fake online shops:
 ||mediesmarkt.de^$document
@@ -164,6 +164,7 @@
 ||airmaxsde.com^$document
 ||airmaxshopschweiz.com^$document
 ||airplaypro-de.com^$document
+||airpodsbuynow.com^$document
 ||airpodsdirekt.de^$document
 ||airpodsdirekt.de^$document
 ||airpodsmarkt.de^$document
@@ -197,6 +198,7 @@
 ||albertsgruen.de^$document
 ||albhof-ka.de^$document
 ||alcazar-vienna.at^$document
+||aldatma.de^$document
 ||alena-exss-sonne.de^$document
 ||alex-versandhandel.com^$document
 ||alexandeerbuy.club^$document
@@ -551,6 +553,7 @@
 ||bauinsel.net^$document
 ||baulongo.com^$document
 ||baulords.net^$document
+||baumarkt-expert.de^$document
 ||baumasters.com^$document
 ||baumeile.net^$document
 ||baumichel.com^$document
@@ -594,6 +597,7 @@
 ||beat-projekte.de^$document
 ||beautonias.com^$document
 ||beautydreams24.com^$document
+||beautymad.de^$document
 ||beautyoutlet.top^$document
 ||beautyyme.com^$document
 ||becausestudios.co.uk^$document
@@ -793,6 +797,7 @@
 ||bochner-handel.de^$document
 ||bockwindmuel.de^$document
 ||bodensee.elektronik-gmbh.com^$document
+||bodoplay.de^$document
 ||bodylounge-loehne.de^$document
 ||bodytemperamento.ch^$document
 ||bognerjackesale.com^$document
@@ -1041,6 +1046,7 @@
 ||chicmary.com^$document
 ||chicmiya.com^$document
 ||chicnia.com^$document
+||chicsoso.com^$document
 ||chictogerther.com^$document
 ||chicyfit.com^$document
 ||chicyoyo.com^$document
@@ -1293,6 +1299,7 @@
 ||de-coff.net^$document
 ||de-rb.com^$document
 ||de.belstaffofficial.com^$document
+||de.cichic.com^$document
 ||de.dhgate.com^$document
 ||de.fencia.co^$document
 ||de.lunaleder.com^$document
@@ -1704,6 +1711,7 @@
 ||elektrohandel-gross.com^$document
 ||elektrohoppe.de^$document
 ||elektroluxury.com^$document
+||elektromobel.com^$document
 ||elektron-market.com^$document
 ||elektronerd.eu^$document
 ||elektronik-aktion.com^$document
@@ -2211,6 +2219,7 @@
 ||fusselkatzen.de^$document
 ||futterstopp.de^$document
 ||fy-nex.com^$document
+||fy-nex.com^$document
 ||g-guenther.de^$document
 ||g-kahlen.de^$document
 ||g7-protest.de^$document
@@ -2333,6 +2342,7 @@
 ||genuinesunglass.com^$document
 ||genussrabe.at^$document
 ||georg-reisse.de^$document
+||geranienhof-merten.de^$document
 ||geratemarkt.com^$document
 ||gerd-heger.de^$document
 ||gerdegloff.de^$document
@@ -2415,6 +2425,7 @@
 ||gluwagoods.com^$document
 ||gm-wibbeke.de^$document
 ||gmhd-ua.com^$document
+||gmidraulica.de^$document
 ||go-fagot.de^$document
 ||go-meo.de^$document
 ||goasshax.at^$document
@@ -2533,6 +2544,7 @@
 ||hallohaus.co^$document
 ||hallohaus.com^$document
 ||hallohaushaltsgerate.com^$document
+||halmoez.com^$document
 ||haltungsfit.com^$document
 ||halukstore.eu^$document
 ||hamburg-elektronik.com^$document
@@ -2681,6 +2693,7 @@
 ||helios-versand.de^$document
 ||hell.fineustyle.com^$document
 ||hellastyle.com^$document
+||hellbau.center^$document
 ||helligkeit.queenluckyshop.com^$document
 ||helpmocoa.com^$document
 ||helpthebees.net^$document
@@ -2836,6 +2849,7 @@
 ||ib-wjertzoch.de^$document
 ||ibestores.com^$document
 ||iboukou-markt.com^$document
+||ic-eckardt.at^$document
 ||iceandthesky.ch^$document
 ||iceshop-neuendettelsau.de^$document
 ||icgproducts.net^$document
@@ -2848,6 +2862,7 @@
 ||idealoshop.de^$document
 ||idealshopyy.com^$document
 ||idealsun.de^$document
+||idlandf.xyz^$document
 ||idtokenmall.com^$document
 ||iefjcoiefhv.myshopify.com^$document
 ||iem-forstner.de^$document
@@ -2883,6 +2898,7 @@
 ||immobilien-am-hofgartenplatz.de^$document
 ||immobilien-korth.de^$document
 ||imn-lille.com^$document
+||imobarka.com^$document
 ||impabmarket.com^$document
 ||imperialonline.es^$document
 ||impkeys.com^$document
@@ -3185,6 +3201,7 @@
 ||kankustaduo-forte.es^$document
 ||kanmeistore.com^$document
 ||kannoddam.com^$document
+||kansibau.com^$document
 ||kantabrischerpfau.de^$document
 ||kanteno.com^$document
 ||kanuboerse.de^$document
@@ -3274,6 +3291,7 @@
 ||kfz-pflegeservice-bayreuth.de^$document
 ||kfz-teile-schubert.de^$document
 ||kfzmarkt-sachsen.de^$document
+||kgv-erholung-am-stadtpark.de^$document
 ||khsigl.at^$document
 ||kickked.com^$document
 ||kid-car-corner.de^$document
@@ -3350,6 +3368,7 @@
 ||klsattelschnallen.de^$document
 ||klunker-plus.de^$document
 ||klzv-z341.de^$document
+||kmewn.at^$document
 ||kmgegotashop.online^$document
 ||kmot.co.uk^$document
 ||kms-schreckenbach.de^$document
@@ -3614,6 +3633,7 @@
 ||liebehaus.de^$document
 ||liebem.de^$document
 ||lieberg24.com^$document
+||liebesfreud.de^$document
 ||liebeskindtaschenberlin.de^$document
 ||liebesnotiz.de^$document
 ||liebestiefel.com^$document
@@ -3759,6 +3779,7 @@
 ||m.milanoo.com^$document
 ||m.sroyiglobal.com^$document
 ||m1-essen.de^$document
+||m3-markt.com^$document
 ||mabuseller.shop^$document
 ||mac-wow.de^$document
 ||macbooks-billiger.de^$document
@@ -3972,6 +3993,7 @@
 ||mediawunder.de^$document
 ||medicalsmilesgmbh.com^$document
 ||medicalundbeauty.at^$document
+||medicine-online.org^$document
 ||medicpub.de^$document
 ||mediendesign-rheine.de^$document
 ||medienschwarm.at^$document
@@ -4008,6 +4030,7 @@
 ||mein-wegbegleiter.de^$document
 ||meinanker.at^$document
 ||meindiscounter.net^$document
+||meindiscountladen.de^$document
 ||meindlschuhedamen.de^$document
 ||meine-ernaehrungsumstellung.de^$document
 ||meinetiermarken.at^$document
@@ -4544,6 +4567,7 @@
 ||olandoo.net^$document
 ||olbert-elec.de^$document
 ||oldenburger-inlinernacht.de^$document
+||oldionline.com^$document
 ||olivefan.com^$document
 ||oluarrgoods.com^$document
 ||omega-tech.store^$document
@@ -5215,6 +5239,7 @@
 ||rheinadler.com^$document
 ||rheinadler.de^$document
 ||rheinblaeser.de^$document
+||rheinwing.de^$document
 ||rhodesian-ridgeback-zimazaa.de^$document
 ||rhoenrad-online.de^$document
 ||ribbehof.de^$document
@@ -5231,6 +5256,7 @@
 ||ridutas.eu^$document
 ||ridvibramschuhe.top^$document
 ||rieckmann-bau.de^$document
+||riedel-bau.de^$document
 ||riekershoes.me.uk^$document
 ||riekershop.online^$document
 ||rigueur.de^$document
@@ -5262,6 +5288,7 @@
 ||rohrhaus.at^$document
 ||roibvr.online^$document
 ||roidsupport.biz^$document
+||rolandoos.de^$document
 ||rollirugbyloewenleipzig.de^$document
 ||rollmops-schaenke.de^$document
 ||romeooo.com^$document
@@ -5639,6 +5666,7 @@
 ||sintex-dreamworld.de^$document
 ||sipdoshop.com^$document
 ||sirmonline.it^$document
+||sjanryn.com^$document
 ||sjtzvhsale.com^$document
 ||sjzxdfmall.com^$document
 ||sk-biografien.de^$document
@@ -5853,6 +5881,7 @@
 ||statuskelidmode.de^$document
 ||staub-profis.com^$document
 ||staubsauger-market.de^$document
+||staubsaugermarkt.shop^$document
 ||staubsaugerwelt-klingel.com^$document
 ||stb-greupner.de^$document
 ||stecker-safe.de^$document
@@ -6059,6 +6088,7 @@
 ||teamtrackspeeduk.com^$document
 ||teamvalleedutrient.ch^$document
 ||tec-markt-gmbh.com^$document
+||tec-markt-gmbh.com^$document
 ||tecfreaks.net^$document
 ||tech-forest.eu^$document
 ||tech-land.de^$document
@@ -6250,7 +6280,6 @@
 ||tool.followafashion.com^$document
 ||toolfreunde.net^$document
 ||toolshopc.com^$document
-||tooltime.store^$document
 ||top-apotheke.com^$document
 ||topaska.de^$document
 ||topceeronline.com^$document
@@ -6459,6 +6488,7 @@
 ||vbkuschel.de^$document
 ||vbltrade.top^$document
 ||vc-hoevelhof.de^$document
+||vcr.how-to-gain-weight-fast.com^$document
 ||vd-mediendesign.de^$document
 ||vdd-osnabrueck.de^$document
 ||vebreezz.com^$document
@@ -6716,7 +6746,6 @@
 ||welt-schamane.de^$document
 ||weltbasar.com^$document
 ||weltenweiterwanderer.de^$document
-||welura.de^$document
 ||wende-leck.de^$document
 ||wengerstukkaturen.ch^$document
 ||wer-kennt-uns.de^$document
@@ -7041,6 +7070,9 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||gagaplay.de^$document
+||heloplay.de^$document
+||moroplay.de^$document
 ||lugoflix.de^$document
 ||benoflix.de^$document
 ||lomoflix.de^$document
@@ -7577,6 +7609,9 @@
 ||elektriker-dienst.at^$document
 
 !!! Fraudulent forwarding agencies:
+||e-t-l-transport.com^$document
+||yuma-lda.com^$document
+||deltaexpressdelivery.com^$document
 ||spedition-international-2008.com^$document
 ||dealix-corporation.com^$document
 ||kurier-europe.com^$document
