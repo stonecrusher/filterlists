@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-07-16
+! Last updated:  2020-07-18
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -585,6 +585,7 @@
 ||bbicenter.com^$document
 ||bbjacke.de^$document
 ||bbq-meister.com^$document
+||bbq24.store^$document
 ||bbqfreunde.eu^$document
 ||bbqstorekassel.de^$document
 ||bc-pkw-service.de^$document
@@ -3101,6 +3102,7 @@
 ||jomaxa.com^$document
 ||jonas-maurer.de^$document
 ||jonaskaempf-photography.de^$document
+||jonathenr.com^$document
 ||jonawo.de^$document
 ||jonwears.com^$document
 ||jordandebut.com^$document
@@ -4029,6 +4031,7 @@
 ||medirezept.com^$document
 ||medirezept.net^$document
 ||medizin-rezeptfrei.com^$document
+||medizin-rezeptfrei.org^$document
 ||medzcon.de^$document
 ||meer-seen-mecklenburg.de^$document
 ||meetingimachten.at^$document
@@ -5475,6 +5478,7 @@
 ||schmegges.de^$document
 ||schmerzloseapotheke.com^$document
 ||schmerzmittel-rezeptfrei.com^$document
+||schmerzmittelpillen.org^$document
 ||schmidt-24.at^$document
 ||schmidt-blomberg.de^$document
 ||schmidt-koerle.de^$document
@@ -7110,6 +7114,8 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||semoplay.de^$document
+||nonaplay.de^$document
 ||nunuplay.de^$document
 ||romoplay.de^$document
 ||bodoplay.de^$document
