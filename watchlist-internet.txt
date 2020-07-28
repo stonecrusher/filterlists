@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-07-18
+! Last updated:  2020-07-25
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -143,6 +143,7 @@
 ||agrigszegorz.com^$document
 ||agrolandtechnik.com^$document
 ||ah-niederfahrenhorst.de^$document
+||ahlenbigoods.com^$document
 ||ahmcbgmmall.com^$document
 ||ahoie.de^$document
 ||ahrenshoop-info.de^$document
@@ -198,6 +199,7 @@
 ||albertsgruen.de^$document
 ||albhof-ka.de^$document
 ||alcazar-vienna.at^$document
+||alcuni.net^$document
 ||aldatma.de^$document
 ||alena-exss-sonne.de^$document
 ||alex-versandhandel.com^$document
@@ -464,6 +466,7 @@
 ||avifermgoods.com^$document
 ||avm-freiburg.de^$document
 ||avsystemhaus.de^$document
+||avvsons.com^$document
 ||awakenyourmusic.com^$document
 ||axelsfilmshop.de^$document
 ||ayesstore.xyz^$document
@@ -676,6 +679,7 @@
 ||bettina-dagmara.de^$document
 ||bettinger-weinert.de^$document
 ||beumarkt-profis.de^$document
+||beuniqo.com^$document
 ||beutelspacher-beutel.de^$document
 ||beverlyhip.de^$document
 ||bewegendewelt.de^$document
@@ -812,6 +816,7 @@
 ||boofashions.com^$document
 ||booflixom.com^$document
 ||booklethotel.com^$document
+||bookotvv.com^$document
 ||boom-sport.center^$document
 ||boomboomgadgets.de^$document
 ||boots2017de.com^$document
@@ -921,6 +926,7 @@
 ||buy-sn-k.com^$document
 ||buyherbody.com^$document
 ||buylevitramrx.com^$document
+||buyneckrelaxofficial.com^$document
 ||buyoshenwatch.com^$document
 ||buzzupstore.com^$document
 ||bv-neckarstadt.de^$document
@@ -1099,6 +1105,7 @@
 ||claudia-scarpatetti.de^$document
 ||claudiakleyh.de^$document
 ||cleanum.shop^$document
+||clearanceonline2020.com^$document
 ||clever-technik.com^$document
 ||clinicafranklinpena.com^$document
 ||cliouenay.com^$document
@@ -1109,6 +1116,7 @@
 ||clothes4you.at^$document
 ||clothmommy.com^$document
 ||clothujf.site^$document
+||clotlove.com^$document
 ||club-country.com^$document
 ||club.cameradigitalshow.com^$document
 ||clubdelmar.at^$document
@@ -1223,6 +1231,7 @@
 ||currentelliottjeans.de^$document
 ||curriesunlimited.de^$document
 ||cushingokrealtor.com^$document
+||cuteushoes.com^$document
 ||cuttingedgeng.com^$document
 ||cuw-burgwindheim.de^$document
 ||cw-shopping.de^$document
@@ -1303,9 +1312,11 @@
 ||de-rb.com^$document
 ||de.belstaffofficial.com^$document
 ||de.cichic.com^$document
+||de.clearanceonline2020.com^$document
 ||de.dhgate.com^$document
 ||de.fencia.co^$document
 ||de.lunaleder.com^$document
+||de.privatefloor.com^$document
 ||de.shein.com^$document
 ||de.zashio.co^$document
 ||dealportal.name^$document
@@ -1482,6 +1493,7 @@
 ||domain007.de^$document
 ||domako.de^$document
 ||dominox-media.com^$document
+||dommsch.de^$document
 ||donkey-dancers.de^$document
 ||doom-afterburn.de^$document
 ||doppelbunt.de^$document
@@ -1588,6 +1600,7 @@
 ||ebike-fun24.com^$document
 ||ebike-himmel.com^$document
 ||ebike-kauf24.com^$document
+||ebike-markt24.net^$document
 ||ebike-quadrat.com^$document
 ||ebike-rabatt24.com^$document
 ||ebike-spass24.com^$document
@@ -1677,6 +1690,7 @@
 ||electroland-shopping.com^$document
 ||electromish.de^$document
 ||electron-prof.com^$document
+||electronic2u.store^$document
 ||electronicfactorys.de^$document
 ||electrovagant24.de^$document
 ||elegant.onebysales.com^$document
@@ -1726,6 +1740,7 @@
 ||elektronik-diskont.de^$document
 ||elektronik-elbe.com^$document
 ||elektronik-frankfurt.com^$document
+||elektronik-gräfe.de^$document
 ||elektronik-house.com^$document
 ||elektronik-house.com^$document
 ||elektronik-kron.de^$document
@@ -1839,6 +1854,7 @@
 ||etoppferdefutter.com^$document
 ||ets-verlag.de^$document
 ||eu-elektronics.com^$document
+||eu-mediamarkt.com^$document
 ||eu-rezeptfrei.net^$document
 ||eu-shoppping.de^$document
 ||eu.guccionlineok.com^$document
@@ -2071,6 +2087,7 @@
 ||flaydastore.com^$document
 ||fleischer-badegruber.at^$document
 ||fleurdelisflowershop.com^$document
+||flipcarta.com^$document
 ||fliplake.de^$document
 ||flirtbig.at^$document
 ||flirthacks.de^$document
@@ -2278,6 +2295,7 @@
 ||garminuniverse.de^$document
 ||garminworldmaps.com^$document
 ||garminxshop.com^$document
+||gartcasa.com^$document
 ||garten-discount.net^$document
 ||garten-events.de^$document
 ||garten-experte.net^$document
@@ -2300,6 +2318,7 @@
 ||gartenundhausservice.at^$document
 ||gartenversand.net^$document
 ||gartenwelt-engel.com^$document
+||gartino.net^$document
 ||gasthaus-weisses-ross.de^$document
 ||gasthof-falken.at^$document
 ||gasthof-gritschacher.at^$document
@@ -2566,7 +2585,6 @@
 ||handarbeiten-allerlei.de^$document
 ||handelskontor-strenat.de^$document
 ||handmademusicrecords.de^$document
-||handwerk-exklusiv.de^$document
 ||handwerker-versand-online.com^$document
 ||handwerkzeug-versand.com^$document
 ||handy-captain.com^$document
@@ -2604,6 +2622,7 @@
 ||hastriketroslagen.se^$document
 ||hauntedhouseyork.co.uk^$document
 ||hauraus.at^$document
+||haus-der-bos.com^$document
 ||haus-des-schwimmsports.de^$document
 ||haus-gartenshop.net^$document
 ||haus-harmen-steinbarg.de^$document
@@ -2895,6 +2914,7 @@
 ||illertissen-aktuell.de^$document
 ||ilpuntor.com^$document
 ||iltrio.de^$document
+||iluckylife.com^$document
 ||imaltengarten-maxhuette.de^$document
 ||imibikogoods.com^$document
 ||imklakal.com^$document
@@ -2958,11 +2978,13 @@
 ||institut-perspektive.de^$document
 ||intaliof.com^$document
 ||integra-ma.de^$document
+||inteltey.com^$document
 ||interconsolution.com^$document
 ||internationaalverhuisadvies.nl^$document
 ||internationalerumzug.de^$document
 ||internationalfans.com^$document
 ||internationalmoving.co.in^$document
+||intexprofis.de^$document
 ||inthefuture.shop^$document
 ||intimuaq.com^$document
 ||intlshop.top^$document
@@ -3230,6 +3252,7 @@
 ||karamos.net^$document
 ||kardiobag.de^$document
 ||kardiologie-wittlich.de^$document
+||karin-heckel.de^$document
 ||karina-fibich.at^$document
 ||karl-malz.de^$document
 ||karlsbrew.de^$document
@@ -3897,6 +3920,7 @@
 ||markt-elektro.com^$document
 ||markt-gerate.com^$document
 ||markt-haushalt.com^$document
+||markt-market.com^$document
 ||markt-shopping.de^$document
 ||marktdig.com^$document
 ||marktexpress.com^$document
@@ -3991,6 +4015,7 @@
 ||media-silver.shop^$document
 ||media-sky.store^$document
 ||media-tadara.de^$document
+||media-torro.de^$document
 ||media-tronics.de^$document
 ||media-wagner.de^$document
 ||media-xxl.shop^$document
@@ -4026,6 +4051,7 @@
 ||medikamente-rezeptfrei.shop^$document
 ||medina24.de^$document
 ||medina24.store^$document
+||medio-center.de^$document
 ||medio-marion.de^$document
 ||medionics.net^$document
 ||medirezept.com^$document
@@ -4091,6 +4117,7 @@
 ||methode21.de^$document
 ||mevari.eu^$document
 ||mex24werk.de^$document
+||mfinancej.com^$document
 ||mfw-id2014.de^$document
 ||mgfoundation.co.uk^$document
 ||mgmsolar.de^$document
@@ -4447,6 +4474,7 @@
 ||nhp-haberland.de^$document
 ||nicdampier.com^$document
 ||nicegoodmart.com^$document
+||nichon-de.co^$document
 ||nicht-von-heise-kopieren.de^$document
 ||nickel-koeln.de^$document
 ||nicole-reinhold.de^$document
@@ -4664,6 +4692,7 @@
 ||oustiefel.com^$document
 ||outdoor-campingausrustung.xyz^$document
 ||outdoormoebel-center.de^$document
+||outdoorshopx.com^$document
 ||outdoortitan.net^$document
 ||outfitfred.com^$document
 ||outlet-checkpoint.com^$document
@@ -4802,6 +4831,7 @@
 ||pflegeservice-info.de^$document
 ||pfotenschule-bremen.de^$document
 ||pg-mainz.de^$document
+||pggather.com^$document
 ||pharmacie-stpaul.ch^$document
 ||pharmacyfirstgmbh.com^$document
 ||philbeys-lunch.de^$document
@@ -4810,6 +4840,7 @@
 ||photo-artstudio.de^$document
 ||photobox-shinjuku.com^$document
 ||photolo.eu^$document
+||php-schulte.de^$document
 ||physio-ernst.at^$document
 ||physio-fit-hasari.de^$document
 ||physio-ramminger.de^$document
@@ -4876,6 +4907,8 @@
 ||poly-mind.de^$document
 ||pomalux.be^$document
 ||ponano-germany.store^$document
+||pontereshop.com^$document
+||pontereshop.com^$document
 ||poobia.com^$document
 ||poolbay.de^$document
 ||poolfunstore.de^$document
@@ -4992,6 +5025,8 @@
 ||putel.laf-buy.com^$document
 ||putraautomotive.com^$document
 ||puuringoods.com^$document
+||pyro-effects.com^$document
+||pyro-shopping.net^$document
 ||pyroshop-be.de^$document
 ||qbetvole.com^$document
 ||qbivino.com^$document
@@ -5231,6 +5266,7 @@
 ||replicauhrenol.de^$document
 ||replicauhrenonlineshop.de^$document
 ||rescue-it.online^$document
+||rescue-systemhaus.de^$document
 ||research.shoptoout.com^$document
 ||resonateclothing.com^$document
 ||restaurant-eskadron.de^$document
@@ -5534,6 +5570,7 @@
 ||schwarzwaldvereinstuehlingen.de^$document
 ||schweinske-rs.de^$document
 ||schweizmichaelkors.ch^$document
+||scientificentre.com^$document
 ||scoliamall.eu^$document
 ||scootertop.com^$document
 ||scottcrabiel.com^$document
@@ -5592,6 +5629,7 @@
 ||sgt-sonic.store^$document
 ||shade.hirship.com^$document
 ||shalimar-freiburg.de^$document
+||shapeoil.com^$document
 ||shara-shantie.de^$document
 ||sharkyogaflex.com^$document
 ||shb-biw.de^$document
@@ -5613,6 +5651,7 @@
 ||shoespie.com^$document
 ||shoespie.com^$document
 ||shoess.eu^$document
+||shoessee.com^$document
 ||shoesuk365store.co.uk^$document
 ||shop-and-smile.com^$document
 ||shop-for-livingart.de^$document
@@ -5824,6 +5863,7 @@
 ||spainpolen.de^$document
 ||spar-welt.com^$document
 ||sparedo.net^$document
+||sparhandy.mobi^$document
 ||sparingo.de^$document
 ||sparkauf24.com^$document
 ||sparktheoccasion.com^$document
@@ -5898,6 +5938,7 @@
 ||stadtboks-shop.de^$document
 ||stadtmuehle-babenhausen.de^$document
 ||staid.giftshopu.com^$document
+||stairsmarket.com^$document
 ||stamm-jda.de^$document
 ||stamm-luetzow.de^$document
 ||stangenzigaretten24.de^$document
@@ -5998,6 +6039,7 @@
 ||suedbusse.de^$document
 ||sueder-handwerker-stammtisch.de^$document
 ||suemalls.top^$document
+||suesschen.com^$document
 ||suessleben.com^$document
 ||sukainn.com^$document
 ||sunbeatz.de^$document
@@ -6095,6 +6137,7 @@
 ||tarinboone.com^$document
 ||tasche.brandudesigner.com^$document
 ||taschenkaufhaus-24.de^$document
+||tashihandicrafts.com^$document
 ||tatjana-beauty.de^$document
 ||tattoo-fantastica.de^$document
 ||tattvalok.com^$document
@@ -6432,6 +6475,7 @@
 ||uclgstore.top^$document
 ||ucnd.at^$document
 ||uda-heller.de^$document
+||udomorgel.com^$document
 ||ufadtag.com^$document
 ||ufc-mettmach.at^$document
 ||uggadirondacksale.de^$document
@@ -6492,6 +6536,7 @@
 ||usacamper.net^$document
 ||usarbuusa.com^$document
 ||usbsticksde.com^$document
+||uscnmarket.com^$document
 ||usoakley-shop.com^$document
 ||usupa.eu^$document
 ||usv-lamprechtshausen.at^$document
@@ -6790,6 +6835,7 @@
 ||weltbasar.com^$document
 ||weltenweiterwanderer.de^$document
 ||wende-leck.de^$document
+||wenergiey.com^$document
 ||wengerstukkaturen.ch^$document
 ||wer-kennt-uns.de^$document
 ||werdercats.de^$document
@@ -7114,6 +7160,9 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||bumaplay.de^$document
+||domoplay.de^$document
+||dudoplay.de^$document
 ||semoplay.de^$document
 ||nonaplay.de^$document
 ||nunuplay.de^$document
@@ -7658,6 +7707,7 @@
 ||elektriker-dienst.at^$document
 
 !!! Fraudulent forwarding agencies:
+||mtseurologistics.com^$document
 ||ms-shipping.net^$document
 ||e-t-l-transport.com^$document
 ||yuma-lda.com^$document
