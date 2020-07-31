@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-07-25
+! Last updated:  2020-07-31
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -62,6 +62,7 @@
 ||aazid.com^$document
 ||ab-sicht.at^$document
 ||aba-sport.com^$document
+||abc-partyservice.at^$document
 ||abendbrotmainz.de^$document
 ||abestmall.com^$document
 ||abipartyxxl.de^$document
@@ -522,7 +523,6 @@
 ||bamboofarmhousegozo.com^$document
 ||bambuskinder.de^$document
 ||bangeronline.de^$document
-||banggood.com^$document
 ||banneridee.de^$document
 ||baolis.myshopify.com^$document
 ||baraoke.de^$document
@@ -535,6 +535,7 @@
 ||barbouronlineshop.de^$document
 ||barhufpflegerin-saarland.de^$document
 ||bas.kendricklouis.com^$document
+||base-montafon.at^$document
 ||basis.onebytoone.com^$document
 ||basketball-irsch.de^$document
 ||basketballtrikot.info^$document
@@ -2000,6 +2001,7 @@
 ||feinidee.de^$document
 ||feinsladen.de^$document
 ||feistritztaler.at^$document
+||felgen-restposten.de^$document
 ||ferienhaus-marieta.de^$document
 ||ferienhaus-siofok-xxl.de^$document
 ||ferienhaus-wiesenblick.at^$document
@@ -2223,6 +2225,7 @@
 ||ftoronto.com^$document
 ||fubans.com^$document
 ||fuchw.de^$document
+||fuehrerscheinfabrik.com^$document
 ||fuelila.com^$document
 ||fuesseinharmonie.at^$document
 ||führerscheinpapier.com^$document
@@ -2415,6 +2418,7 @@
 ||ghflawfirm.com^$document
 ||ghhitzplus.com^$document
 ||gi-goltern.de^$document
+||giabardi.shop^$document
 ||gianto.tech^$document
 ||gibmanns.com^$document
 ||giegengack.de^$document
@@ -3529,6 +3533,7 @@
 ||kuschelnberlin.de^$document
 ||kushiwanz.com^$document
 ||kutakmice.com^$document
+||kutakmice.com^$document
 ||kutscherstube-loewen.de^$document
 ||kv-crailsheim-bad-mergentheim.de^$document
 ||kv-schoenau.de^$document
@@ -3815,6 +3820,7 @@
 ||lv-angebote.de^$document
 ||lvsstore.com^$document
 ||lypse.de^$document
+||lyricsunf.com^$document
 ||m-eureka.com^$document
 ||m-paycard.de^$document
 ||m.milanoo.com^$document
@@ -4449,6 +4455,7 @@
 ||neural.jcpenneychy.com^$document
 ||neurochirurgie-sadik.de^$document
 ||neuschuhe.com^$document
+||new-chakra.com^$document
 ||new-immosolutions.de^$document
 ||newbalanceoutletdeutschland.com^$document
 ||newbalanceoutletuk.com^$document
@@ -4754,6 +4761,7 @@
 ||parkvilla-hausgermania.at^$document
 ||parlias.de^$document
 ||partnerlookbyinci.com^$document
+||partout-online.de^$document
 ||party-feuerwehr.de^$document
 ||pashmina-schal.ch^$document
 ||pasreg2010.org^$document
@@ -5071,6 +5079,7 @@
 ||rabattonline2020.com^$document
 ||racebunch.de^$document
 ||rackactive.com^$document
+||racondo.de^$document
 ||rad-trikots.de^$document
 ||raddix.de^$document
 ||radfreunde-murtal.at^$document
@@ -5092,6 +5101,7 @@
 ||ralphlaurensale.de^$document
 ||ralphlaurenshop.ch^$document
 ||ramoci.com^$document
+||ramtsoftt.com^$document
 ||ramwareu.com^$document
 ||ranbumall.com^$document
 ||randnotiz-magazin.de^$document
@@ -5521,6 +5531,7 @@
 ||schmidt-nk.de^$document
 ||schmiereimweb.de^$document
 ||schmuckisland.com^$document
+||schnapp-elektro.de^$document
 ||schneefreund.de^$document
 ||schneiderei-samira.de^$document
 ||schneiderwerbung-meissen.de^$document
@@ -5581,6 +5592,7 @@
 ||scuolapassionedanza.it^$document
 ||sdblcygoods.com^$document
 ||sdeclessons.com^$document
+||sdiasmani.com^$document
 ||seabrookmassageandherbs.com^$document
 ||seahofly.com^$document
 ||seayou.at^$document
@@ -5966,6 +5978,7 @@
 ||stefanokaradjov.com^$document
 ||steffinitiv-photography.de^$document
 ||steinadler-sport.de^$document
+||steinberg-handel.de^$document
 ||steiner-jus.de^$document
 ||steini-blog.de^$document
 ||steintherm-marburg.de^$document
@@ -6137,7 +6150,6 @@
 ||tarinboone.com^$document
 ||tasche.brandudesigner.com^$document
 ||taschenkaufhaus-24.de^$document
-||tashihandicrafts.com^$document
 ||tatjana-beauty.de^$document
 ||tattoo-fantastica.de^$document
 ||tattvalok.com^$document
@@ -6218,6 +6230,7 @@
 ||tepper-burgwedel.de^$document
 ||teppichreinigung-berlin-btr.de^$document
 ||termidr.de^$document
+||termoidraulica.de^$document
 ||terradays.de^$document
 ||tesco24.de^$document
 ||tesento.com^$document
@@ -6339,6 +6352,7 @@
 ||todsale.com^$document
 ||todssaleschuhe.de^$document
 ||todsshopsuk.org^$document
+||toff-rant.at^$document
 ||toitonia.com^$document
 ||tolivo.de^$document
 ||tolleat.com^$document
@@ -6886,6 +6900,7 @@
 ||wifi-booster.co^$document
 ||wikysports.com^$document
 ||wilcox-property-services.co.uk^$document
+||wildfang.pet^$document
 ||wildfeuermedia.de^$document
 ||wildsabine.de^$document
 ||wildstaronlinepowerguide.com^$document
@@ -7160,6 +7175,16 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||dbz-resin.com^$document
+||wildingme.com^$document
+||zahnarzt-freudenthaler.at^$document
+||hudabeauty-lagen.com^$document
+||vaschoen.com^$document
+||futureitc.com^$document
+||shopdaa.me^$document
+||beeventj.com^$document
+||mimoplay.de^$document
+||bullplay.de^$document
 ||bumaplay.de^$document
 ||domoplay.de^$document
 ||dudoplay.de^$document
