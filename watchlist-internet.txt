@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-07-31
+! Last updated:  2020-08-02
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -495,6 +495,7 @@
 ||backpack.approachmall.top^$document
 ||backpack.pictureperfectstore.top^$document
 ||backpack.recallstore.com^$document
+||backpack.upcomingmall.top^$document
 ||backpackonline.de^$document
 ||backpacks.at^$document
 ||backstudio-dahlke-gmbh.de^$document
@@ -613,12 +614,14 @@
 ||beelara.de^$document
 ||beerenschwester.de^$document
 ||beesforlease.de^$document
+||beeventj.com^$document
 ||befillus.com^$document
 ||befocus-records.de^$document
 ||begenmarket.top^$document
 ||begun.laf-store.com^$document
 ||behawelt.de^$document
 ||beige.saletooffer.com^$document
+||bekommefuehrerschein.com^$document
 ||beleuchten.hottosale.com^$document
 ||bellsshop.de^$document
 ||belsimsale.xyz^$document
@@ -1306,6 +1309,7 @@
 ||dazsistmeins.at^$document
 ||dblroofing.com^$document
 ||dbz-resin.com^$document
+||dbz-resin.com^$document
 ||dcs-computers.com^$document
 ||ddkwwstore.com^$document
 ||de-bags.com^$document
@@ -1361,6 +1365,7 @@
 ||der-radl-doc.de^$document
 ||der-terrarist.de^$document
 ||der-weisse-paragraph.at^$document
+||derasectr.com^$document
 ||derbrb.com^$document
 ||derinborsa.com^$document
 ||derkatzenshop.de^$document
@@ -1438,6 +1443,7 @@
 ||digelektro.de^$document
 ||diggedidope.de^$document
 ||digigerate-store.de^$document
+||digikartf.com^$document
 ||digiplus-store.de^$document
 ||digital-and-free.de^$document
 ||digitalomarkt.com^$document
@@ -1501,6 +1507,7 @@
 ||doriahellsehen.com^$document
 ||doriswolff.de^$document
 ||doss2010.de^$document
+||dotapts.com^$document
 ||dozzlmarket.com^$document
 ||dpolg-wiesbaden.de^$document
 ||dr-clark-center.com^$document
@@ -1641,6 +1648,7 @@
 ||edwaybuy.com^$document
 ||edygosselin.co.uk^$document
 ||eemotion.at^$document
+||eenanews.com^$document
 ||eeygoshop.com^$document
 ||efancylife.com^$document
 ||efc-mainpower-badhomburg.de^$document
@@ -1787,6 +1795,7 @@
 ||emil-heyrich.de^$document
 ||emingersweine.at^$document
 ||emma-facialharmony.at^$document
+||emmacarex.com^$document
 ||emmalis-welt.de^$document
 ||emmalison.com^$document
 ||emmalison.com^$document
@@ -2246,6 +2255,7 @@
 ||fussballtrikotsdeutschland.de^$document
 ||fusselkatzen.de^$document
 ||futterstopp.de^$document
+||futureitc.com^$document
 ||fy-nex.com^$document
 ||g-guenther.de^$document
 ||g-kahlen.de^$document
@@ -2847,6 +2857,7 @@
 ||hubertus-rathenow.de^$document
 ||huda-beautyshop.de^$document
 ||hudabeauty-de.com^$document
+||hudabeauty-lagen.com^$document
 ||huegelrad.de^$document
 ||hugoboss-onlineshop.de^$document
 ||huishmarkt.com^$document
@@ -3290,6 +3301,7 @@
 ||kayser-haushaltsroboter.de^$document
 ||kbs-hig.de^$document
 ||kbs-umag.de^$document
+||kcadsolbd.com^$document
 ||kcdemo-heindl.de^$document
 ||kdc-olbernhau.de^$document
 ||kedsschuhe.at^$document
@@ -3503,6 +3515,7 @@
 ||ksemuacod.com^$document
 ||ksk-in-berlin.de^$document
 ||ktcommunity.de^$document
+||ktestwys.com^$document
 ||ktg-frischedienst.de^$document
 ||ktornado.com^$document
 ||kua.clubestyle.com^$document
@@ -3540,6 +3553,7 @@
 ||kvk-mbh.de^$document
 ||kwaydeutschland.de^$document
 ||kwayregenjacke.de^$document
+||kyunshu.com^$document
 ||kzvb192.de^$document
 ||lab-control-hannover.de^$document
 ||labiclstore.com^$document
@@ -3650,6 +3664,7 @@
 ||lerdevsale.com^$document
 ||lerniversum.de^$document
 ||lernundpruefungscoaching.de^$document
+||lernwerkstatt-villach.at^$document
 ||lesdigitalos.eu^$document
 ||lesehunde.de^$document
 ||lesgranges.ch^$document
@@ -3953,6 +3968,7 @@
 ||maschineland.com^$document
 ||maschinen-insolvenzamt.com^$document
 ||maschinenliste.com^$document
+||masduxw.com^$document
 ||massivofit.com^$document
 ||master-shop24.com^$document
 ||mastercrazymonkey.com^$document
@@ -4327,6 +4343,7 @@
 ||multiworkers.at^$document
 ||mundnasenschutz.at^$document
 ||munichrockstars.de^$document
+||mupdateme.com^$document
 ||murgtal-baeckerei.de^$document
 ||murtalevents.at^$document
 ||murtopia.at^$document
@@ -4339,6 +4356,7 @@
 ||musikzug-wurster-nordseekueste.de^$document
 ||mustangjeansshop.eu^$document
 ||mustcafe.ca^$document
+||mustknor.com^$document
 ||musvinsale.com^$document
 ||muta-racing.de^$document
 ||muth-elektronik.com^$document
@@ -4944,6 +4962,7 @@
 ||pr-agentur-schweiz.de^$document
 ||prakershop.com^$document
 ||praktischeidee.com^$document
+||pramapost.com^$document
 ||pranalogie.ch^$document
 ||praxis-drkober.de^$document
 ||praxis-dross.de^$document
@@ -5041,6 +5060,7 @@
 ||qclappstore.com^$document
 ||qdmdesk.com^$document
 ||qdustseo.com^$document
+||qeldalu.com^$document
 ||qgoshopsu.com^$document
 ||qnovintax.com^$document
 ||qooboo.de^$document
@@ -5100,6 +5120,7 @@
 ||ralphlaurenoutlet.de^$document
 ||ralphlaurensale.de^$document
 ||ralphlaurenshop.ch^$document
+||ramazonif.com^$document
 ||ramoci.com^$document
 ||ramtsoftt.com^$document
 ||ramwareu.com^$document
@@ -5681,6 +5702,7 @@
 ||shopbopp.com^$document
 ||shopcases.eu^$document
 ||shopclothingvip.com^$document
+||shopdaa.me^$document
 ||shopeeline.com^$document
 ||shopeeline.com^$document
 ||shopeplace.com^$document
@@ -6009,6 +6031,7 @@
 ||stmaria-goldberg.de^$document
 ||stockerau1602.at^$document
 ||stoffshop.eu^$document
+||stonnab.com^$document
 ||stopplastik.de^$document
 ||storeaustria.com^$document
 ||storebrandbags.de^$document
@@ -6169,6 +6192,8 @@
 ||tcdillingen.de^$document
 ||tcduedingen.ch^$document
 ||tcoot.xyz^$document
+||tdealsian.com^$document
+||tdeckers.com^$document
 ||team-enjoy.de^$document
 ||team-gamma.de^$document
 ||team-meier.ch^$document
@@ -6256,6 +6281,7 @@
 ||theglobalbizgirl.com^$document
 ||thegmbh.de^$document
 ||thehannashop.com^$document
+||thehostj.com^$document
 ||thehype.shop^$document
 ||theinfinitylight.com^$document
 ||thejustintime.com^$document
@@ -6385,6 +6411,7 @@
 ||topmodareps.es^$document
 ||toponstore.com^$document
 ||topparfums.club^$document
+||toprpmp.com^$document
 ||topshopline.com^$document
 ||torroo.de^$document
 ||tortenzirkus.de^$document
@@ -6578,6 +6605,7 @@
 ||vanssale.de^$document
 ||vansschuhe.at^$document
 ||vapoworld.de^$document
+||vaschoen.com^$document
 ||vateli.de^$document
 ||vateli.de^$document
 ||vaude-rucksack.de^$document
@@ -6599,6 +6627,7 @@
 ||velatempo.com^$document
 ||veloberlin.de^$document
 ||velurio.com^$document
+||vendo-nex.com^$document
 ||venlostore.com^$document
 ||venusbicycle.com^$document
 ||venusdelights.de^$document
@@ -6902,6 +6931,7 @@
 ||wilcox-property-services.co.uk^$document
 ||wildfang.pet^$document
 ||wildfeuermedia.de^$document
+||wildingme.com^$document
 ||wildsabine.de^$document
 ||wildstaronlinepowerguide.com^$document
 ||willert-textildruck.de^$document
@@ -7072,6 +7102,7 @@
 ||yousoyo.com^$document
 ||youwins.ch^$document
 ||yoyokila.com^$document
+||ysxgtmyjj.com^$document
 ||ythubsmall.com^$document
 ||ytjper.com^$document
 ||ytowinmarket.com^$document
@@ -7084,6 +7115,7 @@
 ||zafafmarket.com^$document
 ||zagros24.store^$document
 ||zahmarzt.de^$document
+||zahnarzt-freudenthaler.at^$document
 ||zahnarzt-schreck.de^$document
 ||zahnpalais.de^$document
 ||zakbiyik.com^$document
@@ -7156,6 +7188,7 @@
 ||zonishop.com^$document
 ||zoohaus-billstedt.de^$document
 ||zoryoutlet.top^$document
+||zpaniiz.com^$document
 ||zstarstore.com^$document
 ||zubehor-haushaltsgerate.com^$document
 ||zuerststore.com^$document
@@ -7169,20 +7202,15 @@
 ||zuverlassigerfuhrerschein.com^$document
 ||zuyuesale.com^$document
 ||zviadukt.com^$document
+||zviraleb.com^$document
 ||zweiradservice-henkel.de^$document
 ||zwillingsfestival.de^$document
 ||zwischenquatschen.de^$document
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
-||dbz-resin.com^$document
-||wildingme.com^$document
-||zahnarzt-freudenthaler.at^$document
-||hudabeauty-lagen.com^$document
-||vaschoen.com^$document
-||futureitc.com^$document
-||shopdaa.me^$document
-||beeventj.com^$document
+||blauplay.de^$document
+||bogoplay.de^$document
 ||mimoplay.de^$document
 ||bullplay.de^$document
 ||bumaplay.de^$document
@@ -7770,6 +7798,8 @@
 ||i-translogistics.com^$document
 
 !!! Fraudulent survey platforms:
+||de.newchic.com^$document
+||appdoctor.me^$document
 ||crowd-apps.de^$document
 ||analysespro.de^$document
 ||markt-check.club^$document
