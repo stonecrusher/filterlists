@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-08-17
+! Last updated:  2020-08-21
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -247,6 +247,7 @@
 ||aloisiuscountryfestival.de^$document
 ||alpha-elektroniks.net^$document
 ||alpha-tech.store^$document
+||alphakatz.com^$document
 ||alphamential.com^$document
 ||alte-wirtsstube.de^$document
 ||alternzuhause.at^$document
@@ -724,6 +725,7 @@
 ||bikrammobile.de^$document
 ||bildermann-technics.de^$document
 ||bilders.at^$document
+||bildtorte.at^$document
 ||bildungsboerse-loerrach.de^$document
 ||billard-erding.de^$document
 ||billgaa.com^$document
@@ -886,6 +888,7 @@
 ||brot-fuer-die-welt-hannovers.de^$document
 ||bruckner-handel.de^$document
 ||bruderschaft-winternam.de^$document
+||brunnerhuette.at^$document
 ||bruns-markt.com^$document
 ||brushprox.com^$document
 ||brycus.de^$document
@@ -941,6 +944,7 @@
 ||buylevitramrx.com^$document
 ||buyneckrelaxofficial.com^$document
 ||buyoshenwatch.com^$document
+||buyuall.com^$document
 ||buzzupstore.com^$document
 ||bv-neckarstadt.de^$document
 ||bwscdstore.com^$document
@@ -1131,6 +1135,7 @@
 ||clothes4you.at^$document
 ||clothmommy.com^$document
 ||clothujf.site^$document
+||clothworthy.com^$document
 ||clotlove.com^$document
 ||club-country.com^$document
 ||club.cameradigitalshow.com^$document
@@ -1164,6 +1169,7 @@
 ||colorsty.com^$document
 ||colorworkout.de^$document
 ||comebuy.com^$document
+||comegobuy.com^$document
 ||comfyracks.com^$document
 ||comfyrs.com^$document
 ||comlagl.xyz^$document
@@ -1273,6 +1279,7 @@
 ||dach-vorwerk.de^$document
 ||dachboxoutlet.com^$document
 ||dachfondsvergleich.at^$document
+||dacyclinu.com^$document
 ||dagiuseppe-haimhausen.de^$document
 ||dahlmuehle.de^$document
 ||daijostore.com^$document
@@ -1857,6 +1864,7 @@
 ||erdbeermund-kabarett.de^$document
 ||erektslim.com^$document
 ||eremea.de^$document
+||ergopolsterpro.com^$document
 ||ericdress.com^$document
 ||erleben-hund.de^$document
 ||erlebniswandern-schottland.de^$document
@@ -2249,6 +2257,7 @@
 ||frischesweb.de^$document
 ||friseur-ginny.at^$document
 ||friseursalon-brandes.de^$document
+||friseursalon-monika.at^$document
 ||friseurundbeautyscheri.de^$document
 ||frithjofhager-dialogischesoziologie.de^$document
 ||frohaus.de^$document
@@ -2450,6 +2459,7 @@
 ||getevelynbag.com^$document
 ||getewatch.com^$document
 ||gethoneyseal.com^$document
+||getpolaire.com^$document
 ||getraenke-welt-online.de^$document
 ||getsforu.com^$document
 ||getzor.com^$document
@@ -2494,7 +2504,7 @@
 ||globalex24.de^$document
 ||globalmasksuppliers.com^$document
 ||globus-cassus.org^$document
-||glogloestore.com^$document
+||gluckbox.com^$document
 ||gluckbox.com^$document
 ||glueckaufstadt.de^$document
 ||gluwagoods.com^$document
@@ -2758,6 +2768,7 @@
 ||heidelberg-baurecht-anwalt.de^$document
 ||heidexe.de^$document
 ||heidi-pauwen.de^$document
+||heidistores.com^$document
 ||heifino.de^$document
 ||heikefrey-mode.de^$document
 ||heikos-kramladen.de^$document
@@ -2992,6 +3003,7 @@
 ||immobilien-korth.de^$document
 ||imn-lille.com^$document
 ||imobarka.com^$document
+||impabmarket.com^$document
 ||impabmarket.com^$document
 ||imperialonline.es^$document
 ||impkeys.com^$document
@@ -3690,6 +3702,7 @@
 ||lcghmtsale.com^$document
 ||lchdevshop.com^$document
 ||lcwa-possibilities.com^$document
+||ldemobul.com^$document
 ||leadsale.eu^$document
 ||learn-german-faster.de^$document
 ||learningtowers-und-mehr.de^$document
@@ -4007,6 +4020,7 @@
 ||marketphones.com^$document
 ||markt-digit.com^$document
 ||markt-digitalo.de^$document
+||markt-discount.com^$document
 ||markt-elektro.com^$document
 ||markt-gerate.com^$document
 ||markt-haushalt.com^$document
@@ -4057,6 +4071,7 @@
 ||maxlaufschuhe.de^$document
 ||maxshoes2019.com^$document
 ||maxxdrinks.com^$document
+||maxxi.tech^$document
 ||maxxipmusic.de^$document
 ||mazda-strnad.at^$document
 ||mazon24.com^$document
@@ -4172,7 +4187,6 @@
 ||meindiscountladen.de^$document
 ||meindlschuhedamen.de^$document
 ||meine-ernaehrungsumstellung.de^$document
-||meinearbeitsschuhe.com^$document
 ||meinetiermarken.at^$document
 ||meingleichgewicht.at^$document
 ||meinkleinerbaum.de^$document
@@ -4819,6 +4833,7 @@
 ||palazzo-wien.at^$document
 ||palette.specutrums.com^$document
 ||palmangelshop.com^$document
+||palmangelsshop.co^$document
 ||palmepalme.de^$document
 ||palumwi.de^$document
 ||pamego.de^$document
@@ -5096,6 +5111,7 @@
 ||projekt-fliedergarten.de^$document
 ||projektmeru.de^$document
 ||proletmarket.xyz^$document
+||prolindo24.de^$document
 ||prolocobonnanaro.it^$document
 ||promatrixplus.com^$document
 ||promdressesshop.com^$document
@@ -5598,7 +5614,6 @@
 ||satona.de^$document
 ||saturdayfrank.de^$document
 ||sauber-macher.com^$document
-||saubersauger.com^$document
 ||sauconyteam.com^$document
 ||sauna-am-wasserturm.de^$document
 ||sauseschritt-schuhe.de^$document
@@ -5968,6 +5983,7 @@
 ||sonnenferien-in-malchow.de^$document
 ||sonnenzeit24.life^$document
 ||sonnexshopmart.com^$document
+||sonoransurplus.com^$document
 ||sonosep.xyz^$document
 ||sorgenzwerge.de^$document
 ||sorglos-wohnen-und-leben.de^$document
@@ -6862,6 +6878,7 @@
 ||von-kummer-dresden.de^$document
 ||vooglabor.com^$document
 ||vor-werk-online.com^$document
+||vorechic.com^$document
 ||vorschule-nrw.de^$document
 ||vorwerk-haushalt.com^$document
 ||vorwerk-kauf.com^$document
@@ -6965,6 +6982,7 @@
 ||weissmithut.de^$document
 ||welikebier.de^$document
 ||wellandtransport.com^$document
+||wellenkreise.at^$document
 ||wellensten.de^$document
 ||wellensteyn-germany.com^$document
 ||wellensteyndaunenmantel.com^$document
@@ -7040,6 +7058,7 @@
 ||wifi-booster.co^$document
 ||wikysports.com^$document
 ||wilcox-property-services.co.uk^$document
+||wild-glas-art.at^$document
 ||wildfang.pet^$document
 ||wildfeuermedia.de^$document
 ||wildingme.com^$document
@@ -7324,6 +7343,10 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||playmoba.de^$document
+||playkino.de^$document
+||playnex.de^$document
+||playgox.de^$document
 ||playnod.de^$document
 ||playcine.de^$document
 ||playder.de^$document
@@ -7776,6 +7799,7 @@
 ||yostream.de^$document
 
 !!! Fraudulent estate agencies:
+||windsor-homes.co.uk^$document
 ||century-21.uk^$document
 ||co-move.uk^$document
 ||line-eu.com^$document
@@ -7900,6 +7924,8 @@
 ||elektriker-dienst.at^$document
 
 !!! Fraudulent forwarding agencies:
+||spedition-starodab.eu^$document
+||globaltranshippers.com^$document
 ||alo-car.com^$document
 ||jgm.services-limited.com^$document
 ||ueparcel.com^$document
