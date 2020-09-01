@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-08-26
+! Last updated:  2020-08-29
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -805,6 +805,7 @@
 ||blumenlecker.at^$document
 ||blumenstudio-m.at^$document
 ||blumenwerkstatt-bernau.de^$document
+||blvcks.com^$document
 ||blvcx.com^$document
 ||bm-reichert.de^$document
 ||bmarkesportchuhesde.com^$document
@@ -1004,6 +1005,7 @@
 ||capitalaktiv.de^$document
 ||cappadociahotel.net^$document
 ||caps-store.de^$document
+||captainjacks.de^$document
 ||car-hifi-radio-adapter.eu^$document
 ||carano-design.de^$document
 ||cardioplus-schule.de^$document
@@ -1267,6 +1269,7 @@
 ||cuw-burgwindheim.de^$document
 ||cw-shopping.de^$document
 ||cws-elektro.com^$document
+||cxcactus.com^$document
 ||cxmwz.com^$document
 ||cy-dragon.store^$document
 ||cyanfun.com^$document
@@ -1293,6 +1296,7 @@
 ||daijostore.com^$document
 ||dailywish43.com^$document
 ||damen.promotioncarnival.com^$document
+||damenmode-quelle.de^$document
 ||damenperuecke.com^$document
 ||damensneakerfindenhier.de^$document
 ||dameo.de^$document
@@ -1515,6 +1519,7 @@
 ||dlrg-remlingen.de^$document
 ||dlw-ag.de^$document
 ||dmijanur.xyz^$document
+||docmartensales.de^$document
 ||docmou.com^$document
 ||docrenz.com^$document
 ||doeree.de^$document
@@ -1981,6 +1986,7 @@
 ||fahrrad-elite.de^$document
 ||fahrrad-lager.de^$document
 ||fahrrad-manuzello.com^$document
+||fahrrad-pros.de^$document
 ||fahrradbekleidung-onlines.de^$document
 ||fahrradbekleidungdeu.com^$document
 ||fahrradbekleidungs.de^$document
@@ -2092,6 +2098,7 @@
 ||fewo-wetzen.de^$document
 ||ff-buch.de^$document
 ||ff-schoenegg.at^$document
+||ff-wallendorf.at^$document
 ||ffg-koch.de^$document
 ||ffilm-online.com^$document
 ||ffw-dielmissen.de^$document
@@ -2388,6 +2395,7 @@
 ||gartenwelt-engel.com^$document
 ||gartino.net^$document
 ||gartoran.de^$document
+||gasthaus-kaar.at^$document
 ||gasthaus-weisses-ross.de^$document
 ||gasthof-falken.at^$document
 ||gasthof-gritschacher.at^$document
@@ -2526,6 +2534,7 @@
 ||gm-wibbeke.de^$document
 ||gmhd-ua.com^$document
 ||gmidraulica.de^$document
+||gnazrul.com^$document
 ||go-data.co^$document
 ||go-fagot.de^$document
 ||go-meo.de^$document
@@ -2835,6 +2844,7 @@
 ||herzensgesaenge.de^$document
 ||herzforscher.de^$document
 ||herzkunst.ch^$document
+||herzpraxis-benzer.at^$document
 ||heuer-engel.de^$document
 ||heuke-teppichcenter.de^$document
 ||hexenbrau.at^$document
@@ -2888,6 +2898,7 @@
 ||hoisingtonshop.com^$document
 ||hokaoneoneeut.com^$document
 ||hollister-stuttgart.gaysingleparty.de^$document
+||holmedi.de^$document
 ||holzfairy.de^$document
 ||holzhauserschuetzenverein.de^$document
 ||home-shopping24.eu^$document
@@ -2904,6 +2915,7 @@
 ||horn-dental-technik.de^$document
 ||horse-n-dog-agility.de^$document
 ||horsteschment.de^$document
+||hosestuff.com^$document
 ||hospiz-im-ahrtal.de^$document
 ||hot.serindipiti.com^$document
 ||hotdealus.com^$document
@@ -3531,6 +3543,7 @@
 ||kokoloro.de^$document
 ||koktelsale.com^$document
 ||koll.thepersistentvisualist.com^$document
+||kollmann-handel.de^$document
 ||kollwitz-forchheim.de^$document
 ||komet-arsten-2001er.de^$document
 ||komfort-kids.de^$document
@@ -3657,6 +3670,7 @@
 ||labiclstore.com^$document
 ||lachance-hn.de^$document
 ||laclefdeloptique.fr^$document
+||ladabest.com^$document
 ||ladent-zahnarztpraxis.de^$document
 ||ladolcevita-bremen.de^$document
 ||ladtemgoods.com^$document
@@ -3793,6 +3807,7 @@
 ||lictor-band.de^$document
 ||lieb-schafft.de^$document
 ||liebehaus.de^$document
+||liebekleidung.de^$document
 ||liebem.de^$document
 ||lieberg24.com^$document
 ||liebesfreud.de^$document
@@ -3927,7 +3942,9 @@
 ||luvdaleschool.com^$document
 ||luvpatient.com^$document
 ||luxedose.shop^$document
+||luxedose.shop^$document
 ||luxfashion.uk^$document
+||luxovo.shop^$document
 ||luxury-shop.at^$document
 ||luxuryset.cc^$document
 ||luxurystyleworld.com^$document
@@ -4355,6 +4372,7 @@
 ||modehaus-oevermann.de^$document
 ||modehaus-schulz-brakel.de^$document
 ||modekaufen.com^$document
+||modekorridor.com^$document
 ||modellbahn-kauf.de^$document
 ||modellbahn-versandhaus.de^$document
 ||modellbau-billiger.de^$document
@@ -5976,6 +5994,7 @@
 ||smxrt.de^$document
 ||smyonmyo.com^$document
 ||sn-co.at^$document
+||sneaker2020a.com^$document
 ||sneakergirlsblog.de^$document
 ||sneakersadi2018.com^$document
 ||sneakersalede.com^$document
@@ -6393,6 +6412,7 @@
 ||teck-shopping.com^$document
 ||tecnomari.de^$document
 ||tecnove.de^$document
+||tedusch.myshopify.com^$document
 ||teilefarber.com^$document
 ||tel-edmunds.de^$document
 ||tele-ship.com^$document
@@ -6496,6 +6516,7 @@
 ||tidebuy.com^$document
 ||tidmshop.top^$document
 ||tiekings.de^$document
+||tier-und-hausservice.de^$document
 ||tiergeschaft.net^$document
 ||tierheilpraxis-buchholz.de^$document
 ||tierpension-fuerst.at^$document
@@ -6871,6 +6892,7 @@
 ||vipggbf.pw^$document
 ||vipkickz.com^$document
 ||vipreplica.de^$document
+||vips.gzltoys.com^$document
 ||vipsski.com^$document
 ||vision-erfolg.de^$document
 ||visiopreneur.de^$document
@@ -6994,7 +7016,7 @@
 ||webandoffice.at^$document
 ||weber-messeberatung.de^$document
 ||weber-versand.net^$document
-||webexpress-shop.com^$document
+||weberindra.de^$document
 ||webexpress-shop.com^$document
 ||webmarker.de^$document
 ||webradio-linz.at^$document
@@ -7106,6 +7128,7 @@
 ||wildingme.com^$document
 ||wildsabine.de^$document
 ||wildstaronlinepowerguide.com^$document
+||wildzme.com^$document
 ||willert-textildruck.de^$document
 ||williesvacationrentals.com^$document
 ||willispub.de^$document
@@ -7387,6 +7410,7 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||playbeno.de^$document
 ||playnona.de^$document
 ||playdon.de^$document
 ||playtogo.de^$document
@@ -7930,6 +7954,7 @@
 ||reise-buchen.info^$document
 
 !!! Fraudulent craft services:
+||elektro.heinz-24h.pro^$document
 ||schloss.heinz-24h.pro^$document
 ||installateur-fritz.at^$document
 ||installateur-hansi.at^$document
@@ -7971,6 +7996,8 @@
 ||elektriker-dienst.at^$document
 
 !!! Fraudulent forwarding agencies:
+||vs-logistics.eu^$document
+||bsi-trans.com^$document
 ||spedition-starodab.eu^$document
 ||globaltranshippers.com^$document
 ||alo-car.com^$document
