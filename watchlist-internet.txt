@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-08-29
+! Last updated:  2020-09-05
 
 !!! Fake online shops:
 ||007drones.de^$document
@@ -989,6 +989,7 @@
 ||caminstant.club^$document
 ||camisanii.com^$document
 ||camistra.com^$document
+||campaign-prices.com^$document
 ||campershoes-uk.com^$document
 ||camppolster.de^$document
 ||campus-glemsaue.de^$document
@@ -1179,6 +1180,7 @@
 ||comebuy.com^$document
 ||comegobuy.com^$document
 ||comeyour.com^$document
+||comforttaxi.at^$document
 ||comfyracks.com^$document
 ||comfyrs.com^$document
 ||comlagl.xyz^$document
@@ -1914,6 +1916,7 @@
 ||eu-rezeptfrei.net^$document
 ||eu-shoppping.de^$document
 ||eu.guccionlineok.com^$document
+||eu.terkbike-store.com^$document
 ||eufuehrerscheinonline.de^$document
 ||eugen-kromer.de^$document
 ||euhutgoods.top^$document
@@ -1983,6 +1986,7 @@
 ||factumsck.com^$document
 ||fadlily.com^$document
 ||fahren-guenstig.de^$document
+||fahrrad-elite.com^$document
 ||fahrrad-elite.de^$document
 ||fahrrad-lager.de^$document
 ||fahrrad-manuzello.com^$document
@@ -2092,6 +2096,7 @@
 ||feuerwehr-ulmen.de^$document
 ||feuerwehr-wallernhausen.de^$document
 ||feuerwehrlexikon-online.de^$document
+||feurigeliebe.de^$document
 ||feville.com^$document
 ||fewo-schausbreitner.de^$document
 ||fewo-vulkaneifel.de^$document
@@ -2297,6 +2302,7 @@
 ||führerscheinpapier.com^$document
 ||fujicamer.club^$document
 ||fuldo.de^$document
+||fullgard.com^$document
 ||fullgerateshop.de^$document
 ||fulltechouse.com^$document
 ||fun.thebestubuy.com^$document
@@ -2329,6 +2335,7 @@
 ||galaversa.de^$document
 ||galaxy-note5.de^$document
 ||galaxys5huelle.com^$document
+||galenda.de^$document
 ||galeriecafe.ch^$document
 ||galerielebunker.ch^$document
 ||galerietraunsee.at^$document
@@ -2395,6 +2402,7 @@
 ||gartenwelt-engel.com^$document
 ||gartino.net^$document
 ||gartoran.de^$document
+||gasthaus-kaar.at^$document
 ||gasthaus-kaar.at^$document
 ||gasthaus-weisses-ross.de^$document
 ||gasthof-falken.at^$document
@@ -2563,6 +2571,7 @@
 ||good-vibration-benzing.de^$document
 ||good.hotepurchase.com^$document
 ||good.nonesbuys.com^$document
+||gooddeals24.de^$document
 ||goodlove.store^$document
 ||goodweek.de^$document
 ||gool1.de^$document
@@ -2689,6 +2698,7 @@
 ||hansemannhamburg.de^$document
 ||hansengers.nl^$document
 ||hantsuonline.com^$document
+||happydeal24.de^$document
 ||haqaiqstore.com^$document
 ||harald-horrwarth.de^$document
 ||haraldjelinek.at^$document
@@ -2752,6 +2762,7 @@
 ||haushaltsfreude.de^$document
 ||haushaltsfreunde.net^$document
 ||haushaltshop.net^$document
+||haushaltskreis.de^$document
 ||haushaltslager.eu^$document
 ||haushaltsparade.net^$document
 ||haushaltspartner.net^$document
@@ -3078,6 +3089,7 @@
 ||inside.mereutricious.com^$document
 ||insigniadrivingtour.at^$document
 ||insolvenzamt.com^$document
+||inssquare.com^$document
 ||instametall.de^$document
 ||institut-perspektive.de^$document
 ||intaliof.com^$document
@@ -3375,6 +3387,7 @@
 ||karlsbrew.de^$document
 ||karo-liners-berlin.de^$document
 ||karottenzuschlag.de^$document
+||kartenguthaben.com^$document
 ||kartenluchs.com^$document
 ||kaspibau.de^$document
 ||kaspigmbh.de^$document
@@ -3902,6 +3915,7 @@
 ||lotterony.com^$document
 ||louisvuittonsalzburg.eu^$document
 ||lovecroxley.co.uk^$document
+||lovelyy2020.com^$document
 ||lovemycoffeenews.com^$document
 ||lovepixx.de^$document
 ||loveshes.com^$document
@@ -4112,6 +4126,7 @@
 ||maxfrioq.com^$document
 ||maxi-soldes.com^$document
 ||maxlaufschuhe.de^$document
+||maxnovelty.com^$document
 ||maxshoes2019.com^$document
 ||maxxdrinks.com^$document
 ||maxxi.tech^$document
@@ -4176,6 +4191,7 @@
 ||mediahelden.shop^$document
 ||medialo-elektro.de^$document
 ||medialovers.de^$document
+||mediamaxi.net^$document
 ||mediameier.de^$document
 ||mediapython.de^$document
 ||mediasaturn-abverklauf.club^$document
@@ -5795,6 +5811,7 @@
 ||selfcsmall.com^$document
 ||selfmademusic-ms.eu^$document
 ||selina-nails.de^$document
+||sellbest.eu^$document
 ||selly.gg^$document
 ||semovice.com^$document
 ||sendlein.net^$document
@@ -5854,6 +5871,7 @@
 ||shop.hyperstech.com^$document
 ||shop.iubqx.com^$document
 ||shop.strato.de^$document
+||shopaa.eu^$document
 ||shopanera.com^$document
 ||shopbird.de^$document
 ||shopbootsonline.com^$document
@@ -5995,6 +6013,7 @@
 ||smyonmyo.com^$document
 ||sn-co.at^$document
 ||sneaker2020a.com^$document
+||sneaker2020a.com^$document
 ||sneakergirlsblog.de^$document
 ||sneakersadi2018.com^$document
 ||sneakersalede.com^$document
@@ -6034,6 +6053,7 @@
 ||song-creator.com^$document
 ||soniarykielschuhe.de^$document
 ||sonicbig.com^$document
+||sonja-kosmetik.at^$document
 ||sonnenferien-in-malchow.de^$document
 ||sonnenzeit24.life^$document
 ||sonnexshopmart.com^$document
@@ -6201,6 +6221,7 @@
 ||stm-koch.de^$document
 ||stmaria-goldberg.de^$document
 ||stockerau1602.at^$document
+||stoffland-berlin.de^$document
 ||stoffshop.eu^$document
 ||stonnab.com^$document
 ||stopplastik.de^$document
@@ -6749,6 +6770,7 @@
 ||ureesinc.xyz^$document
 ||urerrly.com^$document
 ||urhair.co.uk^$document
+||urhmask.com^$document
 ||urithisms.com^$document
 ||urkoolwear.com^$document
 ||urlaub-wiechmann.de^$document
@@ -6905,6 +6927,7 @@
 ||vivalasummer.de^$document
 ||vivancos.de^$document
 ||vivatechnica.com^$document
+||vivatronik.com^$document
 ||vivib.de^$document
 ||vize-fcb.de^$document
 ||vklipha2012.de^$document
@@ -7232,6 +7255,7 @@
 ||wunderwand.shop^$document
 ||wutzl-fruehbauer.at^$document
 ||wvowa.com^$document
+||wwd.sneaker2020a.com^$document
 ||wwrwssale.com^$document
 ||www-gamma.de^$document
 ||xboxoutlet.de^$document
@@ -7379,6 +7403,7 @@
 ||zismattighofen.at^$document
 ||zitate-per-mail.de^$document
 ||zkz.li^$document
+||zmk-praxis-berlin.de^$document
 ||zocker.shop^$document
 ||zockerbase.de^$document
 ||zockerversand.de^$document
@@ -7410,6 +7435,13 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||playnom.de^$document
+||filmstreaming-de.life^$document
+||botmediaz.com^$document
+||playbobo.de^$document
+||playoza.de^$document
+||playsimo.de^$document
+||playdomo.de^$document
 ||playbeno.de^$document
 ||playnona.de^$document
 ||playdon.de^$document
@@ -7954,6 +7986,7 @@
 ||reise-buchen.info^$document
 
 !!! Fraudulent craft services:
+||bio-kammerjaeger.at^$document
 ||elektro.heinz-24h.pro^$document
 ||schloss.heinz-24h.pro^$document
 ||installateur-fritz.at^$document
@@ -7996,6 +8029,8 @@
 ||elektriker-dienst.at^$document
 
 !!! Fraudulent forwarding agencies:
+||transdirectcourierservices.com^$document
+||rtinternational-handelsbolag.com^$document
 ||vs-logistics.eu^$document
 ||bsi-trans.com^$document
 ||spedition-starodab.eu^$document
@@ -8042,6 +8077,9 @@
 ||i-translogistics.com^$document
 
 !!! Fraudulent survey platforms:
+||enix-ai.net^$document
+||famous-enterprise.de^$document
+||testorino.de^$document
 ||de.newchic.com^$document
 ||appdoctor.me^$document
 ||crowd-apps.de^$document
