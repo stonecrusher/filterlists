@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-10-02
+! Last updated:  2020-10-03
 
 !!! Fake online shops:
 ||weberelektronik.de^$document
@@ -2355,6 +2355,7 @@
 ||friseursalon-monika.at^$document
 ||friseurundbeautyscheri.de^$document
 ||frithjofhager-dialogischesoziologie.de^$document
+||fritzsche-technik.com^$document
 ||frohaus.de^$document
 ||from.yululove.com^$document
 ||fromjtosj.com^$document
@@ -6996,6 +6997,12 @@
 ||uta-baresel.de^$document
 ||utagice.de^$document
 ||utbwjpnystore.online^$document
+||utopia-bremen.de^$document
+||uuaca.com^$document
+||uug-berlin.de^$document
+||uuhaushop.com^$document
+||uusbags.com^$document
+||uwebwasap.com^$document
 ||uwl-ligaverwaltung.de^$document
 ||uzango-design.at^$document
 ||v7softwaregroup.com^$document
@@ -7489,12 +7496,6 @@
 ||xntszwmarket.com^$document
 ||xo-trier.de^$document
 ||xokako.com^$document
-||xonephonestore.com^$document
-||xparklane.com^$document
-||xspace.at^$document
-||xtallaei.com^$document
-||xuenuosale.com^$document
-||xueziashop.com^$document
 ||xonephonestore.com^$document
 ||xparklane.com^$document
 ||xspace.at^$document
@@ -8271,6 +8272,7 @@
 ||elektriker-dienst.at^$document
 
 !!! Fraudulent forwarding agencies:
+||zopcar-gmbh.com^$document
 ||ssrlogistics.com^$document
 ||ms-shipping.net^$document
 ||vogeltransltd.com^$document
@@ -8367,13 +8369,11 @@
 # Additions from verbraucherschutz.com
 # https://www.verbraucherschutz.com/warnungsticker/warnung-hier-drohen-hohe-streaming-rechnungen-und-aerger-nicht-registrieren/
 ||bgs.bz^$document
-||bugaflix.de^$document
 ||buroflix.de^$document
 ||duckflix.de^$document
 ||gabaflix.de^$document
 ||gonnaflix.de^$document
 ||mainflix.de^$document
-||moviedad.de^$document
 ||movieshub.de^$document
 ||nubaflix.com^$document
 ||playada.de^$document
