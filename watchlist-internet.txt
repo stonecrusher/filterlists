@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-10-24
+! Last updated:  2020-11-01
 
 !!! Fake online shops:
 ||weberelektronik.de^$document
@@ -36,6 +36,7 @@
 ||300xkarlsruhe.de^$document
 ||304c6.com^$document
 ||30netzteil.de^$document
+||3amoto.com^$document
 ||3clin.de^$document
 ||3d-kino-weiden.de^$document
 ||3dimperium.com^$document
@@ -1002,6 +1003,7 @@
 ||buyuall.com^$document
 ||buzzupstore.com^$document
 ||bv-neckarstadt.de^$document
+||bwcuon.com^$document
 ||bwscdstore.com^$document
 ||bybytop.store^$document
 ||bygrete.site^$document
@@ -1163,6 +1165,7 @@
 ||chulhamall.com^$document
 ||chyayy.com^$document
 ||cichilla.com^$document
+||cikonic.com^$document
 ||cikpinzx.com^$document
 ||ciliove.com^$document
 ||cilobuy.com^$document
@@ -1367,12 +1370,12 @@
 ||dailytechteal.shop^$document
 ||dailywish43.com^$document
 ||damen.promotioncarnival.com^$document
-||damenmode-quelle.de^$document
 ||damenperuecke.com^$document
 ||damensneakerfindenhier.de^$document
 ||dameo.de^$document
 ||dance-eleon.de^$document
 ||dancesergio.com^$document
+||dancloth.com^$document
 ||danielakristofic.de^$document
 ||danielberres.de^$document
 ||danielohintze.de^$document
@@ -1453,7 +1456,6 @@
 ||dein-versandhaus24.com^$document
 ||deine-haushaltsfreunde.de^$document
 ||deinkinderwagen.club^$document
-||deinlieblingstier.com^$document
 ||deinpartysound.de^$document
 ||deinschmuckladen.com^$document
 ||deisterklick.de^$document
@@ -2482,6 +2484,8 @@
 ||gamerhino.de^$document
 ||gamerlino.de^$document
 ||gamersterne.de^$document
+||games-front.de^$document
+||gamesladen.eu^$document
 ||gamesofrepublic.de^$document
 ||gamestar4.com^$document
 ||gaming-ez.com^$document
@@ -2897,6 +2901,7 @@
 ||hausgrube.net^$document
 ||hausgrube.net^$document
 ||haushalt-de.com^$document
+||haushalt-hertl.de^$document
 ||haushalt-lektro.de^$document
 ||haushalt-versand-shop.de^$document
 ||haushalt24.net^$document
@@ -2934,6 +2939,7 @@
 ||hausmeister-plewniak.de^$document
 ||hausrunde.net^$document
 ||hausteck-store.com^$document
+||haustiere.store^$document
 ||hausvendor.net^$document
 ||hausverwaltung-krell.de^$document
 ||hauswelt24.de^$document
@@ -4381,6 +4387,7 @@
 ||mcmpurse.com^$document
 ||mcschrauber.com^$document
 ||mcsovo.de^$document
+||mcvddiam.com^$document
 ||mcwat.com^$document
 ||mdaunenjackeoutlet.com^$document
 ||mdmdjcmarket.com^$document
@@ -4552,6 +4559,7 @@
 ||mikecottle.co.uk^$document
 ||mikedavis.de^$document
 ||mikeharta.com^$document
+||mikenovember.com^$document
 ||mikuasx.top^$document
 ||mil-leipzig.de^$document
 ||milea-shopping.com^$document
@@ -4568,6 +4576,7 @@
 ||minzo.com^$document
 ||mirapododes.com^$document
 ||mirko-jack-claus.de^$document
+||mirkoarens.de^$document
 ||mirnaunterwegs.at^$document
 ||mischtikalsshowdogs.com^$document
 ||miscras.de^$document
@@ -4696,6 +4705,7 @@
 ||mossanonline.com^$document
 ||mossonly.com^$document
 ||mostheuriger-hoefinger.at^$document
+||mostshopc.com^$document
 ||moto-gan42.de^$document
 ||motofrance.de^$document
 ||motor-elec.com^$document
@@ -4750,6 +4760,7 @@
 ||murtopia.at^$document
 ||muschner-bedachungen.de^$document
 ||muscleworldhq.co.uk^$document
+||music2ndhand.de^$document
 ||musiccorn.at^$document
 ||musikhaus-wagner.de^$document
 ||musikliebling.com^$document
@@ -5440,6 +5451,7 @@
 ||pretend.brandtood.com^$document
 ||pretty-woman-bramsche.de^$document
 ||prettylittlesummer.at^$document
+||prettyshirt.shop^$document
 ||previmascolombia.com^$document
 ||price.starvcustoms.com^$document
 ||prietz-bau.com^$document
@@ -5485,7 +5497,6 @@
 ||ps4-deutschland.com^$document
 ||ps4-hoffmann.com^$document
 ||ps4online-gmbh.com^$document
-||ps5-vorbestellen.eu^$document
 ||psg-neckarelz.de^$document
 ||psi-performance.de^$document
 ||psv-arnis-shs.de^$document
@@ -6328,7 +6339,6 @@
 ||smartwatch-vertrieb.de^$document
 ||smartwohnenwien.at^$document
 ||smasverg.com^$document
-||smilewithstyle.at^$document
 ||smk69.de^$document
 ||smokecheap24.com^$document
 ||smokerland.net^$document
@@ -6428,6 +6438,7 @@
 ||specialbagstore.com^$document
 ||speed.terkbike-store.com^$document
 ||speedcubekaufen.com^$document
+||speedlixs.com^$document
 ||speedskating-salzburg.at^$document
 ||spicydeals4u.com^$document
 ||spiegel-bild.at^$document
@@ -7017,6 +7028,7 @@
 ||trekantens-trailercenter.de^$document
 ||trekvipa.com^$document
 ||trend-held.com^$document
+||trends-scout.de^$document
 ||trends-shoppen.de^$document
 ||trendsettersclothes.com^$document
 ||trendswa.com^$document
@@ -7048,6 +7060,7 @@
 ||trustrank.com.au^$document
 ||trustypapership.com^$document
 ||tsg-fussball-herdecke.de^$document
+||tshanak.com^$document
 ||tshirtnow.net^$document
 ||tsunami-sports.de^$document
 ||tsv-noechling.at^$document
@@ -7180,6 +7193,7 @@
 ||vanekautos.nl^$document
 ||vanhoozer.ch^$document
 ||vanilleah.at^$document
+||vanmarco.at^$document
 ||vanssale.de^$document
 ||vansschuhe.at^$document
 ||vapoworld.de^$document
@@ -7234,11 +7248,14 @@
 ||versandhaus-lange.com^$document
 ||versandhaus-lienen.com^$document
 ||versandhaus-maahs.com^$document
+||versandhaus-neumann.de^$document
 ||versandhaus-poehle.net^$document
 ||versandhaus-schulte.com^$document
 ||versandhaus-stemmer.com^$document
 ||versandhaus-vettel.de^$document
 ||versandhaus-voss.de^$document
+||versandhaus-wohlers.de^$document
+||versandhaus-xxl.de^$document
 ||versandhaus-ziegler.at^$document
 ||versandhaus-ziegler.de^$document
 ||versandpharma.de^$document
@@ -7357,6 +7374,7 @@
 ||vs-auto.de^$document
 ||vs-electronic.net^$document
 ||vs-herzogsdorf.at^$document
+||vsahebwp.com^$document
 ||vshopde.com^$document
 ||vsmee.com^$document
 ||vsmitterdorf-raab.at^$document
@@ -7436,6 +7454,7 @@
 ||weddingsinjacksonnh.com^$document
 ||weekend-en-amoureux.ch^$document
 ||weekendlily.myshoplaza.com^$document
+||wefakeida.xyz^$document
 ||wefitfor.com^$document
 ||wege-finden.at^$document
 ||weger-stmichael.at^$document
@@ -7702,7 +7721,6 @@
 ||yeezyboost.at^$document
 ||yeezys750de.com^$document
 ||yeezystorede.com^$document
-||yefa.de^$document
 ||yellow.apparelsummer.com^$document
 ||yellowpost.de^$document
 ||yelurisale.com^$document
@@ -7745,6 +7763,7 @@
 ||zabomo.de^$document
 ||zafafmarket.com^$document
 ||zagnia.de^$document
+||zagose.com^$document
 ||zagros24.store^$document
 ||zahmarzt.de^$document
 ||zahnarzt-freudenthaler.at^$document
@@ -7849,6 +7868,9 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||playvido.de^$document
+||playnion.de^$document
+||playnide.de^$document
 ||playstore.de^$document
 ||playmes.de^$document
 ||playdost.de^$document
@@ -8431,6 +8453,11 @@
 ||reise-buchen.info^$document
 
 !!! Fraudulent craft services:
+||elektriker--24.de^$document
+||elektriker--24.at^$document
+||installateur.heinz-24h.pro^$document
+||vaillant-kundendienst24.at^$document
+||installateur-gwh24.at^$document
 ||24h-elektrodienst.at^$document
 ||sanitär-notdienst--24.at^$document
 ||kammerjäger--24.at^$document
@@ -8536,6 +8563,8 @@
 ||i-translogistics.com^$document
 
 !!! Fraudulent survey platforms:
+||perspective-agenturgruppe.me^$document
+||originality-concern.de^$document
 ||marktix.net^$document
 ||universalprotection.de^$document
 ||cosmopoint.de^$document
