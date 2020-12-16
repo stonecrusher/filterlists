@@ -4,7 +4,7 @@
 ! Homepage:      https://github.com/stonecrusher/filterlists/
 ! License:       Taken from https://www.watchlist-internet.at/alle-themen/
 ! Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists/master/watchlist-internet.txt
-! Last updated:  2020-12-11
+! Last updated:  2020-12-16
 
 !!! Fake online shops:
 ||bennet-bock.de^$document
@@ -177,6 +177,7 @@
 ||aich-dahoam.at^$document
 ||aidswiki.de^$document
 ||aikpro.com^$document
+||aikuiwk.com^$document
 ||ailinekristin.de^$document
 ||aimmos-webdesign.de^$document
 ||aiomed.de^$document
@@ -287,10 +288,12 @@
 ||altho-fenster.de^$document
 ||alugest.com^$document
 ||alugest.com^$document
+||alvcr.com^$document
 ||alvoradac.com^$document
 ||always-media.de^$document
 ||amagarni.com^$document
 ||amanitas-geschichten.de^$document
+||amanum.de^$document
 ||amaris-strassensoul.de^$document
 ||ambienteaustria.com^$document
 ||ambusama.de^$document
@@ -315,6 +318,7 @@
 ||anaturalaffinity.com^$document
 ||anbart.de^$document
 ||anbud-spzoo.eu^$document
+||ancheer.de^$document
 ||anchort.com^$document
 ||anchoslg.com^$document
 ||and2.ch^$document
@@ -322,6 +326,7 @@
 ||andel-grafikdesign.de^$document
 ||andhrainformation.com^$document
 ||andiamo-wmk.de^$document
+||andrealla.top^$document
 ||andreas-strolz.at^$document
 ||andreasrollo.de^$document
 ||androidrubik.com^$document
@@ -403,6 +408,7 @@
 ||apparelhot.com^$document
 ||appartement-angelina.at^$document
 ||appartment-saler.at^$document
+||appenin.de^$document
 ||applemarket.de^$document
 ||applenext.de^$document
 ||applestoreairpodspro.com^$document
@@ -532,6 +538,7 @@
 ||avalonscooters.com^$document
 ||avans24.de^$document
 ||avcdemall.com^$document
+||avenini.com^$document
 ||aveshoe.com^$document
 ||avezio.de^$document
 ||avi-media.at^$document
@@ -584,8 +591,10 @@
 ||baeckerei-ruoff.de^$document
 ||baeckerei-sachs.de^$document
 ||baerbelkoehler.de^$document
+||baeuchel.at^$document
 ||bags-hut.com^$document
 ||bagsev.de^$document
+||bagsoutlets.shop^$document
 ||bahmer24.de^$document
 ||bahnhof-geltendorf.de^$document
 ||bahnhofsfuehrung.de^$document
@@ -626,6 +635,7 @@
 ||bastisitblog.de^$document
 ||batharchaeology.org.uk^$document
 ||bau-profis24.de^$document
+||bau-woitec.com^$document
 ||bauakzente.net^$document
 ||baubiologie-sauren.de^$document
 ||bauchladen-dresden.de^$document
@@ -634,6 +644,7 @@
 ||baugemeinde.net^$document
 ||baugenius.net^$document
 ||bauhamster.shop^$document
+||bauhausshop.com^$document
 ||bauinsel.net^$document
 ||baulongo.com^$document
 ||baulords.net^$document
@@ -685,6 +696,7 @@
 ||beanmania.de^$document
 ||beanpoint.de^$document
 ||beat-projekte.de^$document
+||beatemaly.at^$document
 ||beatsystem.at^$document
 ||beautiful-store1.online^$document
 ||beautonias.com^$document
@@ -705,6 +717,7 @@
 ||begun.laf-store.com^$document
 ||behawelt.de^$document
 ||beige.saletooffer.com^$document
+||bekleidungsoutlet.com^$document
 ||bekommefuehrerschein.com^$document
 ||beleuchten.hottosale.com^$document
 ||bellsshop.de^$document
@@ -752,6 +765,7 @@
 ||besser-reisen-bedburg.de^$document
 ||besstle.com^$document
 ||best-alba.de^$document
+||best-deals24.com^$document
 ||best-home.store^$document
 ||best-in-jura.com^$document
 ||best-of-coffee.net^$document
@@ -764,6 +778,7 @@
 ||bestellen-de.com^$document
 ||bestendeals.de^$document
 ||besteprijzen-shop.com^$document
+||bestermarkt.at^$document
 ||besterstore24.de^$document
 ||bestesangebot24.de^$document
 ||besteuhren.io^$document
@@ -816,6 +831,7 @@
 ||big-kit.center^$document
 ||bigbagharbeck.de^$document
 ||bigeatncm.com^$document
+||bigmuscle.at^$document
 ||bike-global.de^$document
 ||bike-roles.de^$document
 ||bike-stone.de^$document
@@ -882,6 +898,7 @@
 ||blackmountainteddys.de^$document
 ||blackoffers.de^$document
 ||blackvintagee.com^$document
+||blackwidow.at^$document
 ||blailt.com^$document
 ||blairead.com^$document
 ||blakker.eu^$document
@@ -931,6 +948,7 @@
 ||bochner-handel.de^$document
 ||bockwindmuel.de^$document
 ||bodensee.elektronik-gmbh.com^$document
+||bodrumj.top^$document
 ||bodylounge-loehne.de^$document
 ||bodymetf.com^$document
 ||bodytemperamento.ch^$document
@@ -967,6 +985,7 @@
 ||boutique-on-line.de^$document
 ||box-betten.com^$document
 ||boxer-vom-lucky-punch.de^$document
+||boxerklub-beckum.de^$document
 ||boykingbrewhaus.com^$document
 ||boylecameraclub.com^$document
 ||bozoruzsale.com^$document
@@ -1010,6 +1029,7 @@
 ||broncos.ofordables.com^$document
 ||brosden.de^$document
 ||brot-fuer-die-welt-hannovers.de^$document
+||brownbest.club^$document
 ||bruckner-handel.de^$document
 ||bruderschaft-winternam.de^$document
 ||brunnerhuette.at^$document
@@ -1152,6 +1172,7 @@
 ||carmen-video.at^$document
 ||caro.gobuystores.com^$document
 ||carola-stauche.de^$document
+||caros-kreativwerk.de^$document
 ||carrera-xmas.com^$document
 ||carry-shop.com^$document
 ||carshades.at^$document
@@ -1181,6 +1202,7 @@
 ||cebenetwork.de^$document
 ||cebucs-einkaufswelt24.com^$document
 ||cebucs-einkaufswelt24.net^$document
+||ceelcom.de^$document
 ||ceidroutlet.xyz^$document
 ||celine-nuehlen.de^$document
 ||cell-power-laser.de^$document
@@ -1370,6 +1392,7 @@
 ||cooclothes.com^$document
 ||coolhard.de^$document
 ||coolima.at^$document
+||coolrevo.com^$document
 ||cooponline.de^$document
 ||copia-knorz.de^$document
 ||copyshop-seekirchen.at^$document
@@ -1543,6 +1566,7 @@
 ||de.privatefloor.com^$document
 ||de.shein.com^$document
 ||de.zashio.co^$document
+||de2.parazax.com^$document
 ||dealportal.name^$document
 ||dealshopper.de^$document
 ||deanners.com^$document
@@ -1891,6 +1915,7 @@
 ||ecofuelenterprise.lt^$document
 ||econn.eu^$document
 ||edanstyle.com^$document
+||edb-wuppertal.de^$document
 ||ede-handball.de^$document
 ||ede-handball.de^$document
 ||edelmar.de^$document
@@ -2158,6 +2183,7 @@
 ||esoulli.com^$document
 ||espresso-planet.de^$document
 ||espressowelt.at^$document
+||esprossa.de^$document
 ||essen-umstandsmode.de^$document
 ||essneun.de^$document
 ||estherhakcoaching.nl^$document
@@ -2407,6 +2433,7 @@
 ||fiedler-elec.de^$document
 ||fieldstonefarmny.com^$document
 ||fifathsale.com^$document
+||fighters-outlet.com^$document
 ||fightland24.de^$document
 ||fila-norge.com^$document
 ||filastore.club^$document
@@ -2911,6 +2938,7 @@
 ||golden-tiger.co.uk^$document
 ||goldengoose.at^$document
 ||goldengoosedeluxebrand.at^$document
+||goldenwaters.de^$document
 ||goldscheideanstalt-exchange.de^$document
 ||goldscheideanstalt-mhd.de^$document
 ||goldscheideanstalt-mhz.de^$document
@@ -3109,6 +3137,7 @@
 ||haus-reining.de^$document
 ||haus-steiger.at^$document
 ||haus-wagrien.de^$document
+||hausartikel24.com^$document
 ||hausbaeckerei-waldhart.at^$document
 ||hausbau-konzept.de^$document
 ||hausbaufirmenberlin.de^$document
@@ -3120,6 +3149,7 @@
 ||hausgrube.net^$document
 ||haushaldo.de^$document
 ||haushalt-de.com^$document
+||haushalt-depot.de^$document
 ||haushalt-hertl.de^$document
 ||haushalt-lektro.de^$document
 ||haushalt-outlet.de^$document
@@ -3421,6 +3451,7 @@
 ||idealoshop.de^$document
 ||idealshopyy.com^$document
 ||idealsun.de^$document
+||ideationtriz.at^$document
 ||idhoopoeo.com^$document
 ||idiscountq.com^$document
 ||idlandf.xyz^$document
@@ -3680,6 +3711,7 @@
 ||jochumdigital.at^$document
 ||joeleeillustrator.com^$document
 ||joerg-hoeller.de^$document
+||joey-store.com^$document
 ||joeygo.com^$document
 ||johacngoods.com^$document
 ||johacngoods.com^$document
@@ -3697,6 +3729,7 @@
 ||jonaskaempf-photography.de^$document
 ||jonathenr.com^$document
 ||jonawo.de^$document
+||jonny-boston.de^$document
 ||jonnycoca.com^$document
 ||jonwears.com^$document
 ||joqnewst.com^$document
@@ -3704,6 +3737,7 @@
 ||jorgecesart.com^$document
 ||jorgegarcialima.com^$document
 ||josef-spaier.de^$document
+||josips.top^$document
 ||jospants.com^$document
 ||josperfume.com^$document
 ||jptttsale.com^$document
@@ -3785,6 +3819,7 @@
 ||kaffeehelden.eu^$document
 ||kaffeenator.de^$document
 ||kaffeepause24.com^$document
+||kaffeerama.de^$document
 ||kaffeetraum.at^$document
 ||kaffeezauber24.com^$document
 ||kaffera.de^$document
@@ -3800,6 +3835,7 @@
 ||kaiser-technik.de^$document
 ||kaisersaalgruppe.de^$document
 ||kalya.at^$document
+||kamagrabestellen.shop^$document
 ||kambayo.com^$document
 ||kambla.com^$document
 ||kamera-fashion.de^$document
@@ -3871,6 +3907,7 @@
 ||kaufen.brandusale.com^$document
 ||kaufen.kilianm.at^$document
 ||kaufen.prestige-car.at^$document
+||kaufen.synagoge.at^$document
 ||kaufenbilligschuhe.de^$document
 ||kaufhalle-shop.de^$document
 ||kaufhaus-guenther.de^$document
@@ -3933,6 +3970,7 @@
 ||khsigl.at^$document
 ||kickked.com^$document
 ||kid-car-corner.de^$document
+||kiesersportonline.com^$document
 ||kiga-bonifatius-schnaitheim.de^$document
 ||kikasdierenjungle.nl^$document
 ||kikimini.com^$document
@@ -4656,6 +4694,7 @@
 ||martin-tessmer-bau.de^$document
 ||martin-vieth.de^$document
 ||martinbranz.de^$document
+||martinde.online^$document
 ||martine-benz.de^$document
 ||martinlechner.ch^$document
 ||martinoandperini.com^$document
@@ -4893,6 +4932,7 @@
 ||michaelzaehringer.de^$document
 ||miclanity.de^$document
 ||midatlanticstore.com^$document
+||mig-bergmannsfeld.de^$document
 ||migliaresescavi.ch^$document
 ||mihandtaschen.com^$document
 ||mihorga.com^$document
@@ -4908,6 +4948,7 @@
 ||millionaersuchtfrau.de^$document
 ||milonga-ingolstadt.de^$document
 ||mimtubularsupply.com^$document
+||mina-nova.de^$document
 ||mincmall.xyz^$document
 ||mindmage.de^$document
 ||mindshirts.de^$document
@@ -5071,6 +5112,7 @@
 ||mralefgoods.com^$document
 ||mrelektroshop.com^$document
 ||mrfurn.com^$document
+||mri-am-arlberg.at^$document
 ||mrjaeger-optik.de^$document
 ||mrmontero.de^$document
 ||mrnerd.de^$document
@@ -5518,6 +5560,7 @@
 ||oresuco.com^$document
 ||organicshoppinggoods.com^$document
 ||orgelbau-weitendorf.de^$document
+||oricgermany.de^$document
 ||oriento.at^$document
 ||original-equipment-partsshop.com^$document
 ||original-pandora-schmuck.com^$document
@@ -5552,6 +5595,7 @@
 ||outlet-checkpoint.com^$document
 ||outlet-fahrradbekleidung.de^$document
 ||outlet-verkauf.com^$document
+||outlet4fitness.com^$document
 ||outlettruereligionjeans.de^$document
 ||outmanlets.com^$document
 ||outonworld.com^$document
@@ -5568,6 +5612,7 @@
 ||paerdstall.lu^$document
 ||paidpressrelease.com^$document
 ||paiutesmarket.com^$document
+||paketmann.de^$document
 ||palastdertoene.de^$document
 ||palazzo-wien.at^$document
 ||palette.specutrums.com^$document
@@ -5607,6 +5652,7 @@
 ||paralog-journal.at^$document
 ||paranormalactivity-film.at^$document
 ||parasenso.de^$document
+||parfum-world.com^$document
 ||pariter-med.de^$document
 ||paritybags.com^$document
 ||parkakaufen.eu^$document
@@ -5735,6 +5781,7 @@
 ||pilger-maenner-seelsorge.de^$document
 ||pillenpalast.com^$document
 ||pindeck.de^$document
+||pindella.de^$document
 ||pinkni.com^$document
 ||pinoybalut.com^$document
 ||pinpanb.com^$document
@@ -5803,6 +5850,7 @@
 ||poolfunstore.de^$document
 ||pop-perlen.de^$document
 ||popmar.de^$document
+||popnewin.com^$document
 ||poptest.xyz^$document
 ||populily.com^$document
 ||popuor.com^$document
@@ -5904,6 +5952,7 @@
 ||proslinu.com^$document
 ||prostylish.de^$document
 ||provita-iz.de^$document
+||proxysong.com^$document
 ||prymuseducation.co.uk^$document
 ||ps-vs.de^$document
 ||ps4-deutschland.com^$document
@@ -6251,6 +6300,7 @@
 ||rheinadler.com^$document
 ||rheinadler.de^$document
 ||rheinblaeser.de^$document
+||rheineule.de^$document
 ||rheinwing.de^$document
 ||rhodesian-ridgeback-zimazaa.de^$document
 ||rhoenrad-online.de^$document
@@ -6324,6 +6374,7 @@
 ||rosengarten-quartett.de^$document
 ||rosenkrieg-magazin.de^$document
 ||rosheplus.com^$document
+||rosiesdaily.com^$document
 ||ross-stall-atelier.ch^$document
 ||rossegger-baumann.at^$document
 ||rossoo.de^$document
@@ -6658,6 +6709,7 @@
 ||shop-mechanic.com^$document
 ||shop-preisking.de^$document
 ||shop-schuh-online.com^$document
+||shop.darkbodybuilding.net^$document
 ||shop.happy-shopping.co^$document
 ||shop.hyper-tech.co^$document
 ||shop.hyperstech.com^$document
@@ -6892,6 +6944,7 @@
 ||space-electronic.de^$document
 ||space.la-class.com^$document
 ||spainpolen.de^$document
+||spar-handys.de^$document
 ||spar-tastisch.de^$document
 ||spar-welt.com^$document
 ||sparalio.com^$document
@@ -6933,6 +6986,7 @@
 ||spielzeug.newvstylish.com^$document
 ||spielzeugbaum.de^$document
 ||spielzeuge.aboutsfashion.com^$document
+||spikes-tech.com^$document
 ||spirelove.com^$document
 ||spiritualbooks.de^$document
 ||spiritualwindy.com^$document
@@ -7118,6 +7172,7 @@
 ||sudonge.com^$document
 ||suedbusse.de^$document
 ||sueder-handwerker-stammtisch.de^$document
+||suedtirol-online.at^$document
 ||suemalls.top^$document
 ||suesschen.com^$document
 ||suessleben.com^$document
@@ -7144,6 +7199,7 @@
 ||superschuhenwelt.de.com^$document
 ||supertrendings.com^$document
 ||supr.com^$document
+||supragaming.net^$document
 ||surajdrill.com^$document
 ||surfdogshop.com^$document
 ||surfskipaddling.com^$document
@@ -7227,6 +7283,7 @@
 ||tapetenfrosch.de^$document
 ||tarantella-von-der-holderheide.de^$document
 ||tarinboone.com^$document
+||tarlia.de^$document
 ||tartel-onlinestore.com^$document
 ||tasche.brandudesigner.com^$document
 ||taschenkaufhaus-24.de^$document
@@ -7288,6 +7345,7 @@
 ||technik-hai.com^$document
 ||technik-ist.online^$document
 ||technik-koehler.de^$document
+||technik-mars.de^$document
 ||technikbucht.net^$document
 ||technikeule.com^$document
 ||technikfabrik.store^$document
@@ -7365,6 +7423,7 @@
 ||thecrazycanner.com^$document
 ||thecutebags.com^$document
 ||thedoormenoshawa.com^$document
+||thegamesdept.com^$document
 ||theglobalbizgirl.com^$document
 ||thegmbh.de^$document
 ||thehannashop.com^$document
@@ -7599,6 +7658,7 @@
 ||tropical-expert.eu^$document
 ||trustrank.com.au^$document
 ||trustypapership.com^$document
+||truuly.de^$document
 ||tsg-fussball-herdecke.de^$document
 ||tshanak.com^$document
 ||tshirtnow.net^$document
@@ -7735,6 +7795,7 @@
 ||valanie.de^$document
 ||valanie.de^$document
 ||valentinowerk.com^$document
+||valepina.de^$document
 ||valiozo.co^$document
 ||valtooutlet.top^$document
 ||vamonelec.com^$document
@@ -8161,6 +8222,7 @@
 ||winterloveyou.com^$document
 ||winterparkas.ch^$document
 ||winterreifen-im-test.de^$document
+||winvae.com^$document
 ||wipideal.de^$document
 ||wir-bodensee.de^$document
 ||wir-diefreiburgerinnenstadt.de^$document
@@ -8186,6 +8248,7 @@
 ||woersdorfermusikhaus.de^$document
 ||wogoyaoc.com^$document
 ||wohnbau-kalmusteich.de^$document
+||wohndimension.at^$document
 ||wohnen-neubuch.de^$document
 ||wohnidyll-berlin.de^$document
 ||wohnmodul.at^$document
@@ -8360,6 +8423,7 @@
 ||zappom.com^$document
 ||zarana.de^$document
 ||zarossi.com^$document
+||zarypvc.com^$document
 ||zaseps.store^$document
 ||zaumschmuck.de^$document
 ||zaun-wien.at^$document
@@ -8452,6 +8516,10 @@
 ||zzjdhcstore.com^$document
 
 !!! Fraudulent streaming platforms:
+||gigausenet.de^$document
+||theangelsblanket.co^$document
+||memoplay.de^$document
+||tedoplay.de^$document
 ||barplay.de^$document
 ||boboplay.de^$document
 ||guloplay.de^$document
@@ -8948,12 +9016,9 @@
 ||streamflix.de^$document
 ||streamfy.de^$document
 ||streamgogo.de^$document
-||streamino.de^$document
-||streamore.de^$document
-||streamnox.com^$document
-||streamogo.de^$document
 
 !!! Fraudulent estate agencies:
+||immo-gate.com^$document
 ||realty-all.com^$document
 ||perfect-home.co^$document
 ||pro-home.uk^$document
@@ -9042,6 +9107,7 @@
 ||reise-buchen.info^$document
 
 !!! Fraudulent craft services:
+||ihr.oertlicher.at^$document
 ||robin.oertlicher.at^$document
 ||oertlicher.at^$document
 ||elektriker24s.at^$document
