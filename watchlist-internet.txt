@@ -1888,7 +1888,7 @@
 ||dzuhrenoutlet.com^$document
 ||e-avans.de^$document
 ||e-bikehandel.de^$document
-||e-geräteundhaus.com^$document
+||xn--e-gerteundhaus-9hb.com^$document
 ||e-halle.ch^$document
 ||e-leclerc-market.de^$document
 ||e-majster.de^$document
@@ -2090,7 +2090,7 @@
 ||elektronik-diskont.de^$document
 ||elektronik-elbe.com^$document
 ||elektronik-frankfurt.com^$document
-||elektronik-gräfe.de^$document
+||xn--elektronik-grfe-dlb.de^$document
 ||elektronik-house.com^$document
 ||elektronik-house.com^$document
 ||elektronik-kron.de^$document
@@ -2689,7 +2689,7 @@
 ||fuehrerscheinfabrik.com^$document
 ||fuelila.com^$document
 ||fuesseinharmonie.at^$document
-||führerscheinpapier.com^$document
+||xn--fhrerscheinpapier-22b.com^$document
 ||fuhrerscheinschnellkaufen.com^$document
 ||fujicamer.club^$document
 ||fuldo.de^$document
@@ -4253,7 +4253,7 @@
 ||kuechenkings.de^$document
 ||kuechenratio.de^$document
 ||kuechenstudio-unger.de^$document
-||kühlschrank-galerie.com^$document
+||xn--khlschrank-galerie-m6b.com^$document
 ||kuihmall.com^$document
 ||kuitego.com^$document
 ||kulander.de^$document
@@ -5932,7 +5932,7 @@
 ||pointsaver.de^$document
 ||pokk.fun^$document
 ||polenboeller-deutschland.com^$document
-||polenböller-deutschland.com^$document
+||xn--polenbller-deutschland-zhc.com^$document
 ||poliertechnik-bindzau.de^$document
 ||polkadotcakes.ca^$document
 ||pollymo.com^$document
@@ -6165,7 +6165,7 @@
 ||radsportbekleidung.net^$document
 ||radtreff-tennenbronn.de^$document
 ||radtrikot2015.com^$document
-||radtrikotgünstig.com^$document
+||xn--radtrikotgnstig-8vb.com^$document
 ||rae-boehner-miebach.de^$document
 ||rahulnaidumd.com^$document
 ||raika-vom-gut-lethe.de^$document
@@ -9272,9 +9272,9 @@
 ||vaillant-kundendienst24.at^$document
 ||installateur-gwh24.at^$document
 ||24h-elektrodienst.at^$document
-||sanitär-notdienst--24.at^$document
-||kammerjäger--24.at^$document
-||sanitär-notdienst--24.de^$document
+||xn--sanitr-notdienst--24-fzb.at^$document
+||xn--kammerjger--24-cib.at^$document
+||xn--sanitr-notdienst--24-fzb.de^$document
 ||24h.oertlicher.at^$document
 ||heinz-24h.pro^$document
 ||bio-kammerjaeger.at^$document
@@ -9298,8 +9298,8 @@
 ||kammerjäger.schnell24-7.com^$document
 ||schnell24-7.com^$document
 ||meisteruebersiedlung.at^$document
-||ab-sanitär24h-hilfe.at^$document
-||ab-sanitär24h-hilfe.de^$document
+||xn--ab-sanitr24h-hilfe-stb.at^$document
+||xn--ab-sanitr24h-hilfe-stb.de^$document
 ||installateur-24h.pro^$document
 ||fritz-rohrreinigung.de^$document
 ||rolladenreparatur.at^$document
@@ -9310,10 +9310,10 @@
 ||klempner-notdienst.net^$document
 ||entruempelung-gruber.info^$document
 ||schluesseldienst-hilfe.at^$document
-||sanitär-fritz.de^$document
+||xn--sanitr-fritz-kcb.de^$document
 ||grazerraeumung.at^$document
-||sanitär24-h.at^$document
-||sanitär24-service.at^$document
+||xn--sanitr24-h-u5a.at^$document
+||xn--sanitr24-service-znb.at^$document
 ||aufsperrdienst-365.at^$document
 ||schmidt-24.at^$document
 ||elektro.spezialist24std.at^$document
