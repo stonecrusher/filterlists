@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonecrusher/filterlists
 ! Title: web.de und gmx Turbo
 ! Expires: 7 days
-! Version: 20200922
+! Version: 20210618
 ! Redirect: https://raw.githubusercontent.com/stonecrusher/filterlists/master/gmx-webde-turbo.txt
 !
 ! Autor: Stonecrusher
@@ -51,7 +51,7 @@
 ||cloudfront.net$domain=gmx.net|web.de
 ||s.uicdn.com/*/promotion/
 ||js.ui-portal.de/*/piNctTracking.js|
-||s.uicdn.com/*/tracklib/*$script
+!||s.uicdn.com/*/tracklib/*$script
 ||img.ui-portal.de/homepage/fonts/
 @@||img.ui-portal.de/homepage/img/*/icons/mainnav*/weather*.svg|
 @@||img.ui-portal.de/homepage/img/*/icons/mainnav*/wetter*.svg|
